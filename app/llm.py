@@ -1,87 +1,90 @@
 import os
+import re
+import time
 from google import genai
 from google.genai import types
-from pydantic import TypeAdapter
 from dotenv import load_dotenv
 
 load_dotenv()
 
-MODEL = "gemini-2.0-flash"
+MODEL          = "gemma-4-31b-it"
+GOOGLE_API_KEY = os.getenv("GEMINI_API_KEY")
+FALLBACK_MSG   = "Sistem sedang mengalami gangguan, silakan coba beberapa saat lagi."
 
-# TODO: Ambil API key dari file .env
-# Gunakan os.getenv("NAMA_ENV_VARIABLE") untuk mengambil API Key dari file .env.
-# Pastikan di file .env terdapat baris: GEMINI_API_KEY=your_api_key
-GOOGLE_API_KEY = ...
+# Prompt dibuat santai dan langsung to the point
+system_instruction_preserve = """
+You are a highly knowledgeable, confident, and expert multilingual assistant (Indonesian, English, Arabic).
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-CHAT_HISTORY_FILE = os.path.join(BASE_DIR, "chat_history.json")
+STRICT LENGTH & STYLE RULES:
+1. Reply ULTRA SHORT and CONCISE (Maximum 1-2 sentences, or just a short phrase).
+2. Keep it extremely brief, snappy, and direct.
+3. Act highly confident and knowledgeable, like you completely master the topic ("know the ball").
 
-# Prompt sistem yang digunakan untuk membimbing gaya respons LLM
-system_instruction = """
-You are a responsive, intelligent, and fluent virtual assistant who communicates in Indonesian.
-Your task is to provide clear, concise, and informative answers in response to user queries or statements spoken through voice.
+STRICT LANGUAGE & TAGGING RULES:
+1. Preserve the user's code-switching pattern (mixing Indonesian, English, and Arabic).
+2. Wrap English text inside <en></en> tags.
+3. Wrap Arabic text inside <ar></ar> tags.
+4. ARABIC SCRIPT IS STRICTLY FORBIDDEN: Never use actual Arabic characters (e.g., DO NOT write 'رحلة سعيدة'). You MUST use ONLY the Latin/transliterated reading of the Arabic words (e.g., <ar>riḥlah sa‘īdah</ar>).
+5. NO PARANTHESES OR TRANSLATIONS: Do NOT add translations, explanations, or duplicates in brackets/parentheses. Just output the tagged text directly.
 
-Your answers must:
-- Be written in polite and easily understandable Indonesian.
-- Be short and to the point (maximum 2–3 sentences).
-- Avoid repeating the user's question; respond directly with the answer.
+PUNCTUATION RULE:
+Use simple and clean reading punctuation like commas (,) and periods (.) to make the text scannable and easy to read.
 
-Example tone:
-User: Cuaca hari ini gimana?
-Assistant: Hari ini cuacanya cerah di sebagian besar wilayah, dengan suhu sekitar 30 derajat.
-
-User: Kamu tahu siapa presiden Indonesia?
-Assistant: Presiden Indonesia saat ini adalah Joko Widodo.
-
-If you're unsure about an answer, be honest and say that you don't know.
+TARGET FORMAT EXAMPLE (Follow this exact brevity):
+Bisa <en>I can help you find flight</en> <ar>riḥlah sa‘īdah</ar>, kasih tau tanggalnya.
 """
 
-# TODO: Inisialisasi klien Gemini dan konfigurasi prompt
-# Gunakan genai.Client(api_key=...) untuk membuat klien.
-# Gunakan types.GenerateContentConfig(system_instruction=...) untuk membuat konfigurasi awal.
-# Jika ingin melihat contoh implementasi, baca dokumentasi resmi Gemini:
-# https://github.com/google-gemini/cookbook/blob/main/quickstarts/Get_started.ipynb
-client = ...
-chat_config = ...
-history_adapter = TypeAdapter(list[types.Content])
+system_instruction_normalize = """
+You are a highly knowledgeable, confident, and expert Indonesian-only assistant.
 
-# Fungsi untuk menyimpan/memuat riwayat chat
-def export_chat_history(chat) -> str:
-    return history_adapter.dump_json(chat.get_history()).decode("utf-8")
+STRICT LENGTH & STYLE RULES:
+1. Reply ULTRA SHORT and CONCISE (Maximum 1-2 sentences, or just a short phrase).
+2. Keep it extremely brief, snappy, and direct.
+3. Act highly confident and knowledgeable, like you completely master the topic ("know the ball").
 
-def save_chat_history(chat):
-    json_history = export_chat_history(chat)
-    with open(CHAT_HISTORY_FILE, "w", encoding="utf-8") as f:
-        f.write(json_history)
+STRICT TRANSLATION RULES:
+1. Translate ALL English and Arabic words (including transliterated terms like 'riḥlah sa‘īdah') into pure, natural Indonesian.
+2. Absolutely NO English or Arabic tags/words allowed in the final response text.
 
-def load_chat_history():
-    if not os.path.exists(CHAT_HISTORY_FILE):
-        return client.chats.create(model=MODEL, config=chat_config)
-    
-    if os.path.getsize(CHAT_HISTORY_FILE) == 0:
-        return client.chats.create(model=MODEL, config=chat_config)
+PUNCTUATION RULE:
+Use simple and clean reading punctuation like commas (,) and periods (.) to make the text scannable and easy to read.
+"""
 
-    with open(CHAT_HISTORY_FILE, "r", encoding="utf-8") as f:
-        json_str = f.read().strip()
+client = genai.Client(api_key=GOOGLE_API_KEY)
 
-    if not json_str:
-        return client.chats.create(model=MODEL, config=chat_config)
+def generate_response(prompt: str, mode: str = "normalize") -> str:
+    """Menghasilkan langsung teks jawaban dari Gemini (Plain Text)."""
+    instruction = system_instruction_preserve if mode == "preserve" else system_instruction_normalize
+    config = types.GenerateContentConfig(
+        system_instruction=instruction
+    )
 
-    try:
-        history = history_adapter.validate_json(json_str)
-        return client.chats.create(model=MODEL, config=chat_config, history=history)
-    except Exception as e:
-        print(f"[ERROR] Gagal load history chat: {e}")
-        return client.chats.create(model=MODEL, config=chat_config)
+    max_retries = 5
+    for attempt in range(1, max_retries + 1):
+        try:
+            print(f"  [LLM] Attempt {attempt}/{max_retries}...")
+            response = client.models.generate_content(
+                model=MODEL, contents=prompt, config=config
+            )
 
-# Inisialisasi sesi chat saat aplikasi dimulai
-chat = load_chat_history()
+            # Langsung ambil teks murni dari Gemini
+            result = response.text.strip()
+            
+            time.sleep(4.5)
+            return result
 
-# Kirim prompt ke LLM dan kembalikan respons teks
-def generate_response(prompt: str) -> str:
-    try:
-        response = chat.send_message(prompt)
-        save_chat_history(chat)
-        return response.text.strip()
-    except Exception as e:
-        return f"[ERROR] {str(e)}"
+        except Exception as e:
+            err_str = str(e).lower()
+            print(f"  [ERROR attempt {attempt}] {e}")
+
+            if "429" in err_str or "quota" in err_str or "rate" in err_str:
+                match = re.search(r"retry in ([\d\.]+)s", err_str)
+                wait  = float(match.group(1)) + 2.0 if match else 15 * attempt
+                print(f"  [RATE LIMIT] Tunggu {wait:.0f}s...")
+                time.sleep(wait)
+            elif attempt < max_retries:
+                time.sleep(3)
+            else:
+                return FALLBACK_MSG
+
+    return FALLBACK_MSG

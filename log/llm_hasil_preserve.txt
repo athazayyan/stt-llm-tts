@@ -1,0 +1,2244 @@
+2128_audio01
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: <en>I'll handle your booking</en> <ar>bi idhnillāh</ar>, kirim tanggal pastinya.
+
+2128_audio02
+USER: Aku butuh travel umrah simple, tapi inklu Madina efficient.
+RESPONSE: Ambil <en>express package</en> <ar>ziyārah</ar> efisien, pilih hotel <en>walking distance</en>.
+
+2128_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madina tomorrow?
+RESPONSE: Bisa, <en>best option is Haramain High Speed Railway</en>, <ar>safaran sa‘īdan</ar>.
+
+2128_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka portal <en>KSA visa</en>, <en>fill out the application</en>, bayar <en>visa fee</en>, dan tunggu <ar>at-ta’shīrah</ar> terbit.
+
+2128_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Uzbo al-Kadim hal bisa bantu Ajida Afdal schedule wari hatan Mubashiroh.
+RESPONSE: Bisa, <ar>bi kulli surūr</ar>, <en>I'll find the best direct flights</en>, kasih tau tanggalnya.
+
+2128_audio06
+USER: Uridu orange transport min Jeddah ila Madinah ghadan.
+RESPONSE: Siap, <en>I'll handle your transport</en> <ar>min Jiddah ilā al-Madīnah</ar> <en>tomorrow</en>, <ar>tamām</ar>.
+
+2128_audio12
+USER: Bagaimana proses pisah Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Sekarang tinggal apply <en>e-visa</en> atau <en>tourist visa</en> biar <ar>tas-hīl</ar> dan <en>fast track</en>.
+
+2128_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Pilih <en>travel app</en>, input <en>destination Jeddah</en>, bayar, <ar>safaran sa‘īdan</ar>.
+
+2128_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar.
+RESPONSE: Siapkan <en>passport valid 6 months</en>, <en>visa application</en>, dan <en>meningitis vaccine</en> biar <ar>safar mubārak</ar>.
+
+2128_audio16
+USER: Uget aku cara pilih hotel di Makkah dekat Haram dengan bacet terbatas.
+RESPONSE: Pilih <en>budget hotel</en> area Misafah dengan <en>free shuttle</en> ke <ar>al-ḥaram</ar>.
+
+2222_audio1
+USER: Aku mahu book flight ke Jeddah minggu depan bisa bantu schedule.
+RESPONSE: Bisa <en>I'll arrange your flight</en> <ar>safaran sa‘īdan</ar>, share tanggal pastinya.
+
+2222_audio10
+USER: Apa perbedaan umrah dan hajj secara detail dalam Islam?
+RESPONSE: Hajj itu <en>mandatory pillar</en> <ar>rukun al-islām</ar> dengan waktu khusus, sementara Umrah <en>optional</en> <ar>sunnah</ar> bisa kapan saja.
+
+2222_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Pakai <en>e-Visa</en> atau <en>Tourist Visa</en> biar <ar>umrah</ar> <en>fast track</en>, apply via <en>Nusuk app</en>.
+
+2222_audio14
+USER: Hal tep prepare dokumen umrah dari Indonesia dengan benar.
+RESPONSE: Pastikan <en>passport</en> aktif, <en>visa</en> ready, dan vaksin meningitis lengkap <ar>bi-idhnillāh</ar>.
+
+2222_audio2
+USER: Aku butuh travel umrah simple, tapi include Madinah visit.
+RESPONSE: Ambil paket basic <en>all-in</en>, sudah <en>include</en> <ar>ziyārah</ar> Madinah, <en>guaranteed</en>.
+
+2222_audio3
+USER: Can you help aku arrange transport dari Jeddah ke Madinaah tomorrung?
+RESPONSE: <en>I got you</en>, mending <en>Haramain High Speed Railway</en> <ar>asra‘</ar> dan <en>comfortable</en>.
+
+2222_audio4
+USER: Explain step by step cara apply visa soldi dengan benar.
+RESPONSE: Siapkan <en>required documents</en>, <en>apply online</en> via portal resmi, <ar>idfa' ar-rusum</ar>, then wait for approval.
+
+2222_audio5
+USER: Ya akhi, uridu book flight ila Jeddah arah sebuah al-kadim hal bisa bantu ajudah Aftal schedule warih halatan Mubashirah.
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>al-ān</ar>, kasih tahu <en>departure city</en> nya.
+
+2222_audio6
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan
+RESPONSE: <en>I'll arrange it</en> <ar>abshir</ar>, <en>just send me the pick-up time</en>.
+
+2222_audio7
+USER: Book flight ke Jeddah lalu lanjut ke Madina, schedule terbaik kapan.
+RESPONSE: Pilih <en>early morning flight</en> ke Jeddah, lalu sambung <ar>al-ḥaramayn</ar> train ke Madinah.
+
+2301_audio1
+USER: Aku mau book flight ke Jeddah minggu depan bisa bantu schedule.
+RESPONSE: Bisa, <en>I'll handle the best schedule</en> <ar>safaran sa‘īdan</ar>, kasih tahu tanggal tepatnya.
+
+2301_audio11
+USER: Kenapa fasting di Ramadan itu wajib bagi muslim?
+RESPONSE: Ini <en>divine command</en> untuk mencapai <ar>taqwā</ar>, agar muslim lebih disiplin.
+
+2301_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Pakai <en>E-visa or Nuusuk app</en> biar <ar>tasīlah jiddan</ar>, prosesnya <en>instant approval</en>.
+
+2301_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar.
+RESPONSE: Siapkan <en>valid passport, visa, and meningitis vaccine</en> agar <ar>safaru salāmah</ar>.
+
+2301_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: Fokus <en>essential checklist</en>: Passport, Visa, <ar>malābis iḥrām</ar>, <en>medications</en>, dan <ar>sajādah</ar>. Pastikan <en>ready</en> demi <ar>ibādah</ar> lancar.
+
+2301_audio2
+USER: Aku butuh travel umrah simpel tapi inklud Madinah visit.
+RESPONSE: Pilih <en>budget package</en> yang <en>all-inclusive</en> biar <ar>ziyārah</ar> Madinah tetap aman.
+
+2301_audio3
+USER: Can you help aku arrange transport dari Jeddah ke Madinah Tomorrow?
+RESPONSE: <en>I can handle that</en>, <en>book the Haramain High Speed Railway</en> <ar>bi-idhnillah</ar> biar cepat.
+
+2301_audio4
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>official portal</en>, <en>upload documents</en>, bayar, and <ar>tashīrah</ar> <en>issued</en>.
+
+2301_audio5
+USER: Ya akhi, uridu book flight ila Jeddah lalu sebuah al-kadim. Hal bisa bantu aji daftar schedule barih lehetan Mubashiroh.
+RESPONSE: Bisa, <en>I'll find the direct flights for you</en>, <ar>tafaḍḍal</ar> kasih tahu kota asal dan tanggalnya.
+
+2301_audio6
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: Siap, <en>I'll arrange the transport</en> <ar>ghadan</ar>, mau <ar>qitār</ar> atau taksi?
+
+2302_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule.
+RESPONSE: <en>I'll arrange your booking</en> <ar>bi-idhnillāh</ar>, kirim detail tanggalnya.
+
+2302_audio02
+USER: Aku butuh transport umrah simpal tapi inkled Madinah visit.
+RESPONSE: Ambil <en>private transport package</en> biar <en>seamless</en> pas <ar>ziyārah madīnah</ar>.
+
+2302_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorow?
+RESPONSE: Bisa, <en>take the Haramain High Speed Railway</en> <ar>qiṭār al-ḥaramayn</ar>, paling efisien.
+
+2302_audio04
+USER: Expand step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>KSA Visa portal</en>, <en>upload documents</en>, bayar, then get <ar>ta’shīrah</ar> <en>approved</en>.
+
+2302_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Ushbu al-Hadim hal bitha bantu ajidaf dalam schedule warih latan mubasi roh.
+RESPONSE: <en>Sure, I'll handle your flight</en> <ar>ilā Jiddah</ar>, kirim tanggal dan jamnya.
+
+2302_audio06
+USER: Uridu arrange transport minjida ila Madinah ghadan.
+RESPONSE: Bisa, <en>I'll handle your transport</en> <ar>ila al-Madīnah</ar>, kasih tau jamnya.
+
+2302_audio11
+USER: Kenapa fasting di rambadan itu wajib pagi muslim?
+RESPONSE: <en>It is a fundamental pillar</en> untuk mencapai <ar>taqwa</ar> sesuai perintah Allah.
+
+2302_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar
+RESPONSE: Siapkan <en>valid passport</en>, <en>Umrah visa</en>, dan sertifikat vaksin meningitis <ar>li-tashīl</ar> <en>everything</en>.
+
+2302_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: <en>Passport, visa, medication, and Ihram clothing</en> wajib siap biar <ar>ibādah</ar> lancar dan <ar>mabrūr</ar>.
+
+2302_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah ga untuk pemula.
+RESPONSE: Gak susah, <en>it's all about the method</en> dan <ar>istiqāmah</ar>.
+
+2303_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, misalnya bantu schedule.
+RESPONSE: <en>I'll fix your schedule</en> <ar>bi'idhnillāh</ar>, kirim detail tanggalnya.
+
+2303_audio02
+USER: Aku butuh travel umrah simple tapi include Madinah visit.
+RESPONSE: Pilih paket <en>essential</en> yang <en>all-in</en> <ar>ziyārah</ar> Madinah, <en>fast and easy</en>.
+
+2303_audio03
+USER: Can you help me arrange transport dari Jeddah ke Madinah tomorow?
+RESPONSE: Bisa <en>I've got you covered</en>, bisa pakai Haramain train, <ar>bi-idhnillāh</ar> lancar.
+
+2303_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>KSA Visa portal</en>, <en>upload passport and photo</en>, bayar, <ar>tamām</ar>, <en>e-visa</en> langsung terbit.
+
+2303_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al usbu al kadim hal bisa bantu ajida off-doll schedule warih latan mubashira.
+RESPONSE: <ar>Na‘am</ar>, <en>I can handle that</en>. Kasih tau <en>departure city</en> dan tanggalnya <ar>al-ān</ar>.
+
+2303_audio06
+USER: Uridu Orange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>I'll secure your Orange transport</en> <ar>min Jeddah ila Madinah ghadan</ar>, <en>consider it settled</en>.
+
+2303_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah. Schedule terbaik kapan?
+RESPONSE: Pilih <en>shoulder season</en> agar cuaca lebih adem, <ar>bi-idhnillāh</ar> perjalanan lebih nyaman.
+
+2303_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Buka <en>travel app</en>, pilih Jeddah, <en>complete the payment</en> <ar>safaran sa‘īdan</ar>.
+
+2303_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: Siapkan <en>passport, visa, and medicines</en>, wajib bawa <ar>iḥrām</ar> dan <en>comfortable shoes</en> buat <ar>ṭawāf wa sa‘ī</ar>.
+
+2303_audio19
+USER: Ahianan saya bingung mulai dari mana untuk umrah.
+RESPONSE: <en>Start by preparing your passport and budget</en>, lalu cari <ar>wakalāh</ar> resmi agar <ar>mabrūr</ar>.
+
+2304_audio01
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: Bisa, <en>I can handle the scheduling</en> <ar>bi-idhnillāh</ar>, kirim detail tanggalnya.
+
+2304_audio02
+USER: Aku butuh travel umrah simple, tapi inklud Madinah visit.
+RESPONSE: Bisa, <en>take the basic package</en> with <ar>ziyārah</ar> Madinah <en>included</en>.
+
+2304_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+RESPONSE: Bisa, <en>I suggest taking the Haramain High Speed Railway</en> <ar>bi-idhnillāh</ar>, paling cepat.
+
+2304_audio04
+USER: Explain step by step cara apply visa saudi dengan benar.
+RESPONSE: Buka <en>KSA Visa portal</en>, <en>create account</en>, <en>upload documents</en>, dan <en>pay the fee</en>. <ar>tamām</ar>, <en>done</en>.
+
+2304_audio05
+USER: Ya akhi, uridu book flight ila Jeddah lalu sebuah al-Qadim, hal bisa bantu ajada of the schedule warih latan mubashiroh.
+RESPONSE: <ar>Tafaddaḥal</ar>, <en>give me the date and I'll find the best direct flight</en> <ar>fawran</ar>.
+
+2304_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: Bisa, <en>I'll book the Haramain High Speed Railway</en> or <en>private car</en> for <ar>riḥlatuka ghadan</ar>.
+
+2304_audio07
+USER: Book flight ke Jeddah lanjut ke Madinah, schedule terbaik kapan.
+RESPONSE: <en>Book flight to Jeddah</en> lalu <en>high-speed train</en> ke <ar>madīnah al-munawwarah</ar>, <en>off-peak season is best</en> biar <ar>mubārak</ar>.
+
+2304_audio11
+USER: Kenapa fasting di romadun itu wajib bagi muslim?
+RESPONSE: <en>It is a fundamental pillar of Islam</en> sesuai perintah <ar>allāh</ar> untuk mencapai <ar>taqwā</ar>.
+
+2304_audio15
+USER: Tolong buat checklist persiapan umrah, termasuk barang ngwajib di bawah.
+RESPONSE: Siapkan <en>travel documents, ihram, and personal medication</en> agar <ar>ibādah</ar> lancar dan <ar>mabrūr</ar>.
+
+2304_audio18
+USER: I feel overwhelmed dengan persiapan umrah. Ada tips sederhana?
+RESPONSE: Buat checklist <en>and focus on your intention</en> <ar>niyyah</ar>, lalu <ar>tawakkul</ar> saja.
+
+2305_audio01
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule.
+RESPONSE: <en>I've got you covered</en>, <ar>tafaddaḷ</ar> kirim detail tanggalnya.
+
+2305_audio02
+USER: Aku butuh travel umrah simple, tapi inklud Madinah visit.
+RESPONSE: Pilih <en>custom package</en> biar <en>simple</en>, pastikan <ar>ziyārah</ar> Madinah <en>included</en>.
+
+2305_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorow?
+RESPONSE: Bisa, <en>I'll suggest Haramain High Speed Railway</en> biar <ar>sahl</ar> dan cepat.
+
+2305_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka portal e-visa, <en>upload documents and pay fee</en>, <ar>tamm</ar> tinggal tunggu approval.
+
+2305_audio05
+USER: Ya akhi, uridu book flight ila Jeddah alus bual kodim. Hal bisa bantu Ajida Aftol schedule warih latan Mubashirah?
+RESPONSE: Bisa <en>I can find the best direct flight</en> <ar>li-Jiddah</ar>, share tanggalnya.
+
+2305_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <ar>Mumkin</ar>, <en>I'll arrange the transport</en> <ar>bi-sur‘ah</ar>, <en>just send the departure time</en>.
+
+2305_audio11
+USER: Kenapa fasting di romantan itu wajib bagi muslim?
+RESPONSE: Wajib karena <en>it's a pillar of Islam</en> untuk mencapai <ar>taqwa</ar> sesuai perintah <ar>Allāh</ar>.
+
+2305_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang.
+RESPONSE: Cukup apply <en>e-Visa</en> atau <en>Tourist Visa</en> untuk <ar>ta'shirah</ar>, prosesnya sudah <en>fast track</en>.
+
+2305_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar?
+RESPONSE: Siapkan paspor <en>valid for 6 months</en>, <en>visa</en>, dan sertifikat <ar>ash-shiḥḥah</ar> biar <en>all set</en>.
+
+2305_audio18
+USER: I feel overwhelmed dengan persiapan umrah, ada tip sederhana.
+RESPONSE: <en>Stay focused</en>, cukup siapkan <en>basic needs</en> and <ar>tawakkul</ar> penuh, pasti lancar.
+
+2306_Audio01
+USER: Aku mau book flight di Jeddah minggu depan bisa bantu schedule?
+RESPONSE: Bisa, <en>I'll fix your flight schedule</en> <ar>bi-idhnillāh</ar>, kirim detailnya.
+
+2306_Audio02
+USER: Aku butuh travel umrah simpel tapi inklud Madinah visit.
+RESPONSE: Pilih <en>all-in package</en> biar <ar>sahla</ar>, <en>city tour</en> Madinah pasti include.
+
+2306_Audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorrw?
+RESPONSE: <en>Absolutely</en>, booking <en>Haramain High Speed Railway</en> sekarang <ar>fawran</ar> biar aman.
+
+2306_Audio04
+USER: Explain step by step cara apply visa saudi dengan benar.
+RESPONSE: Buka <en>KSA Visa portal</en>, upload dokumen, bayar <en>fee</en>, dan tunggu <ar>ta’shīrah</ar> terbit.
+
+2306_Audio05
+USER: Ya akhi, uridu book flight ila Jeddah al usbu al kadim. Hal misal bantu ajida afdal schedule warilatan mubasurah.
+RESPONSE: <en>I got you</en>, <ar>sa u‘āwinuka</ar> cari <en>the best direct flight</en> <ar>ila Jiddah</ar>, kasih tanggal pastinya.
+
+2306_Audio06
+USER: Uri du arrange transport minjid dah ila Madinah ghadan
+RESPONSE: <en>I'll handle the transport</en> <ar>min Jiddah ila Madinah</ar>, <en>just send the departure time</en>.
+
+2306_Audio11
+USER: Kenapa fasting di Ramadan itu wajib bergi muslim?
+RESPONSE: Itu perintah Allah <en>to attain piety</en> <ar>taqwā</ar> sesuai Al-Qur'an.
+
+2306_Audio12
+USER: Bagaimana proses visa selalu di untuk umrah dari Indonesia sekarang?
+RESPONSE: Sekarang sudah <en>fully digital via e-visa</en> lewat platform Nusuk, <ar>umrah mubarakah</ar>.
+
+2306_Audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Buka <en>travel app</en>, input <en>flight details</en>, bayar, then <ar>safaran sa‘īd</ar>.
+
+2306_Audio14
+USER: Hau untuk prepare dokumen umrah dari Indonesia dengan benar.
+RESPONSE: Siapkan <en>passport</en> aktif 6 bulan, <en>vaccination card</en>, dan <en>umrah visa</en> <ar>bi'idhnillāh</ar>.
+
+2306_Audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: Siapkan <en>passport, visa, ihram, and medication</en> <ar>li-l-umrah</ar>, pastikan <ar>niyyah</ar> sudah <en>perfect</en>.
+
+2307_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule?
+RESPONSE: Bisa <en>I'll arrange your schedule</en>, <ar>tafaḍḍal</ar> kasih tau tanggal pastinya.
+
+2307_audio02
+USER: Aku butuh travel umrah, simple, tapi include Madinah visit.
+RESPONSE: Pakai <en>simple all-in package</en> biar <en>hassle-free</en> sampai <ar>al-Madīnah al-Munawwarah</ar>.
+
+2307_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah, tumuruh.
+RESPONSE: Bisa <en>I'll arrange it</en> <ar>tammām</ar>, mau <en>Haramain train</en> atau taksi?
+
+2307_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>KSA Visa portal</en>, <en>upload documents</en>, bayar <en>visa fee</en>, then <ar>tamām</ar> <en>it's approved</en>.
+
+2307_audio05
+USER: Ya akhi, uridu book flight ila Jeddah lalu usbu al-qadim. Hal bisa bantu ajej Afdal schedule warih rotan mebashi rotan.
+RESPONSE: <ar>Na‘am ya akhī</ar>, <en>I can find the best direct flight</en> <ar>li-ma‘rifat al-jadwal</ar>, share kota keberangkatannya.
+
+2307_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>I'll handle your transport</en> <ar>min Jiddah ila Madinah</ar> <en>tomorrow</en>, <ar>tafaddal</ar> share the time.
+
+2307_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah schedule terbaik kapan.
+RESPONSE: <en>Go for October to December</en> biar <en>low season</en>, <ar>safaran sa‘īd</ar> pakai Haramain Train.
+
+2307_audio10
+USER: Apa perbedaan, umrah dan hajj secara detail dalam Islam?
+RESPONSE: Hajj <en>is a mandatory pillar</en> <ar>farḍ</ar> <en>with fixed dates</en>, sedangkan Umrah <en>is optional</en> <ar>sunnah</ar> <en>and flexible</en>.
+
+2307_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib dibawah.
+RESPONSE: Siapkan <en>passport, visa, toiletries, medicines</en>, dan <ar>iḥrām</ar> biar <ar>‘umrah maqbūlah</ar>.
+
+2307_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah gak untuk bermula.
+RESPONSE: Gak susah, <en>it's all about the method</en>, <ar>sahl jiddan</ar> kalau konsisten.
+
+2308_audio01
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: Bisa, <en>I'll handle the schedule</en> <ar>bi'idhnillah</ar>, kasih tau tanggal pastinya.
+
+2308_audio02
+USER: Aku butuh travel umrah simple, tapi inkut Madinah visit.
+RESPONSE: Ambil <en>custom package</en> biar <ar>ziyārah</ar> Madinah <en>fully covered</en>, simpel banget.
+
+2308_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+RESPONSE: Bisa, <en>I'll arrange the best option</en> <ar>tafaddal</ar>, mau kereta atau mobil?
+
+2308_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>visa.visitsaudi.com</en>, upload <en>passport and photo</en>, bayar <en>fee</en>, dan <ar>ta'shīrah</ar> langsung terbit.
+
+2308_audio05
+USER: Ya akhi, uridu book flight ila Jeddah alus bual kodim hal bisa bantu Ajida Afdol schedule warih latan Mubashiroh.
+RESPONSE: Bisa, <en>give me the dates</en> <ar>ya akhi</ar>, <en>I'll find the best direct flight</en> <ar>bi-sur‘ah</ar>.
+
+2308_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <ar>Tayyib</ar>, <en>I'll arrange that</en>. Mau <en>Haramain train</en> atau <ar>sayyarah</ar>?
+
+2308_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Pakai <en>e-Visa</en> lewat <en>Nusuk platform</en> biar <ar>yasīr</ar> dan praktis.
+
+2308_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Buka <en>travel app</en>, <en>input destination</en> Jeddah, <en>complete payment</en>, <ar>safaran sa‘īdan</ar>.
+
+2308_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: Bawa paspor, visa, <en>personal meds</en>, and <ar>malabis al-iḥrām</ar> biar <en>ready</en> buat <ar>umrah mabrūrah</ar>.
+
+2308_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula.
+RESPONSE: Nggak susah, <en>just need consistency</en>, <ar>bi-idhnillah</ar> pasti lancar.
+
+2309_audio01
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule.
+RESPONSE: Bisa, <en>I will find the best schedule</en> <ar>bi'idhnillāh</ar>, spill tanggal tepatnya.
+
+2309_audio02
+USER: Aku butuh travel umrah simpel, tapi inklud Madinah fisik.
+RESPONSE: Cari paket <en>backpacker Umrah</en> yang inklud <ar>ziyārah</ar> Madinah, <en>best value and efficient</en>.
+
+2309_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madina tomorrow?
+RESPONSE: <en>Sure</en>, <en>use the Haramain High Speed Railway</en> <ar>qatar al-ḥaramayn</ar> biar <en>fast and efficient</en>.
+
+2309_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: <en>Visit ksavisa.sa</en>, <en>upload requirements</en>, bayar fee, dan <en>get your eVisa</en>. <ar>tafadḍal</ar>.
+
+2309_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-usbu'a al-qadim, hal bisa bantu azida after schedule warih latam mubashirah?
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>al-’ān</ar>, <ar>abshir</ar>.
+
+2309_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: Bisa <en>book the Haramain train or taxi</en> <ar>tafaḍḍal</ar>, kasih tau jamnya.
+
+2309_audio08
+USER: Uridu schedule trip dari Jeddah ke Makkah besok pagi.
+RESPONSE: <ar>Hāḍir</ar>, <en>I'll arrange your trip</en> besok pagi.
+
+2309_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Pakai <en>e-Visa or Tourist Visa</en> via official portal, <ar>sahl jiddan</ar> dan cepat.
+
+2309_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: Siapkan <en>passport, visa, and vaccine</en>, pakaian <ar>iḥrām</ar>, <en>personal medication</en>, serta <ar>niyyah</ar> yang kuat.
+
+2309_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula.
+RESPONSE: Gak susah, <en>it's just a logic game</en>, <ar>sahlan jiddan</ar>.
+
+2310_Audio01
+USER: Aku mahu book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: <en>Sure, I'll handle the schedule</en> <ar>inshā Allāh</ar>, sebutkan tanggal pastinya.
+
+2310_Audio02
+USER: Aku butuh travel umrah simple, tapi inklud Madinah visit.
+RESPONSE: Cari <en>compact package</en> yang <en>all-in</en> <ar>ziyārah al-madīnah</ar>, pasti praktis.
+
+2310_Audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madina tomorrow?
+RESPONSE: Bisa, <en>book Haramain Train</en> <ar>asra‘ wa ahsan</ar>, <en>most efficient option</en>.
+
+2310_Audio04
+USER: Explain step by step cara apply visa ASAUDI dengan benar.
+RESPONSE: Akses <en>official portal</en>, upload berkas, bayar fee, <en>done</en>. <ar>Tashīrah</ar> <en>will be issued</en> cepat.
+
+2310_Audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbu al-Qadim hal bisa bantu Ajida Afdal schedule warih latan Mubashiroh.
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>li-riḥlatak</ar>, sebutkan tanggal pastinya.
+
+2310_Audio06
+USER: Uridu arrange transport min Jeddah ila Madina ghadan.
+RESPONSE: Siap, <en>I can arrange the ride</en> <ar>min Jeddah ila Madinah ghadan</ar>, kirim <en>pickup details</en>-nya.
+
+2310_Audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah, schedule terbaik kapan?
+RESPONSE: Pilih <en>off-peak season</en> <ar>bi'idhnillāh</ar> lebih lancar, pakai <en>Haramain High Speed Railway</en> biar <ar>safar sa‘īd</ar>.
+
+2310_Audio11
+USER: Kenapa fasting di ramadan itu wajib bagi muslim?
+RESPONSE: Karena <en>it's a divine command</en> untuk melatih disiplin dan mencapai <ar>taqwa</ar>.
+
+2310_Audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar.
+RESPONSE: Siapkan <en>valid passport</en>, <en>Umrah visa</en>, buku vaksin meningitis, dan <ar>tasrīḥ</ar> <en>ready</en>.
+
+2310_Audio20
+USER: I want to go to Makkah next week.
+RESPONSE: Bisa, <en>I can handle your travel plan</en> <ar>ilā Makkah</ar>, <ar>riḥlah sa‘īdah</ar>.
+
+2311_audio01
+USER: Aku mau book flight ke juta minggu depan, bisa bantu schedule?
+RESPONSE: Bisa, <en>I'll handle the schedule</en> <ar>bi-idhnillāh</ar>, kasih tau detail tanggalnya.
+
+2311_audio02
+USER: Aku butuh travel umrah simpel, tapi inklud Madinah visit.
+RESPONSE: Pilih <en>compact package</en> biar <ar>ziyārah</ar> Madinah <en>covered</en>, <ar>umrah maqbūlah</ar>.
+
+2311_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinahtamuru?
+RESPONSE: <en>Easy</en>, pake <ar>qaṭār al-ḥaramayn</ar> <en>for the fastest route</en>.
+
+2311_audio04
+USER: Explain step by step cara aflay visa Saudi dengan benar.
+RESPONSE: Akses <en>KSA Visa portal</en>, upload <en>required documents</en>, bayar <en>fee</en>, <ar>tamām</ar> tinggal tunggu approval.
+
+2311_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al usbual kadim, hal bisa bantu ajada afdal schedule warih latar mu basirah?
+RESPONSE: Bisa <en>I'll find the cheapest flight</en> <ar>fawran</ar>, kirim tanggal pastinya.
+
+2311_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <ar>Mumkin</ar>, <en>I'll arrange your transport</en> <ar>ghadan</ar>, info jamnya ya.
+
+2311_audio09
+USER: Mungkin book transport min Makkah ila Madinah untuk besok.
+RESPONSE: Siap, <en>I'll book the transport</en> <ar>min Makkah ila Madinah</ar>, <en>send the pickup details</en>.
+
+2311_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Sekarang simpel, apply <en>e-visa</en> via <en>Nusuk platform</en> untuk <ar>ta’shīrah</ar> umrah.
+
+2311_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar
+RESPONSE: Pastikan <en>passport</en> valid 6 bulan, <en>Umrah Visa</en> via <en>Nusuk</en>, dan vaksin meningitis <ar>li-safar al-umrah</ar>.
+
+2311_audio17
+USER: Menurut kamu belajar bahasa Arab itu susah gak untuk pemula.
+RESPONSE: Nggak susah, <en>it's all about consistency</en> dan <ar>himmah ‘āliyah</ar>.
+
+2312_audio1
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: Bisa, <en>I can handle your flight schedule</en> <ar>inshā'Allāh</ar>, kirim tanggal pastinya.
+
+2312_audio11
+USER: Kenapa fasting di Ramadan itu wajib pagi muslim?
+RESPONSE: Perintah Allah untuk <en>spiritual purification</en> agar mencapai <ar>taqwā</ar>.
+
+2312_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: Siapkan <en>passport, visa, vaccine</en>, pakaian <ar>iḥrām</ar>, <en>essential meds</en>, dan <ar>niyyah</ar> <en>firm</en>.
+
+2312_audio19
+USER: Ahianan, saya bingung mulai dari mana untuk umrah.
+RESPONSE: Siapkan <en>passport and visa</en> dulu, lalu cari <en>trusted travel agent</en> <ar>bi idhnillah</ar> semua lancar.
+
+2312_audio2
+USER: Aku butuh travel umrah simple tapi inkut Madinah visit.
+RESPONSE: Pilih <en>all-in package</en> biar <en>hassle-free</en> saat <ar>ziyārah</ar> Madinah.
+
+2312_audio20
+USER: Translate ke English, aku mau pergi ke Makkah minggu depan.
+RESPONSE: Ini dia, <en>I want to go to Makkah next week</en> <ar>inshā Allāh</ar>.
+
+2312_audio3
+USER: Can you help aku arrange transport dari Jeddah ke Madinahtomoral?
+RESPONSE: Bisa, <en>use the Haramain High Speed Railway for the fastest trip</en>, <ar>safaran sa‘īdan</ar>.
+
+2312_audio4
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>official e-visa portal</en>, upload documents, bayar fee, and wait <ar>bi-idhnillāh</ar>.
+
+2312_audio5
+USER: Ya akhi, uridu book flight ila Jeddah lalu sebuah loka dim, hal bisa bantu Ajida Abdal schedule warih latan mubashirah.
+RESPONSE: <ar>Na‘am</ar>, <en>I can find the direct flight schedule</en> <ar>li-Jiddah</ar>, kasih tau tanggalnya.
+
+2312_audio6
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: Siap, <en>I'll arrange the best transport</en> <ar>fawran</ar>, mau <en>high-speed train</en> atau mobil?
+
+2312_audio7
+USER: Book flight ke Jeddah lalu lanjut ke Madinah schedule terbaik kapan?
+RESPONSE: Ambil <en>early morning flight</en> ke Jeddah, lanjut <en>Haramain High Speed Railway</en> <ar>ilā al-Madīnah</ar> biar <en>time-efficient</en>.
+
+2313_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule.
+RESPONSE: Bisa, <en>I'll handle the schedule</en>, <ar>ahlan wa sahlan</ar> di Jeddah. Kasih tau tanggal pastinya.
+
+2313_audio02
+USER: Aku butuh travel umrah simple, tapi include Madinah visit.
+RESPONSE: <en>I can handle that</en>, cari paket <en>basic</en> yang <en>include</en> <ar>ziyārah</ar> Madinah, <ar>umrah maqbūlah</ar>.
+
+2313_audio03
+USER: Can you help aku range transport dari Jeddah ke Madina tomorrow?
+RESPONSE: Pilih <en>Haramain Train</en> <ar>qitār</ar> buat <en>fast travel</en>, atau SAPTCO bus <ar>ḥāfilah</ar> biar <en>cheaper</en>.
+
+2313_audio04
+USER: Explain step by step cara play visa Saudi dengan benar.
+RESPONSE: Akses <en>KSA Visa portal</en>, upload dokumen, bayar fee, <ar>tamām</ar> visa <en>ready</en>.
+
+2313_audio05
+USER: Akhi, uridu book flight ila Jeddah al-Uzbu al-Kadim hal bisa bantu Ajidah Afdal schedule warilatan Mubashirah.
+RESPONSE: Bisa <en>I'll find the best direct flight</en> <ar>bi'idhnillāh</ar>, kasih tau tanggal pastinya.
+
+2313_audio06
+USER: Uridu range transport minjad dah ila Madinah ghadan.
+RESPONSE: Bisa <en>I'll arrange the transport</en> <ar>ilā Madīnah</ar> <ar>ghadan</ar>, spill <en>your current location</en>.
+
+2313_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah. Schedul terbaik kapan?
+RESPONSE: <en>Best schedule is November to February</en> <ar>ash-shita</ar>, lanjut Madinah via <ar>qitār al-ḥaramayn</ar>.
+
+2313_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Pakai <en>e-Visa</en> atau <en>Tourist Visa</en> sekarang paling <en>fast track</en> buat urus <ar>ta’shīrah</ar>.
+
+2313_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Pakai <en>flight aggregator</en> buat <en>compare prices</en>, input data, <en>complete payment</en>, <ar>safaran sa‘īd</ar>.
+
+2313_audio14
+USER: How to prefer dokumen umrah dari Indonesia dengan benar.
+RESPONSE: Siapkan <en>valid passport, Umrah visa, and Meningitis vaccine</en> agar <ar>safaran mubārak</ar>, cek <en>expiry dates</en> teliti.
+
+2318_audio01
+USER: Aku mau book flight ke Jeddah minggu depan bisa bantu schedule.
+RESPONSE: Bisa, <en>I'll handle your flight schedule</en> <ar>inshā’allāh</ar>, kirim detail tanggalnya.
+
+2318_audio02
+USER: Aku butuh travel umrah simpel tapi include Madinah visit.
+RESPONSE: Ambil <en>standard package</en> yang <en>include Madinah</en>, <ar>insyā’ Allāh</ar> semua beres.
+
+2318_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinahtumuru?
+RESPONSE: Bisa, <en>book the Haramain High Speed Railway</en> for <en>maximum efficiency</en>, <ar>riḥlah mubārakah</ar>.
+
+2318_audio04
+USER: Explain step by step cara apply pisah Saudi dengan benar.
+RESPONSE: Login Absher, <en>access services</en>, pilih <ar>khidmāt</ar> pisah Saudi, then <en>submit application</en>.
+
+2318_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbu al-Kalin hal bisa bantu Ajida Afdal schedule waril fatan Mubashirah.
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>ilā Jiddah</ar>, kasih tau <ar>at-tārīkh</ar> and departure city.
+
+2318_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>I've got you covered</en>, <ar>tafadaal</ar> kirim detail jam keberangkatan.
+
+2318_audio09
+USER: Mungkin Book Transport Min Makkah ila Madinah untuk besok.
+RESPONSE: Siap, <en>I can book it</en> <ar>min Makkah ila Madinah</ar> <en>for tomorrow</en>.
+
+2318_audio10
+USER: Apa perbedaan umrah dan hajj secara detail dalam islam?
+RESPONSE: Hajj <en>mandatory pillar</en> ada <ar>wuqūf</ar>, sedangkan Umrah <en>voluntary</en> dan <ar>bi-lā waqtin muḥaddad</ar>.
+
+2318_audio13
+USER: Jelaskan step by step cara boking flight ke Jeddah secara online.
+RESPONSE: Buka <en>travel app</en>, pilih <en>flight to Jeddah</en>, isi data, lalu <en>payment</en>. <ar>safaran sa‘īdah</ar>.
+
+2318_audio19
+USER: Akhianan saya bingung mulai dari mana untuk umrah.
+RESPONSE: Siapkan paspor <en>and a trusted travel agency</en>, lalu mantapkan <ar>niyyah</ar>.
+
+2319_Audio1
+USER: Aku mau buku selai ke Jeddah minggu depan bisa bantu schedule.
+RESPONSE: Bisa, <en>I will handle your itinerary</en>, <ar>safaran sa‘īd</ar>, kirim tanggal detailnya.
+
+2319_Audio10
+USER: Apa perbedaan umrah dan hajj jara detail dalam Islam?
+RESPONSE: Hajj itu <en>mandatory</en> <ar>farḍ</ar> with <en>fixed timing</en> and Wukuf, sedangkan Umrah <en>optional</en> <ar>sunnah</ar> and <en>flexible</en>.
+
+2319_Audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Buka <en>travel app</en>, <en>pick your dates</en>, selesaikan <en>online payment</en>, dan <ar>safarah sa‘īdah</ar>.
+
+2319_Audio16
+USER: Gain aku cara pilih hotel di Makkah dekat Haram dengan budget terbatas.
+RESPONSE: Cari hotel area Misfalah atau Ajyad yang punya <en>shuttle service</en> ke <ar>al-ḥaram</ar>. <en>Book early</en> buat dapat <en>best price</en> di <ar>makkah al-mukarramah</ar>.
+
+2319_Audio19
+USER: Ah Yanan saya bingung mulai dari mana untuk umrah.
+RESPONSE: <en>First, prepare your passport</en> dan <ar>niyyah</ar> yang kuat, sisanya biar travel <ar>mu'tamir</ar> yang urus.
+
+2319_Audio2
+USER: Aku butuh travel umrah simple tapi include Madinah visit.
+RESPONSE: Pilih <en>economy package</en> yang <en>all-in</en>, pastikan <ar>ziyārah</ar> Madinah sudah masuk.
+
+2319_Audio3
+USER: Can you help aku arrange transport dari Jeddah ke Madinah teman-teman?
+RESPONSE: Bisa, <en>the best option is</en> Haramain High Speed Railway <ar>al-qaṭār al-sārī‘</ar>, <en>fast and easy</en>.
+
+2319_Audio4
+USER: Explain step by step cara play visa Saudi dengan benar.
+RESPONSE: Akses <en>KSA Visa portal</en>, <en>upload required documents</en>, bayar fee, and wait for <en>approval</en> <ar>bi idhnillāh</ar>.
+
+2319_Audio5
+USER: Ya akhi, uridu book flight ila Jeddah alus buang kadim, hal bisa bantu ajida afglas yadu wari letam mubashiroh.
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>bi-idhnillāh</ar>, kasih tau <en>departure city</en> dan tanggalnya.
+
+2319_Audio6
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>Done</en>, <ar>sa-unadhhimu laka</ar> <en>the Haramain High Speed Railway</en>, <en>fastest option</en>.
+
+2323_audio01
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: Bisa, <en>send me your departure city and exact date</en>, <ar>bi’idhnillāh</ar> langsung saya atur.
+
+2323_audio02
+USER: Aku butuh travel umrah simple, tapi include Madinah fisik.
+RESPONSE: Pilih <en>customized package</en> supaya <ar>ziyārah</ar> di Madinah tetap maksimal.
+
+2323_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorow?
+RESPONSE: <en>I got you</en>, pake Haramain High Speed Railway biar <ar>sari'</ar>.
+
+2323_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Akses <en>visa.visasaudi.com</en>, upload dokumen, bayar fee, and wait for <ar>at-ta'shīrah</ar> approval.
+
+2323_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al usbu al qadim hal bisha bantu aji da afdal schedule warih letan mubashirah.
+RESPONSE: <ar>Abshir</ar>, <en>I'll find the best direct flight</en>, <ar>a‘ṭinī</ar> tanggal tepatnya.
+
+2323_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <ar>Tafadhāl</ar>, <en>I'll fix the best transport</en> <ar>ghadan</ar>, kirim jam keberangkatannya.
+
+2323_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Buka <en>travel app</en>, pilih <ar>Jiddah</ar>, <en>complete payment</en>, dan ambil tiketnya. <ar>bi-tawfīq</ar>.
+
+2323_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar.
+RESPONSE: Siapkan <en>valid passport</en> minimal 6 bulan, <en>umrah visa</en>, dan <en>vaccination certificate</en> agar <ar>mabrūr</ar>.
+
+2323_audio15
+USER: Tolong buat checklist persiapan umrah termasuk bareng wajib di bawah.
+RESPONSE: Siapkan <en>passport, visa, medical kit</en> dan pakaian <ar>iḥrām</ar>. Pastikan paham <ar>manāsik</ar> agar <en>everything goes smoothly</en>.
+
+2323_audio16
+USER: Guide aku cara pilih hotel di Makkah dekat Haram dengan budget terbatas.
+RESPONSE: Cari hotel area Misafalah atau Ajyad dengan <en>shuttle bus</en> ke <ar>al-ḥaram</ar> biar <en>budget-friendly</en>. Cek <en>travel apps</en> untuk <en>best deals</en>.
+
+2323_audio18
+USER: I will overwhelm dengan persiapan umrah. Ada tips sederhana?
+RESPONSE: Tenang, <en>keep it simple</en>. Fokus ke dokumen dan kesehatan, <ar>tawakkal ‘alallāh</ar>.
+
+2325_audio1
+USER: Aku mau book flight ke Jeddah minggu depan bisa berdo schedule.
+RESPONSE: Bisa, <en>I'll check the schedule</en> <ar>fawran</ar>, kirim detail tanggalnya.
+
+2325_audio10
+USER: I feel overwhelmed dengan persiapan umrah. Ada tips sederhana.
+RESPONSE: <en>Just make a simple checklist</en>, fokus pada <ar>niyyah</ar> dan <ar>tawakkul</ar>.
+
+2325_audio2
+USER: Aku butuh travel umrah simple tapi include Madinah fizik.
+RESPONSE: Pilih <en>budget package</en> yang <ar>mubārak</ar>, pastikan <en>itinerary</en> include <ar>al-Madīnah</ar>.
+
+2325_audio3
+USER: Can you help aku arrange transport dari Jeddah ke Madina tomorrow?
+RESPONSE: Bisa banget, <en>I recommend Haramain High Speed Railway</en> biar <ar>asra‘</ar> dan nyaman.
+
+2325_audio4
+USER: Explain step by step cara apply visa saudi dengan benar.
+RESPONSE: Akses <en>KSA Visa portal</en>, upload <en>required documents</en>, bayar, lalu <ar>tashīrah</ar> kamu <en>will be issued</en>.
+
+2325_audio5
+USER: Ya akhi, uridu book flight ila Jeddah al-usbo al-qadim, hal bi sabantu ajida afdual schedule warikh letan mubashirah.
+RESPONSE: Siap <ar>ya akhi</ar>, <en>I'll get you the best direct flight</en> <ar>al-usbu' al-qadim</ar>, kirim kota asalnya.
+
+2325_audio6
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: Bisa, <en>book the Haramain High Speed Railway</en> <ar>al-ān</ar> for <ar>ghadan</ar>.
+
+2325_audio7
+USER: Book flight ke Jeddah lalu lanjut ke Madinah schedule terbaik apal.
+RESPONSE: Ambil <en>flight to Jeddah</en> pagi, lanjut <en>high-speed train</en> <ar>al-ḥaramayn</ar> biar <en>time-efficient</en>.
+
+2325_audio8
+USER: Apa perbedaan umrah dan hajj secara detail dalam Islam?
+RESPONSE: Hajj <en>is a mandatory pillar</en> <ar>farḍ</ar> with specific dates, sedangkan Umrah <en>is optional</en> <ar>sunnah</ar> and flexible.
+
+2325_audio9
+USER: How to prepare dokumen umrah dari Indonesia dengan benar.
+RESPONSE: Siapkan paspor <en>valid 6 months</en>, visa, and <en>vaccination certificate</en> biar <ar>umrah mabrūrah</ar>.
+
+2326_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu sky dulu?
+RESPONSE: Bisa, <en>I'll scan the best options</en> <ar>bi-idhnillāh</ar>, share tanggal pastinya.
+
+2326_audio02
+USER: Aku butuh travel umrah simpel tapi include Madinah visit.
+RESPONSE: Pilih <en>all-in package</en> biar <ar>maysūr</ar>, pasti include <ar>ziyārah</ar> <ar>al-madīnah</ar>.
+
+2326_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+RESPONSE: <en>Sure, I can handle that</en>, pake Haramain Train <ar>asra‘</ar>, <ar>tafaḍḍal</ar> kasih tau jamnya.
+
+2326_audio04
+USER: Explan step by step cara play visa Saudi dengan benar.
+RESPONSE: Buka <en>visa.visitsaudi.com</en>, <en>fill the application</en>, bayar, lalu <ar>intaẓir</ar> approval.
+
+2326_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbu al-Qadim hal bisa bantu Ajida after schedule warih latan Mubashiroh.
+RESPONSE: Bisa, <en>I can find the direct flight schedule</en> <ar>lil-usbu' al-qadim</ar>, kasih tau kota asalmu.
+
+2326_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan
+RESPONSE: <en>Consider it done</en>, <ar>sa-u-nazim</ar> transportnya <ar>ghadan</ar>.
+
+2326_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah schedule terbaik kapan.
+RESPONSE: Pilih <en>off-peak season</en> agar nyaman, lalu <ar>safara</ar> ke Madinah via Haramain High Speed Railway.
+
+2326_audio11
+USER: Kenapa fasting di romadan itu wajib bagi muslim?
+RESPONSE: Itu <en>obligatory</en> <ar>farḍ</ar> untuk melatih <ar>taqwā</ar> dan <en>spiritual purification</en>.
+
+2326_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Pilih <en>travel app</en>, input <en>flight details</en> ke Jeddah, <en>payment</en>, <ar>tammat</ar>.
+
+2326_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula.
+RESPONSE: Gak susah, <en>it's a logical language</en> <ar>sahl jiddan</ar> asal tekun.
+
+2330_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule?
+RESPONSE: Bisa, <en>I'll handle the schedule</en> <ar>bi'idhnillāh</ar>, kirim detail tanggalnya.
+
+2330_audio02
+USER: Aku butuh travel umrah simple tapi include Madinah visit.
+RESPONSE: Pilih <en>budget-friendly package</en> yang include <ar>ziyārah madīnah</ar>, <en>guaranteed seamless experience</en>.
+
+2330_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tumore?
+RESPONSE: Bisa, <en>I'll arrange it</en> <ar>in shā' Allāh</ar>, kasih tau jam berangkatnya.
+
+2330_audio04
+USER: Explain step by step cara apply visa Saudi dengan Benara.
+RESPONSE: Buka <en>Saudi e-visa portal</en>, <en>upload docs</en>, bayar fee, then wait for <ar>at-taʾšīrah</ar> keluar.
+
+2330_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbu al-Kodim. Hal bisa bantu ajida afdal schedule warilatan Mubashiroh.
+RESPONSE: <ar>na‘am</ar>, bisa <en>find the best direct flight schedule</en>, <ar>tafaddal</ar> kasih tau kota asalmu.
+
+2330_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <ar>Tayyib</ar>, <en>I'll handle the booking</en> <ar>ghadan</ar>, share detailnya.
+
+2330_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah schedule terbaik kapan.
+RESPONSE: <en>Go with off-peak season</en> for <en>best rates</en>, landing pagi biar <ar>safaran sa‘īd</ar> via Haramain train.
+
+2330_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Pakai <en>e-Visa or Tourist Visa</en> biar <ar>sahl</ar>, <en>just apply online</en>.
+
+2330_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar
+RESPONSE: Siapkan paspor <en>valid 6 months</en>, visa, dan <en>vaccination card</en> biar <ar>safarah</ar> lancar.
+
+2330_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: Beresin <en>mandatory documents</en>, pakaian <ar>iḥrām</ar>, <en>personal care</en>, dan <en>medications</en> supaya <ar>ibādah</ar> lancar.
+
+2330_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula.
+RESPONSE: Gak susah, <en>it's just a matter of consistency</en> biar <ar>sahl</ar>.
+
+2331_audio01
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: Bisa, <en>I'll find the best schedule for you</en> <ar>in shā' Allāh</ar>, kasih tau tanggal pastinya.
+
+2331_audio02
+USER: Aku butuh travel umrah simple, tapi inkut Madinah visit.
+RESPONSE: Cari <en>budget package</en> yang <en>inclusive of Madinah city tour</en>, <ar>ziyārah</ar>-nya pasti lengkap.
+
+2331_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah, tomorrow?
+RESPONSE: Bisa, <en>best option is the Haramain High Speed Railway</en>, <ar>safaran sa‘īdan</ar>.
+
+2331_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>KSA Visa portal</en>, upload docs, bayar fee, <ar>inshā’Allāh</ar> visa <en>approved</en>.
+
+2331_audio05
+USER: Ya akhi, uridu book flight ila Jeddah alus bual kadim, hal bisa bantu Ajida after schedule warilatan Mubashira.
+RESPONSE: Tentu, <en>I'll find the fastest direct flight</en> <ar>ilā Jiddah</ar>, kasih tau tanggalnya.
+
+2331_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>I'll arrange the transport</en> <ar>ghadan</ar>, kasih tau <en>the exact time</en>.
+
+2331_audio10
+USER: Apa perbedaan umrah dan hajj secara detail dalam Islam?
+RESPONSE: Hajj itu <en>mandatory pillar</en> <ar>fardhu</ar> with specific timing, whereas Umrah <en>is optional</en> <ar>sunnah</ar> and flexible timing.
+
+2331_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Cukup apply <en>e-visa</en> atau <en>tourist visa</en> via official portal, <ar>sahla jiddan</ar> dan cepat.
+
+2331_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: <en>Essential checklist</en>: <en>Passport, visa, medicines</en>, <ar>iḥrām</ar>, dan <en>personal care kit</en> supaya <ar>‘umrah mabrūrah</ar>.
+
+2331_audio17
+USER: Menurut kamu, belajar bahasa harap itu susah gak untuk pemula.
+RESPONSE: Nggak susah, <en>it's all about the strategy</en>, <ar>sahl jiddan</ar> kalau konsisten.
+
+2332_audio01
+USER: Aku mau book flight ke Jeddah minggu depan. Misa bantu schedule?
+RESPONSE: Bisa, <en>I'll arrange the best schedule</en> <ar>tafaḍḍal</ar>, kasih tanggal pastinya.
+
+2332_audio02
+USER: Aku butuh travel umrah simpel tapi include Madinah visit.
+RESPONSE: Pilih <en>all-in budget package</en> biar <ar>ziyārah madīnah</ar> tetap lancar.
+
+2332_audio03
+USER: "Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?"
+RESPONSE: Bisa, <en>use the Haramain High Speed Railway</en> <ar>safaran sa‘īdan</ar>, <en>it's the fastest option</en>.
+
+2332_audio04
+USER: Explain step by step cara apply visa saudi dengan benar.
+RESPONSE: <en>Go to the official portal</en>, isi data, <en>complete payment</en>, <ar>bi-idhnillāh</ar> <en>visa approved</en>.
+
+2332_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbuan Kadim hal bisa bantu Ajda Afdal schedule warih latan Mubashirah.
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>bi-idhnillāh</ar>, kasih tau tanggal pastinya.
+
+2332_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: Bisa, <en>I will arrange the best ride</en> <ar>min Jeddah ila Madinah</ar> <ar>ghadan</ar>, kasih tau jamnya.
+
+2332_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah schedule terbaik kapan.
+RESPONSE: Paling <en>recommended</en> Oktober atau November biar <en>less crowded</en>, <ar>safaran sa‘īd</ar>.
+
+2332_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Pilih <en>travel app</en>, <en>book your ticket</en> ke Jeddah, bayar, <ar>safaran sa‘īdan</ar>.
+
+2332_audio16
+USER: Guide aku cara pilih hotel di Makkah dekat Haram dengan budget terbatas.
+RESPONSE: Cari <en>budget hotels</en> area Misafalah dengan <en>free shuttle</en> ke <ar>al-ḥaram</ar>.
+
+2332_audio18
+USER: I feel overwhelmed dengan persiapan umrah. Ada tips sederhana?
+RESPONSE: <en>Break it down into small tasks</en>, <ar>bismillāh</ar>, jalani satu per satu.
+
+2333_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule?
+RESPONSE: Bisa, <en>I'll arrange the best flight</en> <ar>in shā' Allāh</ar>, kasih detail tanggalnya.
+
+2333_audio02
+USER: Aku butuh travel umrah simple tapi input Madinah visit.
+RESPONSE: Pilih <en>budget package</en> plus <ar>ziyārah</ar> Madinah, <en>guaranteed effortless</en>.
+
+2333_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+RESPONSE: <en>I can handle that</en>, pake Haramain High Speed Railway <ar>bi-idhnillāh</ar>, fast and easy.
+
+2333_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>visa.visasaudi.com</en>, upload <en>required documents</en>, bayar fee, dan <ar>tashrīrah</ar> langsung terbit.
+
+2333_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbual Qodim hal bisa bantu Ajida Afdal schedule warih latam Mubashiroh.
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>at-ta’irah al-mubashirah</ar> <ar>li-al-usbū‘ al-qādim</ar>. <en>Send me your departure city</en> dan tanggalnya.
+
+2333_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>Easy</en>, <ar>tafaḍḍal</ar>, <en>want the train or private car</en>?
+
+2333_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah schedule terbaik kapan.
+RESPONSE: <en>Land early morning</en> di Jeddah, lanjut Haramain train <ar>ilā al-Madīnah</ar> biar <en>optimal</en>.
+
+2333_audio09
+USER: Mungkin book transport min Makkah ila Madinah untuk besok.
+RESPONSE: Siap, <en>I'll handle the booking</en> <ar>min Makkah ila Madinah</ar> buat besok.
+
+2333_audio16
+USER: Guide aku cara pilih hotel di Makkah dekat Haram dengan budget terbatas.
+RESPONSE: Pilih area Misfalah dengan <en>free shuttle</en> agar tetap <ar>qarīb</ar> ke <ar>al-Ḥaram</ar> meski <en>low budget</en>.
+
+2333_audio17
+USER: Menurut kamu belajar bahasa Arab itu susah gak untuk pemula.
+RESPONSE: <en>Not hard at all</en> asal konsisten, <ar>sahl jiddan</ar> kalau sudah paham polanya.
+
+2334_audio01
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: Bisa, <en>I'll arrange the best flight schedule</en> <ar>safar sa‘īd</ar>, kasih tau tanggalnya.
+
+2334_audio02
+USER: Aku butuh travel umrah, simple, tapi include Madinah visit.
+RESPONSE: Pilih <en>all-in package</en> biar <ar>mabrūr</ar>, <en>including Madinah city tour</en> yang praktis.
+
+2334_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomoroh?
+RESPONSE: Bisa, <en>take the Haramain High Speed Railway</en> biar <ar>as-sarī‘</ar>, <en>I'll guide you</en>.
+
+2334_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>official portal</en>, <en>upload documents</en>, bayar <en>visa fee</en>, <ar>sahl jiddan</ar>.
+
+2334_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbu Al-Qadim hal bisa bantu Azida Afbal schedule warih latan Mubashurah?
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>ilā Jiddah</ar>, kasih tanggal pastinya.
+
+2334_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>I'll handle it</en>, <ar>mumkin</ar> <en>book the Haramain Train</en> <ar>al-ān</ar>.
+
+2334_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah schedule terbaik kapan.
+RESPONSE: Pilih <en>off-peak season</en> November-Februari, <ar>safaran sa‘īd</ar> <en>via Haramain High Speed Railway</en>.
+
+2334_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Sekarang <en>fully digital</en> via <en>Nusuk platform</en> atau travel agent untuk urus <ar>ta'shirah</ar>, prosesnya <ar>yasīr</ar> sekali.
+
+2334_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar?
+RESPONSE: Siapkan paspor valid 6 bulan, <en>visa and health certificate</en>, <ar>insyā’allāh</ar> semua beres.
+
+2334_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula?
+RESPONSE: Gak susah, <en>it is all about the right method</en> dan <ar>istiqāmah</ar>.
+
+2335_audio01
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: <en>I've got you covered</en>, <ar>insyā’ Allāh</ar> kirim tanggal pastinya sekarang.
+
+2335_audio02
+USER: Aku butuh travel umrah simpel tapi inklo Madinah visit.
+RESPONSE: Pilih paket <en>all-in one</en> biar <ar>maysūra</ar>, sudah pasti <en>include</en> <ar>ziyārah</ar> Madinah.
+
+2335_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomor?
+RESPONSE: <en>Book Haramain High Speed Railway</en> biar cepat, <ar>safaran sa‘īdan</ar>.
+
+2335_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar
+RESPONSE: Buka <en>official portal</en>, <en>upload documents</en>, bayar <en>visa fee</en>, and <ar>mabruk</ar> visa ready.
+
+2335_audio05
+USER: Ya akhi, uridu book flight ila Jeddah hal usbu al-qadim, hal bisa bantu ajidah afdal schedule warih latan mubashirah.
+RESPONSE: Bisa, <en>I'll find the best direct schedule</en> <ar>li-riḥlatik</ar>, kasih tau tanggal tepatnya.
+
+2335_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>I'll arrange it</en>, <ar>māshā Allāh</ar> gampang, pilih <en>Haramain High Speed Railway</en>.
+
+2335_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Sekarang <en>more flexible</en>, bisa <en>apply e-visa</en> atau <en>tourist visa</en> untuk <ar>ta’shīrah</ar> umrah.
+
+2335_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Buka <en>travel app</en>, pilih rute Jeddah, <en>complete payment</en>, <ar>safaran sa‘īdah</ar>.
+
+2335_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar
+RESPONSE: Siapkan <en>valid passport</en>, <en>umrah visa</en>, dan <en>vaccination records</en> agar <ar>safarah</ar> lancar.
+
+2335_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: Siapkan <en>passport, visa, and medication</en>, <en>ihram clothes</en> <ar>li-l-umrah</ar>, dan <en>non-fragrant toiletries</en> <ar>bi-dūn ‘iṭr</ar>.
+
+2335_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula.
+RESPONSE: Gak susah, <en>it's all about the method</en> biar terasa <ar>sahl jiddan</ar>.
+
+2336_audio01
+USER: Aku mahu book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: Bisa, <en>I'll arrange the flight</en> <ar>bi'idhnillāh</ar>, kirim tanggal pastinya.
+
+2336_audio02
+USER: Aku butuh travel umrah simple, tapi inklud Madinah visit.
+RESPONSE: Pilih <en>basic package</en> yang sudah include <ar>ziyārah</ar> Madinah, <en>simple and efficient</en>.
+
+2336_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madina tomorrow?
+RESPONSE: Bisa, <en>book the Haramain High Speed Railway</en> <ar>bi-idhnillah</ar> <en>for the fastest route</en>.
+
+2336_audio04
+USER: Explain step by step, cara apply visa Saudi dengan benar.
+RESPONSE: Daftar di <en>KSA Visa portal</en>, upload dokumen, bayar fee, then tunggu <en>e-visa</en> <ar>tashīrah</ar> terbit.
+
+2336_audio05
+USER: Ya akhi, uridu book flight ila Jeddah alus bual kodim. Hal bisa bantu Ajida Afdal schedule warih latar Mubashirah?
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>al-āḥsan</ar>, kasih tau tanggalnya.
+
+2336_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <ar>Tafadḍal</ar>, <en>I'll arrange the Haramain train</en> <ar>li-ghadin</ar>.
+
+2336_audio07
+USER: Book flight ke Jeddah, lalu lanjut ke Madinah. Schedule terbaik kapan?
+RESPONSE: <en>Best timing is November to February</en> biar <ar>jaww</ar> sejuk, <en>use Haramain High Speed Railway</en> buat ke Madinah.
+
+2336_audio10
+USER: Apa perbedaan umrah dan hajj secara detail dalam Islam?
+RESPONSE: Hajj itu <en>mandatory pillar</en> <ar>rukn al-islām</ar> <en>during specific dates</en>, sedangkan Umrah itu <en>voluntary</en> <ar>sunnah</ar> <en>anytime</en>.
+
+2336_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: Siapkan paspor, visa, ihram, <en>personal care kits</en>, dan <ar>niyyah khāliṣah</ar> biar <en>smooth</en>.
+
+2336_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula.
+RESPONSE: Gak susah, <en>it's all about the method</en>, <ar>sahl jiddan</ar> kalau konsisten.
+
+2337_audio01
+USER: Aku mahu book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: Bisa, <en>I'll find the best flight</en> <ar>bi’idhnillāh</ar>, kasih tau tanggal pastinya.
+
+2337_audio02
+USER: Aku butuh travel umrah simpel tapi include Madinah visit.
+RESPONSE: Ambil <en>all-in package</en> biar <ar>maysūran</ar>, sudah include <ar>ziyārah</ar> Madinah.
+
+2337_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madina tomorrow?
+RESPONSE: Bisa, <en>book the Haramain High Speed Railway</en> <ar>safrah mubarakah</ar>, itu <en>the fastest way</en>.
+
+2337_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Akses <en>KSA Visa portal</en>, upload dokumen, bayar <en>fee</en>, dan tunggu <ar>mu'ashirah</ar> terbit.
+
+2337_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbu Al-Kodim hal bisa bantu Ajida Afdal schedule warih latan Mubashira.
+RESPONSE: Bisa <ar>abshir</ar>, <en>I'll find the best direct flight</en>, kasih tau tanggal dan kota asalnya.
+
+2337_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>I got you</en>, <ar>sa-urattib laka</ar> <en>the best ride</en>, <ar>tafaddal</ar> kasih detailnya.
+
+2337_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah schedule terbaik kapan.
+RESPONSE: <en>Direct flight to Jeddah</en> then <en>Haramain High Speed Railway</en> ke Madinah, <ar>ziyārah maqbūlah</ar>.
+
+2337_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: <en>Search flight</en> di travel app, pilih <en>dates</en>, bayar, <ar>tadhkirah</ar> langsung terbit. <ar>safar mubārak</ar>.
+
+2337_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar?
+RESPONSE: Pastikan paspor <en>valid for 6 months</en>, urus <en>Umrah visa</en> dan <ar>taṭ‘īm</ar> meningitis, <ar>bi idhnillāh</ar> beres.
+
+2337_audio18
+USER: I feel overwhelmed dengan persiapan umrah. Ada tip sederhana?
+RESPONSE: <en>Make a simple checklist</en>, jaga <ar>niyyah</ar>, <en>and just trust the process</en>.
+
+2338_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule.
+RESPONSE: Bisa, <en>send me the details</en> <ar>tafaddal</ar>.
+
+2338_audio02
+USER: Aku butuh travel umrah simple tapi inkut Madinah visit.
+RESPONSE: Pilih paket <en>budget-friendly</en> biar <ar>ziyārah</ar> Madinah tetap <en>top notch</en>.
+
+2338_audio03
+USER: "Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?"
+RESPONSE: Bisa, <en>book Haramain High Speed Railway</en> <ar>bi idhnillāh</ar>, it's the fastest.
+
+2338_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka portal <en>KSA Visa</en>, <en>upload required documents and pay fee</en> untuk <ar>tashīrah</ar> kamu.
+
+2338_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbu al-Kodim hal bisa bantu Ajida Afdwal schedule Warih Watan Mubashiroh.
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>bi-idhnillāh</ar>, kasih tau kota asal dan tanggalnya.
+
+2338_audio06
+USER: Uridu arrange transport minjik dah ila Madinah ghadan.
+RESPONSE: <en>Consider it done</en>, <ar>in shā’ Allāh</ar>, kirim <en>pick-up point</en> dan jamnya.
+
+2338_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Pakai <en>electronic visa</en> biar <en>hassle-free</en> dan <ar>yassir</ar> prosesnya.
+
+2338_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Pilih <en>travel app</en>, <en>input Jeddah as destination</en>, tentukan jadwal, <en>complete payment</en>, <ar>safaran sa‘īd</ar>.
+
+2338_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: Bawa <en>passport, visa, personal medication</en>, <ar>iḥrām</ar>, dan <en>unscented toiletries</en>. <ar>niyyah</ar> harus <en>solid</en>.
+
+2338_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah ga untuk pemula?
+RESPONSE: <en>Not really</en>, cuma butuh <en>consistency</en> biar <ar>as-sahl</ar> dipelajari.
+
+2339_audio01
+USER: Aku mahu book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: Bisa, <en>I'll set the schedule</en> <ar>bi idhnillāh</ar>, kasih tau tanggal pastinya.
+
+2339_audio02
+USER: Aku butuh travel umrah simple, tapi include Madinah visit.
+RESPONSE: Ambil <en>basic package</en> aja, <ar>ziyārah</ar> Madinah <en>fully covered</en>.
+
+2339_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorow?
+RESPONSE: Bisa, <en>I'll handle the Haramain Train booking</en> <ar>bi-idhnillāh</ar>, kasih tau jam berangkatnya.
+
+2339_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Register di <en>official Saudi portal</en>, <en>upload documents</en>, bayar <en>fee</en>, <ar>tamām</ar>.
+
+2339_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbu al-Kadim hal bisa bantu Ajida Abdul schedule warih latan Mubashiroh.
+RESPONSE: <ar>Na‘am ya akhi</ar>, <en>I'll find the direct flight schedule</en> <ar>al-usbū‘ al-qādim</ar>, kasih tanggal pastinya.
+
+2339_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <ar>Mumkin</ar>, <en>I'll fix the best ride</en>, <ar>tafaddal</ar> pick car or train.
+
+2339_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah, schedule terbaik apan?
+RESPONSE: Pilih <en>early morning flight</en> ke Jeddah, lalu <en>high-speed train</en> <ar>bi-sur'ah</ar> ke Madinah.
+
+2339_audio11
+USER: Kenapa fasting diramadan itu wajib bagi muslim?
+RESPONSE: Karena <ar>farḍ</ar> dari Allah <en>to train discipline</en> dan meraih <ar>taqwā</ar>.
+
+2339_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar?
+RESPONSE: Siapkan <en>passport valid 6 months</en>, <en>Umrah visa</en>, dan <en>vaccination record</en> biar <ar>safaran sa‘īdan</ar>.
+
+2339_audio19
+USER: Ah yanan saya bingung, mulai dari mana untuk umrah?
+RESPONSE: Siapkan <en>passport and budget</en>, lalu <ar>niyyah</ar> dan cari <en>trusted travel agent</en>.
+
+2341_audio01
+USER: Aku mau book flight ke Jeddah minggu depan bisa bantu schedule?
+RESPONSE: <en>Consider it done</en>, <ar>insyā Allāh</ar>. Kasih tau detail tanggalnya.
+
+2341_audio02
+USER: Aku butuh travel umrah simple tapi inkot madina fisip.
+RESPONSE: <en>I can arrange a simple package</en> buat kamu, fokus <ar>ziyārah madīnah</ar> biar <en>hassle-free</en>.
+
+2341_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+RESPONSE: <en>Take the Haramain High Speed Railway</en> <ar>bi-idhnillāh</ar>, itu opsi tercepat.
+
+2341_audio04
+USER: Explain step by step cara apply visa saudi dengan benar.
+RESPONSE: Buka <en>KSA Visa portal</en>, upload <en>required documents</en>, dan bayar <en>fee</en> agar <ar>tas-hīl</ar>.
+
+2341_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbu Angkwadim hal bisa bantu ajadah afdal schedule bari halatan Mubashirwah.
+RESPONSE: <ar>Tafaddal</ar>, <en>I'll find the best direct flight</en> <ar>li-Jiddah</ar>, kasih tau kota asalnya.
+
+2341_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan
+RESPONSE: <ar>Tayyib</ar>, <en>I can fix that for you</en> <ar>ghadan</ar>, <en>just send the pick-up time</en>.
+
+2341_audio07
+USER: Book flight ke jodah lalu lanjut ke Madina, schedule terbaik kapan?
+RESPONSE: <en>Off-peak season</en> November-Februari <ar>afḍal</ar>, <en>less crowded</en>.
+
+2341_audio08
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Apply <en>e-visa</en> for <en>instant approval</en>, prosesnya <ar>sahla</ar> banget.
+
+2341_audio09
+USER: Hal terpikir dokumen mempersiapkan dokumen dari Indonesia dengan benar.
+RESPONSE: Pastikan <en>all documents are legalized</en> <ar>bi-diqqah</ar>, saya bantu prosesnya.
+
+2341_audio10
+USER: Menurut kamu belajar bahasa Arab itu susah enggak untuk pemula.
+RESPONSE: Gak susah, <en>it's all about the right method</en> dan <ar>istiqāmah</ar>.
+
+2342_audio01
+USER: Aku mau book flight ke Jeddah minggu depan bisa bantu schedule.
+RESPONSE: Bisa, <en>I'll manage your flight schedule</en> <ar>bi-idhnillāh</ar>. Kirim detail tanggalnya.
+
+2342_audio02
+USER: Aku butuh travel umrah simpel tapi inkrut Madinah visit.
+RESPONSE: Gampang, <en>I'll find the best simple package</en> for <ar>ziyārah al-Madīnah</ar>.
+
+2342_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+RESPONSE: Bisa, <en>book the Haramain High Speed Railway</en> aja biar <ar>asra‘</ar>.
+
+2342_audio04
+USER: Explain step by step cara apply visa saudi dengan pener.
+RESPONSE: Buka <en>e-visa portal</en>, <en>upload requirements</en> and <en>flight ticket</en>, bayar <en>fee</en>, tunggu <ar>tāshīrah</ar> terbit.
+
+2342_audio05
+USER: Ya akhi, uridu book flight ila Jeddah laus bual kodim hal bisa bantu ajida off-dual schedule perihlatan mubashirah.
+RESPONSE: Bisa <en>I'll find the direct flight schedule</en> <ar>bi-idhnillāh</ar>, kasih tau tanggalnya.
+
+2342_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>I can handle it</en>, <ar>abshar</ar>. <en>Just send the pickup time</en> <ar>li-ghadan</ar>.
+
+2342_audio10
+USER: Apa perbedaan umrah dan hajj secara detail dalam Islam?
+RESPONSE: Hajj <en>is mandatory</en> <ar>farḍ</ar> during specific dates, while Umrah <en>is voluntary</en> <ar>sunnah</ar> and can be done anytime.
+
+2342_audio11
+USER: Kenapa fasting di romaton itu ejib bagi muslim?
+RESPONSE: <en>It's a divine command</en> biar <ar>taqwā</ar> meningkat, hukumnya <ar>farḍ</ar> bagi muslim.
+
+2342_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar
+RESPONSE: Siapkan paspor valid 6 bulan, <en>visa and vaccination certificate</en>, serta <ar>tasrīḥ</ar> via Nusuk. <en>Piece of cake</en>.
+
+2342_audio19
+USER: Ah yanan saya bingung mulai dari mana untuk umrah.
+RESPONSE: Siapkan <en>valid passport</en> dan <ar>niyyah</ar> kuat, lalu pilih <en>reliable travel agent</en>.
+
+2343_audio1
+USER: Aku mahu book flight ke Jeddah minggu depan. Bisa bantu schedule.
+RESPONSE: Bisa, <en>give me the exact dates</en> biar <en>I fix the schedule</en> <ar>bi idhnillāh</ar>.
+
+2343_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Sekarang tinggal <en>apply E-visa</en> atau <en>Tourist Visa</en> lewat <en>Nusuk</en> biar <ar>yusr</ar> dan <ar>sarī‘</ar>.
+
+2343_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar?
+RESPONSE: Pastikan <en>valid passport, visa, and vaccination records</en> lengkap, <ar>bi'idhnillah</ar> semua lancar.
+
+2343_audio16
+USER: Guide aku cara pilih hotel di Makkah dekat Haram dengan bajet terbatas.
+RESPONSE: Cari hotel area Misafalah atau Ajyad yang ada <en>free shuttle bus</en> biar hemat <ar>nafaqah</ar>.
+
+2343_audio18
+USER: I will offer hand dengan persiapan umrah. Ada tip sederhana.
+RESPONSE: Fokus <en>physical fitness</en> dan <ar>niyyah</ar> <ar>iḫlaṣ</ar>, <en>pack light</en> saja.
+
+2343_audio2
+USER: Aku butuh travel umrah simple tapi include Madinah Visit.
+RESPONSE: Pilih <en>essential package</en> yang sudah include <ar>ziyārah</ar> <ar>madīnah al-munawwarah</ar>.
+
+2343_audio3
+USER: Can you help aku arrange transport dari Jeddah ke Bandinah tomorrow?
+RESPONSE: Bisa, <en>take the Haramain High Speed Railway</en> <ar>safaran sa‘īdan</ar>, <en>book your ticket now</en>.
+
+2343_audio4
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Akses <en>Saudi eVisa portal</en>, <en>upload documents</en>, bayar fee, dan tunggu <ar>taʾshīrah</ar> terbit.
+
+2343_audio5
+USER: Ya akhi, uridu book flight ila Jeddah usbun alkodim hal bisa bantu ajida afdal schedule warih latan musibaroh.
+RESPONSE: Bisa, <en>give me the dates</en> biar <ar>ajid laka</ar> <en>the cheapest deal</en>.
+
+2343_audio6
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>I can arrange it</en>, pilih <ar>al-qiṭār al-sārī‘</ar> atau <ar>sayyārah khāṣṣah</ar>.
+
+2344_audio1.m4a
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: Bisa, <en>give me the exact dates</en> biar <ar>safaran sa'īdan</ar>.
+
+2344_audio10.m4a
+USER: Apa perbedaan umrah dan hajj secara detail dalam Islam?
+RESPONSE: Hajj <en>mandatory</en> <ar>farḍ</ar> dengan waktu tertentu dan wukuf Arafat, Umrah <en>voluntary</en> <ar>sunnah</ar> kapan saja.
+
+2344_audio13
+USER: Jelaskan step by step cara booking flight ke Judah secara online.
+RESPONSE: Buka <en>travel app</en>, pilih <en>flight</en> ke Judah, dan <en>complete payment</en>. <ar>safaran sa‘īdan</ar>.
+
+2344_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah ga untuk pemula?
+RESPONSE: Gak susah, <en>it's all about the method</en>, yang penting <ar>istiqāmah</ar>.
+
+2344_audio2.m4a
+USER: Aku butuh travel umrah simple, tapi inkrut Madinah visit.
+RESPONSE: Pilih <en>basic package</en> plus <ar>ziyārah al-Madīnah</ar>, <en>efficient and direct</en>.
+
+2344_audio20.m4a
+USER: Translate ke English, aku mahu pergi ke Makkah minggu depan.
+RESPONSE: <en>I want to go to Makkah next week</en>, <ar>insyā' Allāh</ar>.
+
+2344_audio3.m4a
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorow?
+RESPONSE: Bisa <en>I'll handle the best transport</en> <ar>in shāʾ Allāh</ar>, kirim detailnya.
+
+2344_audio4
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>KSA visa portal</en>, <en>upload documents</en>, bayar, and wait for your <ar>tashīrah</ar>. <en>Fast and simple</en>.
+
+2344_audio5.m4a
+USER: Ya akhi, uridu book flight ila Jeddah alus bual kadim, hal bisa bantu Ajida Afdal schedule warih latan Mubashirah?
+RESPONSE: Bisa <en>I'll find the best direct flight</en> <ar>bi'idhnillah</ar>, kirim detail tanggalnya.
+
+2344_audio6.m4a
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan
+RESPONSE: <ar>Tayyib</ar>, <en>I can arrange that</en> <ar>bi-sur'ah</ar>. <en>Send the details</en> sekarang.
+
+2345_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule?
+RESPONSE: Bisa, <en>I'll arrange the best schedule</en> <ar>bi'idnillāh</ar>, kasih tahu tanggal pastinya.
+
+2345_audio02
+USER: Aku butuh travel umrah simple tapi imput Madinah visit.
+RESPONSE: Bisa, <en>simple itinerary</en> with <ar>ziyārat al-madīnah</ar> <en>is handled</en>.
+
+2345_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tumur?
+RESPONSE: Bisa, <en>I can handle that</en>, paling oke pakai <en>Haramain High Speed Railway</en> <ar>bi’idhnillah</ar>.
+
+2345_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>visa portal</en>, <en>upload documents</en>, bayar <en>fee</en>, then <ar>mu'ashirah</ar> <en>will be issued</en>.
+
+2345_audio05
+USER: Ya akhi, uridu book flight ila Jeddah alus mual kodim, hal bisa bantu Ajida Aftol schedule warih lehten Mubashiroh?
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>afḍal jadwal</ar>, kasih tau tanggalnya.
+
+2345_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <ar>Tayyib</ar>, <en>I'll arrange your ride</en> <ar>bukrah</ar>, share the pickup time.
+
+2345_audio07
+USER: Book flight ke Juddah lalu lanjut ke Madinah schedule terbaik kapan.
+RESPONSE: <en>Best timing is November to February</en> biar <ar>jaww</ar> sejuk, lanjut <en>Haramain High Speed Railway</en> biar <ar>asr'a</ar>.
+
+2345_audio10
+USER: Apa perbedaan umrah dan hajj secara detail dalam Islam?
+RESPONSE: Hajj itu <en>mandatory pillar</en> <ar>farḍ</ar> di waktu tertentu, sedangkan Umrah <en>voluntary</en> <ar>sunnah</ar> kapan saja.
+
+2345_audio11
+USER: Kenapa fasting di romabon itu wajib bagi muslim?
+RESPONSE: <en>It's a divine command</en> untuk meraih <ar>taqwā</ar>, hukumnya <ar>farḍ</ar>.
+
+2345_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Tinggal apply <en>e-Visa</en> secara <en>online</en> untuk <ar>ta’shīrah</ar> <ar>‘umrah</ar>, <en>super fast</en> dan <en>hassle-free</en>.
+
+2345_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Buka <en>travel app</en>, pilih <en>destination Jeddah</en>, then <en>complete payment</en> <ar>bi idhnillah</ar>.
+
+2345_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar?
+RESPONSE: Pastikan <en>passport is valid for 6 months</en>, urus <en>umrah visa</en> and <en>vaccination certificates</en> biar <ar>mabrūr</ar>.
+
+2345_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib dibawah.
+RESPONSE: <en>Checklist ready</en>: <en>passport, visa, medicines, cash</en>, <ar>iḥrām</ar>, dan perlengkapan mandi demi <ar>‘umrah mabrūrah</ar>.
+
+2345_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah gak untuk pemulah.
+RESPONSE: Gak susah, <en>it's all about the right method</en>, <ar>sahl jiddan</ar> kalau konsisten.
+
+2345_audio19
+USER: Ahyaanan saya bingung mulai dari mana untuk umrah.
+RESPONSE: Tenang, <en>first secure your passport and visa</en>, <ar>inshaAllah</ar> semua lancar.
+
+2347_audio1
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule.
+RESPONSE: Bisa, <en>I'll find the best flight for you</en> <ar>bi-idhnillāh</ar>, kirim detail tanggalnya.
+
+2347_audio11
+USER: Kenapa, fasting di Ramadan itu wajib bagi muslim?
+RESPONSE: Karena <ar>farḍ</ar> untuk melatih <en>self-discipline</en> dan mencapai <ar>taqwā</ar>.
+
+2347_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar.
+RESPONSE: Pastikan <en>valid passport and visa</en> ready, sertifikat vaksin lengkap, <ar>bi'idhnillāh</ar> semua lancar.
+
+2347_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula.
+RESPONSE: Gak susah, <en>just challenging</en>, yang penting <ar>istiqāmah</ar>.
+
+2347_audio2
+USER: Aku butuh travel umrah simple, tapi include Madinah visit.
+RESPONSE: Ambil <en>basic package</en> dengan <ar>ziyārah</ar> Madinah, <en>best value</en> buat kamu.
+
+2347_audio3
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+RESPONSE: Bisa, <en>I'll handle it</en>. Pake <en>Haramain train</en> biar <ar>asra‘</ar>, <en>send me the timing</en>.
+
+2347_audio4
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka portal official, <en>upload documents</en>, bayar fee, then <en>download e-visa</en> <ar>bi idhnillāh</ar>.
+
+2347_audio5
+USER: Ya akhi, uridu book flight ila Jeddah al usbo al kadim, hal bisa bantu ajida afdal schedule warih latan mubashirah.
+RESPONSE: Bisa, kasih tau kota asalmu untuk <en>best direct flight</en> <ar>al-usbu' al-qādim</ar>.
+
+2347_audio6
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>I can handle that</en> <ar>bi-sur‘ah</ar>, pilih <en>Haramain train or private taxi</en> <ar>al-āna</ar>.
+
+2347_audio7
+USER: Book flight ke Jeddah lalu lanjut ke Madina schedule terbaik kapan.
+RESPONSE: Pilih <en>off-peak season</en> for <en>best rates</en>, lanjut <en>Haramain Train</en> <ar>bi idhnillāh</ar>.
+
+2348_audio01
+USER: Aku mau buku flight ke Jeddah minggu depan bisa bantu schedule.
+RESPONSE: Bisa, <en>I can arrange your schedule</en> <ar>bi'idhnillah</ar>, kirim detail tanggalnya.
+
+2348_audio02
+USER: Aku butuh travel umrah simple, tapi inklud Madinah visit.
+RESPONSE: Pilih <en>economy package</en> biar <en>simple</en>, sudah include <ar>ziyārah Madīnah</ar>.
+
+2348_audio03
+USER: "Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?"
+RESPONSE: <en>Easily done</en>, pake <en>Haramain High Speed Railway</en> biar <ar>asra‘</ar> dan <ar>muryiḥ</ar>.
+
+2348_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>KSA Visa portal</en>, upload <en>passport and photo</en>, lalu bayar <en>fee</en> untuk dapat <ar>ta'shīrah</ar> <en>instantly</en>.
+
+2348_audio05
+USER: Ya akhi, uridu book flight ila Jeddah laus bual kodim, hal bisa bantu Ajida Afdal schedule warih latan Mubashirah.
+RESPONSE: <en>I got you</en>, <ar>sa-u'āwinuka</ar> cari <en>the best direct flight</en>, kasih tau tanggalnya.
+
+2348_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: Siap, <en>I can handle the transport</en> <ar>min Jiddah ilā al-Madīnah</ar> <ar>ghadan</ar>, pilih <en>Haramain train or private car</en>?
+
+2348_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah, schedule terbaik kapan.
+RESPONSE: Pilih <en>November to February</en> biar cuaca adem, <ar>safaran sa‘īdan</ar>.
+
+2348_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Pakai <en>e-visa</en> lewat <en>Nusuk app</en> biar <ar>sahlun jiddan</ar>, cepat dan praktis.
+
+2348_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Pake <en>travel aggregator</en>, pilih <en>destination Jeddah</en>, <en>complete payment</en>, and <ar>safaran sa‘īdah</ar>.
+
+2348_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar?
+RESPONSE: Siapkan <en>valid passport and visa</en>, vaksin meningitis, <ar>niyyah</ar> ikhlas, <en>all set</en>.
+
+2351_audio01
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: Bisa, <en>I've got you covered</en> <ar>bi’idhnillāh</ar>, kirim tanggal pastinya sekarang.
+
+2351_audio02
+USER: Aku butuh tramvel umrah, simple, tapi include Madinah visit.
+RESPONSE: Bisa, <en>simplified package</en> <ar>ziyārah madīnah</ar> <en>included</en>, <ar>umrah maqbūlah</ar>.
+
+2351_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+RESPONSE: <en>Definitely</en>, <en>book the Haramain Train</en> for <ar>riḥlah mubāraka</ar>.
+
+2351_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>official KSA visa portal</en>, upload dokumen, bayar fee, then wait for your <ar>tāshīrah</ar>.
+
+2351_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al usbu'al kodim, hal bisa bantu ajida afdol schedule warihlatan mubashira.
+RESPONSE: Bisa <en>I'll find the best direct flight</en> <ar>li-riḥlah mubāshirah</ar>, kasih tau tanggal berangkatnya.
+
+2351_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>I'll handle it</en>, <ar>sa-urattib laka</ar> <en>transport to Madinah</en> <ar>ghadan</ar>.
+
+2351_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madina schedule terbaik kapan?
+RESPONSE: Pilih <en>early morning flight</en> biar lebih efisien, <ar>safara saliman</ar>.
+
+2351_audio11
+USER: Kenapa fasting gyurama dan itu wajib bagi muslim?
+RESPONSE: Itu <en>spiritual detox</en> dan <ar>rukun al-islām</ar>, wajib untuk <en>purify the soul</en> sesuai perintah Allah.
+
+2351_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar
+RESPONSE: Siapkan <en>valid passport</en>, visa, dan sertifikat vaksin <en>properly</en>. Pastikan <en>complete</en> agar <ar>ibādah mabrūrah</ar>.
+
+2351_audio16
+USER: Guaid aku cara pilih hotel di Makkah dekat haram dengan bacet terbatas.
+RESPONSE: Pilih hotel area Misfalah yang punya <en>free shuttle bus</en> biar tetap <ar>qarīb</ar> ke <ar>al-ḥaram</ar> tapi <en>low budget</en>.
+
+2355_audio01
+USER: Aku mau book flight ke Jeddah minggu depan bisa bantu schedule.
+RESPONSE: Bisa, <en>I'll handle your flight schedule</en> <ar>inshā'allāh</ar>, kasih tau tanggal tepatnya.
+
+2355_audio02
+USER: Aku butuh travel umrah, simple, tapi include Madinah visit.
+RESPONSE: Pilih <en>all-in package</en> biar <ar>ziyārah</ar> Madinah <en>seamless</en>.
+
+2355_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorow?
+RESPONSE: Bisa, <en>I'll arrange the Haramain Train or private car</en> <ar>safaran sa‘īdan</ar>.
+
+2355_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: <en>Access the official KSA Visa portal</en>, upload documents, bayar fee, <ar>ta’shīrah</ar> <en>ready</en>.
+
+2355_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-usbun al-qadim hal bisa bantu Ajida Afdal schedule warih latan Mubashirah.
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>bi-idhnillāh</ar>, <en>send me the dates</en> <ar>ya akhi</ar>.
+
+2355_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan
+RESPONSE: <en>I'll handle it</en>, <ar>mumkin</ar> <en>take the Haramain train</en> <ar>li-asra‘</ar>, <en>send me your details</en>.
+
+2355_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah schedule terbaik kapan?
+RESPONSE: Paling oke <en>November to February</en>, lanjut <ar>al-ḥaramayn</ar> train biar cepat. <ar>Safar sa‘īd</ar>.
+
+2355_audio10
+USER: Apa perbedaan umrah dan hajj secara detail dalam Islam?
+RESPONSE: Hajj adalah <en>mandatory pillar</en> <ar>rukun al-Islām</ar> with specific timing, sedangkan Umrah itu <en>voluntary</en> and can be performed <ar>fī ayyi waqt</ar>.
+
+2355_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Pake <en>travel aggregator</en>, set <en>destination</en> Jeddah, <en>complete payment</en>, <ar>safaran sa‘īd</ar>.
+
+2355_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula.
+RESPONSE: Gak susah, <en>just need the right method</en> dan <ar>ṣabr</ar>.
+
+2356_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule?
+RESPONSE: Bisa, <en>I'll handle the schedule</en>, <ar>tafaddal</ar> kasih tau tanggal pastinya.
+
+2356_audio02
+USER: Aku butuh travel umrah simpel tapi inklud Madinah visit.
+RESPONSE: Aman, saya carikan paket <en>simple Umrah</en> plus <en>Madinah visit</en> <ar>ziyārah</ar> terbaik. Cek jadwalmu.
+
+2356_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah Tomorow?
+RESPONSE: Bisa, <en>I'll handle your transport</en> <ar>bi’idhnillāh</ar>, mau <en>Haramain Train</en> atau mobil?
+
+2356_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>KSAVisa portal</en>, <en>complete registration</en>, bayar fee, and <ar>mabruk</ar>, visa terbit.
+
+2356_audio05
+USER: Ya akhi, uridu book flight ila Jeddah lalu sebuah al-Qadim hal bisa bantu Ajida Afdol schedule warih latan Mubashira.
+RESPONSE: <ar>Na'am</ar>, <en>I'll find the best direct flight</en> <ar>li-ka</ar>, kasih tau <en>departure city and date</en> sekarang.
+
+2356_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>I can handle that</en>, <ar>tamām</ar>, kasih tau jam keberangkatannya.
+
+2356_audio10
+USER: Apa perbedaan umrah dan hajj secara detail dalam Islam?
+RESPONSE: <ar>al-ḥajj</ar> itu <en>mandatory pillar of Islam</en> dengan waktu khusus, sementara <ar>al-ʿumrah</ar> <en>voluntary</en> dan fleksibel.
+
+2356_audio12
+USER: Bagaimana proses bisa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Sekarang <en>much easier</en>, tinggal apply <en>e-visa or tourist visa</en> biar <ar>taysīr</ar>.
+
+2356_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Pilih <en>travel platform</en>, input <ar>Jiddah</ar> as <en>destination</en>, pilih <en>flight</en>, lalu <en>complete payment</en>.
+
+2356_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah ga untuk pemula.
+RESPONSE: Nggak susah kalau tahu <en>the right method</en>, <ar>bi-idhnillāh</ar> pasti bisa.
+
+2357_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule.
+RESPONSE: Bisa, <en>I'll handle the booking</en> <ar>bi-idhnillāh</ar>, kirim detail tanggalnya.
+
+2357_audio02
+USER: Aku butuh travel umrah simple, tapi include Madinah visit.
+RESPONSE: Pilih <en>economy package</en> aja, <ar>ziyarah</ar> Madinah udah <en>standard inclusion</en>.
+
+2357_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinahtumuru?
+RESPONSE: Bisa, <en>take the Haramain High Speed Railway</en> <ar>al-qatar al-sari'</ar>, <en>the fastest option</en>.
+
+2357_audio04
+USER: Explain step by step cara apply visa saudi dengan benar.
+RESPONSE: Kunjungi <en>official portal</en>, upload <en>required documents</en>, bayar fee, <ar>tamām</ar> visa terbit.
+
+2357_audio05
+USER: Ya akhi, uridu book flight ila Jeddah lalu sebuah akur dim, hal bisa bantu Ajida Afdol schedule warih laten Mubashiroh?
+RESPONSE: Bisa, <en>I can find the best direct flight</en> <ar>bi-shakl mubāshir</ar>, kasih tau tanggalnya.
+
+2357_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: Bisa, <en>I'll arrange your trip</en>, <ar>tafaḍḍal</ar> pilih <en>train or car</en>.
+
+2357_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah schedule terbaik kapan.
+RESPONSE: <en>Off-peak season</en> paling <en>optimal</en>, lanjut <en>Haramain train</en> <ar>bi-idhnillāh</ar> biar efisien.
+
+2357_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Cukup apply <en>e-visa</en> via <en>Nusuk app</en> for <ar>umrah</ar>, <en>fast track and hassle-free</en>.
+
+2357_audio15
+USER: Tolong buat checklist, persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: <en>Essential checklist</en>: paspor, visa, <ar>iḥrām</ar>, obat, dan <en>cash</en>. Pastikan <ar>niyyah</ar> sudah <en>ready</en>.
+
+2357_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula.
+RESPONSE: Gak susah, kuncinya <en>consistency</en> and <ar>ṣabr</ar>.
+
+2358_audio01
+USER: Aku mahu book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: <en>I've got you covered</en>, kasih tau tanggalnya <ar>ilā Jiddah</ar> <en>for the best schedule</en>.
+
+2358_audio02
+USER: Aku butuh travel umrah, simple, tapi include Madinah visit.
+RESPONSE: Ambil <en>all-in simple package</en> biar <ar>ziyārah</ar> Madinah <en>hassle-free</en>, <ar>umrah maqbūlah</ar>.
+
+2358_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorow?
+RESPONSE: Bisa, <en>I'll find the best ride</en> buat <ar>safaran</ar> kamu, mau Haramain train atau taxi?
+
+2358_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Login portal KSA Visa, <en>upload documents and pay fee</en>, then <ar>intadhir al-ta'shira</ar>.
+
+2358_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Uzbu al-Qadim hal bisa bantu aljidah Afdal schedule warih latan Mubashirah.
+RESPONSE: Bisa <en>I'll find the best direct flight</en> <ar>ta'īr mubāshir</ar>, kasih tau <en>departure city</en> dan tanggalnya.
+
+2358_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>Can do</en>, <ar>sa-unazzim laka</ar> <en>the best ride</en> <ar>ghadan</ar>.
+
+2358_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madina schedule terbaik kapan.
+RESPONSE: <en>Best time is off-peak season</en> biar <ar>rāḥah</ar>, landing Jeddah pagi <en>then head to Madinah</en>.
+
+2358_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib dibawa.
+RESPONSE: Siapkan <en>passport, visa, and medication</en>, bawa <en>ihram</en> biar <ar>ibādah</ar> <en>smooth</en> dan <ar>maqbūlah</ar>.
+
+2358_audio16
+USER: Guide aku cara pilih hotel di Makkah dekat Haram dengan budget terbatas.
+RESPONSE: Pilih hotel area Misafalah atau Aziziyah dengan <en>free shuttle bus</en> <ar>ḥāfilah</ar> agar <en>budget-friendly</en>.
+
+2358_audio17
+USER: Menurut kamu belajar bahasa Arab itu susah gak untuk pemulah.
+RESPONSE: Gampang, <en>just need the right method</en> dan <ar>istiqāmah</ar>.
+
+2359_audio1
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: Bisa, <en>I'll handle your schedule</en> <ar>bi-idhnillāh</ar>, kirim tanggal pastinya.
+
+2359_audio12
+USER: Bagaimana proses PISA Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Pakai <en>Nusuk platform</en> buat <en>e-Visa</en> dan <ar>tashrīḥ</ar>, <en>fast and seamless</en>.
+
+2359_audio14
+USER: how to prepare dokumen umrah dari Indonesia dengan benar
+RESPONSE: Siapkan paspor, visa, and <en>vaccination certificate</en> biar <ar>safaran mubarakan</ar>.
+
+2359_audio17
+USER: Menurut kamu belajar bahasa Arab itu susah ga untuk pemula.
+RESPONSE: Gampang, <en>just need the right method</en> biar <ar>mutqin</ar>.
+
+2359_audio2
+USER: Aku butuh travel umrah simple tapi include Madinah visit.
+RESPONSE: Cari paket <en>standard Umrah</en> include <ar>ziyārah</ar> <ar>al-Madīnah</ar>, <en>it's the most efficient choice</en>.
+
+2359_audio3
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+RESPONSE: Bisa, <en>I recommend the Haramain High Speed Railway</en>, <ar>tafaḍḍal</ar> kasih tau jamnya.
+
+2359_audio4
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: <en>Register on the official portal</en>, <en>upload documents</en>, bayar fee, and <ar>mabruk</ar> visa selesai.
+
+2359_audio5
+USER: Ya akhi, uridu book flight ila Jeddah al-Ushbu al-Qadim. Hal bisa bantu Ajida Afdal schedule warih latam mubassirah?
+RESPONSE: Bisa <ar>bi-al-ta'kīd</ar>, <en>I'll find the best direct flight</en> <ar>li-Jiddah</ar>, kasih tau tanggal tepatnya.
+
+2359_audio6
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>I can handle that.</en> <ar>tafaḍḍal</ar>, kasih tau jam berangkatnya.
+
+2359_audio7
+USER: Book flight ke Jeddah lalu lanjut ke Madinah, schedule terbaik kapan.
+RESPONSE: Pilih <en>off-peak season</en> biar <ar>safaran sa‘īd</ar>, lanjut Madinah via Haramain Train.
+
+2360_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule?
+RESPONSE: Bisa, <en>I'll handle your flight schedule</en> <ar>insyā’allāh</ar>, kasih tau tanggal tepatnya.
+
+2360_audio02
+USER: Aku butuh travel umrah simple tapi include Madinah visit.
+RESPONSE: Cari <en>standard package</en> yang include <ar>ziyārah</ar> Madinah, <en>I'll find the best one</en>.
+
+2360_audio03
+USER: Can you help aku arrange transport dari jodah ke Madinah tomorow?
+RESPONSE: Bisa banget, <en>I can handle that</en> <ar>bi'idhnillāh</ar>, kasih tau jamnya.
+
+2360_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>KSA Visa portal</en>, upload dokumen, bayar fee, then <ar>tashīrah</ar> <en>will be processed</en> <ar>sahlah</ar>.
+
+2360_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbuan al-Qadim, hal bisa bantu adi daftar schedule wari helatan mubashirah.
+RESPONSE: Bisa, <en>I will find the best direct flights</en> <ar>li-Jiddah al-usbū‘ al-qādim</ar>, kasih tanggal tepatnya.
+
+2360_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: Bisa, <en>I can arrange that</en>, <ar>abshir</ar>, kirim detail jamnya.
+
+2360_audio07
+USER: Book flight ke Judah lalu lanjut ke Madina schedule terbaik kapan.
+RESPONSE: <en>Best schedule is November to February</en> biar <ar>al-jaww</ar> sejuk, <en>book your tickets now</en>.
+
+2360_audio10
+USER: Apa perbedaan umrah dan hajj secara detail dalam Islam?
+RESPONSE: Hajj itu <en>mandatory pillar</en> <ar>farḍ</ar> di waktu tertentu, sedangkan Umrah <en>optional</en> <ar>sunnah</ar> kapan saja.
+
+2360_audio11
+USER: Kenapa fasting di ramadan itu wajib bagi muslim?
+RESPONSE: Karena itu <en>mandatory</en> untuk meningkatkan <ar>taqwā</ar> dan <en>spiritual purification</en>.
+
+2360_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar
+RESPONSE: Pastikan paspor <en>valid for 6 months</en>, visa ready, dan vaksin lengkap biar <ar>mabrūr</ar>.
+
+2362_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule?
+RESPONSE: Bisa, <en>I'll find the best schedule</en> <ar>ahlan wa sahlan</ar>, kasih tau tanggal pastinya.
+
+2362_audio02
+USER: Aku butuh travel umrah simple, tapi include Madinah visit.
+RESPONSE: Bisa, <en>I'll find the best simple package</en> for <ar>ziyārah Madīnah</ar>.
+
+2362_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorrho?
+RESPONSE: Bisa <en>I'll set it up for you</en> <ar>bi-idhnillāh</ar>, share detail jamnya.
+
+2362_audio04
+USER: Explan step by step cara apply visa Saudi dengan benar.
+RESPONSE: Akses <en>Saudi visa portal</en>, upload <en>documents</en>, bayar fee, then <ar>tamām</ar> tunggu approval.
+
+2362_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbu al-Qadim, hal bisa bantu Ajida Afdal schedule warih latan Mubashirah.
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>li-ka</ar>, kasih tahu kota asal dan tanggalnya.
+
+2362_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: Bisa <en>I'll arrange the transport</en> <ar>min Jeddah ila Madinah</ar>, <en>send me the time</en> <ar>ghadan</ar>.
+
+2362_audio07
+USER: Book flight ke Jeddah lalu lanjar ke Manina schedule terbaik kapan.
+RESPONSE: Ambil <en>best flight schedule</en> pagi hari ke <ar>al-Madīnah</ar>, sebutkan tanggalnya.
+
+2362_audio11
+USER: Kenapa fasting diramadan itu wajib bagi muslim?
+RESPONSE: Perintah Allah <en>to increase piety</en> <ar>taqwā</ar>, jadi hukumnya <en>obligatory</en> <ar>farḍ</ar>.
+
+2362_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: Fokus <en>essential checklist</en>: paspor, visa, <ar>iḥrām</ar>, <en>medication</en>, dan <en>funds</en> demi <ar>‘umrah mabrūrah</ar>.
+
+2362_audio17
+USER: Nurut kamu, belajar bahasa harap itu susah gak untuk umur lah.
+RESPONSE: Gak susah, <en>consistency is the key</en>, <ar>bi-idhnillāh</ar> pasti bisa.
+
+2362_audio20
+USER: Translate ke English, aku mau pergi ke Makkah yang berdepan.
+RESPONSE: <en>I want to go to Makkah soon</en>, <ar>insyā’ Allāh</ar>.
+
+2363_audio01
+USER: Aku mau book flight ke Jeddah hingga depan bisa bantu schedule.
+RESPONSE: Bisa, <en>I'll arrange your flight schedule</en> <ar>bi-idhnillāh</ar>. <en>Just give me the dates</en>.
+
+2363_audio02
+USER: Aku butuh travel umrah simple tapi include Madinah visit.
+RESPONSE: Tenang, <en>I can handle that</en>, cari yang <en>all-in</en> biar <ar>ibādah</ar> <en>hassle-free</en> dan <ar>mabrūr</ar>.
+
+2363_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+RESPONSE: Bisa, <en>I recommend the Haramain High Speed Railway</en> <ar>bi-idhnillāh</ar>, <en>it's the fastest way</en>.
+
+2363_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>KSA Visa portal</en>, upload <en>required documents</en>, bayar fee, and wait for <ar>at-ta'shīrah</ar>.
+
+2363_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbu al-Gidam halbisa bantu Ajida Afdal schedule warihlatan Mubashirah.
+RESPONSE: Siap <ar>ya akhi</ar>, <en>I'll find the best direct flight</en> <ar>riḥlah mubāshirah</ar>, spill <en>departure city</en> dan tanggalnya.
+
+2363_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <ar>Tamām</ar>, <en>I'll arrange your transport</en> <ar>ghadan</ar>, kasih tau jam keberangkatannya.
+
+2363_audio07
+USER: Book flight ke Jeddah lanjut ke Madinah, schedule terbaik kapan?
+RESPONSE: Pilih <en>off-peak season</en> Oktober sampai Maret agar cuaca nyaman, <ar>in shā’ Allāh</ar> lancar.
+
+2363_audio10
+USER: Apa perbedaan umrah dan hajj secara detail dalam Islam.
+RESPONSE: Hajj itu <ar>farḍ</ar> <en>on a specific date</en>, sementara Umrah <en>can be performed anytime</en> sebagai <ar>sunnah</ar>.
+
+2363_audio11
+USER: Rapan fasting di Ramadan itu wajib bagi muslim.
+RESPONSE: Betul, <en>it's a mandatory obligation</en> karena itu <ar>farḍ</ar>.
+
+2363_audio14
+USER: Pau to prepare dokumen umrah dari Indonesia dengan benar.
+RESPONSE: Siapkan <en>valid passport, visa, and vaccination certificates</en> agar <ar>umrah mabrūrah</ar>.
+
+2364_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule.
+RESPONSE: Bisa, <en>send me the dates</en> <ar>bi idhnillāh</ar>, langsung aku beresin.
+
+2364_audio02
+USER: Aku butuh travel umrah simple, tapi include Madinah fisik.
+RESPONSE: Tentu, <en>I'll find you a lean package</en> <ar>ziyārah madīnah</ar> yang paling efisien.
+
+2364_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madina tomorrow?
+RESPONSE: Bisa, <en>use the Haramain High Speed Railway</en> <ar>li-sur'atihi</ar>, <en>it is the fastest way</en>.
+
+2364_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: <en>Apply via the official KSA Visa portal, upload documents, and pay the fee</en>, <ar>tamām</ar>, tinggal tunggu approval.
+
+2364_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbu al-Kodim. Hal bisa bantu Ajida Avda schedule warih latan Mubash Hiroh.
+RESPONSE: Bisa <ar>ya akhi</ar>, <en>I'll find the best direct flight schedule</en> <ar>bi-sur‘ah</ar>, kasih tau tanggalnya.
+
+2364_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: Siap, <en>I'll arrange it</en> <ar>inshā'Allāh</ar>, pilih <en>Haramain Train</en> <ar>li-sur‘ah</ar>.
+
+2364_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Sekarang <en>fully digital via e-visa or Nusuk</en>, <ar>sahl jiddan</ar>.
+
+2364_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Pilih <en>flight aggregator</en>, input rute ke Jeddah, <en>complete payment</en>, <ar>riḥlah mubārakah</ar>.
+
+2364_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar?
+RESPONSE: Siapkan paspor, visa, <en>vaccination certificates</en>, dan <ar>niyyah</ar> kuat biar <ar>umrah mabruurah</ar>.
+
+2364_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula.
+RESPONSE: Gak susah, <en>just need consistency</en> <ar>bi-l-istiqāmah</ar>, pasti bisa.
+
+2366_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule.
+RESPONSE: Bisa, <en>I'll handle the schedule</en> <ar>bi idznillāh</ar>, kirim <en>exact dates</en>-nya.
+
+2366_audio02
+USER: Aku butuh travel umrah simple tapi inkut Madinah visit.
+RESPONSE: Pilih <en>budget package</en> yang include <ar>ziyārah</ar> Madinah, <en>highly recommended</en>.
+
+2366_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+RESPONSE: Bisa, <en>I can book the Haramain High Speed Railway</en> biar <ar>safaran sa‘īdan</ar>.
+
+2366_audio04
+USER: Explain step by step cara apply Pisa Saudi dengan benar.
+RESPONSE: Buka <en>KSA Visa portal</en>, <en>upload documents</en>, bayar, then <ar>tamām</ar> visa <en>approved</en>.
+
+2366_audio05
+USER: Ya akhi, uridu book flight ila Jeddah alus duong lekadim hal bisa bantu ajida afda schedule wari helatan mubashiroh.
+RESPONSE: Bisa, <en>I will find the best direct flight</en> <ar>riḥlah mubāshirah</ar>, kasih tau tanggal keberangkatannya.
+
+2366_audio06
+USER: Uridu arrange transport minjedah ila Madinah ghadan.
+RESPONSE: <en>Easy, I'll arrange it</en> <ar>min Jiddah ila al-Madinah</ar> <ar>ghadan</ar>, kirim detailnya.
+
+2366_audio07
+USER: Book flight ke Judah lalu lanjut ke Madinah, schedule terbaik kapan?
+RESPONSE: <en>Best window is October to March</en> biar <ar>safar sa‘īd</ar>, ambil flight pagi.
+
+2366_audio11
+USER: Kenapa fasting di ramadan itu wajib bagi muslim?
+RESPONSE: Karena <en>divine command</en> untuk <ar>li-tattaqū</ar>, <en>to attain piety</en> dan <ar>taqwā</ar>.
+
+2366_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Buka <en>OTA app</en>, cari rute ke <ar>Jiddah</ar>, <en>select the best flight and complete payment</en>.
+
+2366_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: Siapkan <en>passport, visa, medications, and toiletries</en>, jangan lupa <ar>malābis al-iḥrām</ar>.
+
+2367_audio1
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: Bisa, <en>share the exact dates</en> <ar>safaran sa‘īd</ar>, biar aku <en>arrange</en>.
+
+2367_audio10
+USER: Apa perbedaan umrah dan hajj secara detail dalam Islam?
+RESPONSE: Hajj itu <en>obligatory pillar</en> <ar>farḍ</ar> dengan waktu khusus, <en>whereas Umrah is optional</en> <ar>sunnah</ar> tanpa wukuf.
+
+2367_audio13
+USER: Jelaskan step by step cara booking flight ke jeddah secara online.
+RESPONSE: Pilih <en>trusted travel app</en>, input <ar>Jiddah</ar>, tentukan tanggal, <en>complete payment</en>, <en>ticket issued</en>.
+
+2367_audio18
+USER: I feel overwhelmed dengan persiapan umrah, ada tip sederhana.
+RESPONSE: <en>Keep it simple</en>, buat <en>checklist</en> dan fokus pada <ar>niyyah</ar> serta <ar>tawakkul</ar>.
+
+2367_audio2
+USER: Aku butuh travel umrah simpel tapi inklu Madinah visit.
+RESPONSE: Cari <en>all-inclusive package</en> biar <en>hassle-free</en>, <ar>ziyārah madīnah</ar> sudah pasti tercover.
+
+2367_audio3
+USER: Can you help aku arrange transport dari Jeddah ke Madina Tomorrow?
+RESPONSE: Bisa, <en>use the Haramain High Speed Railway</en> for <en>maximum efficiency</en>, <ar>safaran sa‘īd</ar>.
+
+2367_audio4
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>official e-visa portal</en>, <en>upload documents</en>, bayar, dan <ar>insya Allah</ar> <en>visa approved</en>.
+
+2367_audio5
+USER: Ya akhi, uridu book flight ila Jeddah al uspu al Kadim, hal bisa bentu ajida after schedule warih latan Mubashirah?
+RESPONSE: Bisa, <en>I'll find the direct flight schedule</en> <ar>li-riḥlah mubāshirah</ar>, <ar>tafaddal</ar> kasih tanggal pastinya.
+
+2367_audio6
+USER: Uridu arrange transport minjadga ila Madinah ghadan.
+RESPONSE: <en>I can handle the transport</en> <ar>min Jiddah ilā al-Madīnah</ar> <ar>ghadan</ar>, <en>send me the details</en>.
+
+2367_audio7
+USER: Book flight ke Jeddah lalu lanjut ke Madinah. Schedule terbaik kapan?
+RESPONSE: Ambil <en>November to February</en> biar <ar>al-jaww jamīl</ar>, <en>perfect for travel</en>.
+
+2369_audio1
+USER: Mau book flight ke Jeddah minggu depan bisa bantu schedule
+RESPONSE: Bisa, <en>I'll handle the schedule</en> <ar>ilā Jiddah</ar>, share tanggal pastinya.
+
+2369_audio10
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Pilih <en>travel app</en>, input <en>itinerary</en>, <en>payment</en>, <ar>bi'idhnillāh</ar> tiket beres.
+
+2369_audio2
+USER: Aku butuh travel umrah simple tapi include Madinah visit.
+RESPONSE: Ambil <en>standard package</en> yang <en>all-in</en> <ar>ziyārah Madīnah</ar>, paling simpel.
+
+2369_audio3
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorow.
+RESPONSE: Bisa, <en>use the Haramain High Speed Railway</en> biar <ar>asra'</ar> and <en>convenient</en>.
+
+2369_audio4
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Register di <en>official KSA portal</en>, upload documents, <en>pay the fees</en>, then <ar>tammat</ar> tinggal tunggu approval.
+
+2369_audio5
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbu al-Qadim hal bisa bantu Ajida Afdal schedule warih latan Mubasirah.
+RESPONSE: Bisa <ar>yā akhī</ar>, <en>I'll find the best direct flights</en> <ar>bi-idhnillāh</ar>, kasih tau tanggalnya.
+
+2369_audio6
+USER: Uridu arrange transport min jendah ila Madinah ghadan.
+RESPONSE: <en>I can handle that</en>, <ar>tafaddal</ar> kasih tau jam dan jumlah orangnya.
+
+2369_audio7
+USER: Book flight ke Jeddah lalu lanjut ke Madinah schedule terbaik kapan?
+RESPONSE: <en>Fly early morning to Jeddah</en>, lanjut <en>Haramain High Speed Railway</en> <ar>ilā al-Madīnah</ar> biar <en>efficient</en>.
+
+2369_audio8
+USER: Uridu schedule trip min Jeddah ila Makkah bukrosabah.
+RESPONSE: Bisa, <en>I'll arrange your</en> <ar>riḥlah</ar> <en>tomorrow Wednesday</en>, <en>send me the time</en>.
+
+2369_audio9
+USER: Bagaimana proses via Saudi untuk umrah dari Indonesia sekarang.
+RESPONSE: Pakai <en>Nusuk app</en> untuk <en>eVisa</en> dan <ar>tasrīḥ</ar>, prosesnya <en>fast track</en>.
+
+2371_audio01
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: Bisa, <en>send me your departure city and date</en>, <ar>safaran sa‘īd</ar>.
+
+2371_audio02
+USER: Aku butuh travel umrah simpel tapi include Madinah visit.
+RESPONSE: Cari <en>basic package</en> with <ar>ziyārah</ar> Madinah, <en>guaranteed simple</en>.
+
+2371_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorow?
+RESPONSE: Bisa, <en>use the Haramain High Speed Railway</en> <ar>bi-idhnillāh</ar>, paling cepat.
+
+2371_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>official portal</en>, upload dokumen, bayar fee untuk <ar>tashrīrah</ar> <en>then wait for approval</en>.
+
+2371_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbu al-Qadim, hal bisa bantu Ajida Afdal schedule warih ratan mubashirah.
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>li-riḥlatuk ilā Jiddah</ar>, kasih tahu tanggal pastinya.
+
+2371_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: Bisa <en>I'll handle the transport</en>, <ar>tafadhdhal</ar> kasih tau jam berangkatnya.
+
+2371_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah schedule terbaik kapan.
+RESPONSE: <en>Early morning flight</en> <ar>afḍal</ar>, lanjut <en>Haramain train</en> ke Madinah biar <en>efficient</en>.
+
+2371_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Sekarang <en>fast and easy</en>, pakai <en>e-Visa</en> atau <ar>ta’shīrah</ar> turis via portal <en>Nusuk</en>.
+
+2371_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: <en>Open travel app</en>, input Jeddah, <en>select flight and dates</en>, isi data, <en>complete payment</en>, <ar>safaran sa‘īd</ar>.
+
+2371_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula.
+RESPONSE: Nggak susah, <en>it's all about the method</en>, <ar>sahl jiddan</ar> asal konsisten.
+
+2372_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule.
+RESPONSE: <en>I've got you covered</en>, kirim tanggal pastinya, <ar>safaran sa‘īdan</ar>.
+
+2372_audio02
+USER: Aku butuh travel umrah simpel tapi include Madinah visit.
+RESPONSE: Pakai <en>all-in package</en> biar <ar>ziyārah</ar> Madinah <en>hassle-free</en>.
+
+2372_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madina tomorrow?
+RESPONSE: Bisa, <en>I'll handle the transport</en> <ar>safaran sa‘īdan</ar>, mau <en>train or car</en>?
+
+2372_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Buka <en>visa.visitsaudi.com</en>, upload documents, pay, and <en>get your e-visa</en> <ar>bi-idhnillah</ar>.
+
+2372_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-Usbu al-Qadim hal bisa bantu Ajida Afdal schedule warh latan mubashirah.
+RESPONSE: <ar>na‘am</ar>, bisa <en>find the best direct flight</en> <ar>bi-idhnillāh</ar>, kasih tau kota asalmu.
+
+2372_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>I can arrange that</en> <ar>min Jeddah ila Madinah</ar> <ar>ghadan</ar>, kirim detailnya.
+
+2372_audio10
+USER: Apa perbedaan umrah dan hajj secara detail dalam Islam?
+RESPONSE: Hajj itu <en>mandatory</en> <ar>farḍ</ar> with fixed timing, sedangkan Umrah <en>voluntary</en> <ar>sunnah</ar> and flexible timing.
+
+2372_audio11
+USER: Kenapa fasting di ramadan itu wajib bagi muslim?
+RESPONSE: Sudah <ar>fardhu</ar> based on <en>Quranic command</en> biar dapat <ar>taqwa</ar>.
+
+2372_audio14
+USER: How to prepare dokumen umrah dari Indonesia dengan benar.
+RESPONSE: Pastikan paspor <en>valid for 6 months</en>, urus visa, dan siapkan <ar>syahādah</ar> kesehatan biar <ar>safaran</ar> lancar.
+
+2372_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: <en>Passport, visa, vaccine certificates</en>, <ar>iḥrām</ar>, <en>personal medication</en>, and <ar>nuqūd</ar>. <en>Keep it simple</en> <ar>bi'idhnillāh</ar>.
+
+2374_audio01
+USER: Aku mau book flight ke Jeddah minggu depan, bisa bantu schedule?
+RESPONSE: Bisa, <en>I will handle the schedule</en> ke <ar>Jiddah</ar>, kirim tanggal tepatnya.
+
+2374_audio02
+USER: Aku butuh travel umrah simpel tapi inklud Madinah visit.
+RESPONSE: Pilih <en>customized plan</en> agar <ar>maysūr</ar>, pasti include <ar>ziyārah Madīnah</ar>.
+
+2374_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinahto Moro?
+RESPONSE: <en>I've got you covered</en>, pake Haramain Train biar <ar>asra‘</ar> dan <en>efficient</en>.
+
+2374_audio04
+USER: Explains step by step cara upload visa Saudi dengan benar.
+RESPONSE: <en>Login to portal</en>, upload PDF <en>clear scan</en>, pastikan <ar>tāshīrah</ar> sudah valid, then submit.
+
+2374_audio05
+USER: Ya akhi, uridu book flight ila Jeddah alus bual kodim. Hal bisa bantu Ajida Afdol schedule wari helatan nubashirah?
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>li-ajlak</ar>, kasih tau tanggalnya <ar>ya akhi</ar>.
+
+2374_audio06
+USER: Uridu erase transport min Jeddah ila Madinah ghadan.
+RESPONSE: <en>I'll find the best transport</en> <ar>min Jiddah ilā al-Madīnah</ar> <en>for tomorrow</en>.
+
+2374_audio11
+USER: Kenapa fasting di Ramadan itu wajib bagi muslim?
+RESPONSE: Itu <en>divine command</en> untuk melatih <ar>taqwā</ar> dan bentuk <ar>‘ibādah</ar> kepada Allah.
+
+2374_audio13
+USER: Jelaskan step by step cara booking flight ke Jeddah secara online.
+RESPONSE: Pakai <en>travel app</en>, <en>search Jeddah flight</en>, <en>complete payment</en>, then <ar>safaran sa‘īdan</ar>.
+
+2374_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib dibawah.
+RESPONSE: Siapkan paspor, visa, <en>medicine</en>, dan <ar>iḥrām</ar>. <en>Get everything ready</en> agar <ar>ibādah</ar> lancar.
+
+2374_audio17
+USER: Menurut kamu, belajar bahasa Arab itu susah gak untuk pemula.
+RESPONSE: <en>Not at all</en>, yang penting <ar>istiqāmah</ar> dan <en>right strategy</en>.
+
+2375_audio01
+USER: Aku mau book flight ke Jeddah minggu depan bisa bantu schedule.
+RESPONSE: Bisa, <en>I'll handle your schedule</en> <ar>in shā' Allāh</ar>, kasih tau tanggal pastinya.
+
+2375_audio02
+USER: Aku butuh travel umrah, simple, tapi include Madinah visit.
+RESPONSE: Tenang, aku kasih <en>best simple package</en> biar <ar>ziyārah</ar> Madinah <en>all-in</en>.
+
+2375_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorrow?
+RESPONSE: Bisa, <en>use Haramain High Speed Railway</en> <ar>asra‘ wa afḍal</ar>, <en>book your ticket now</en>.
+
+2375_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Akses <en>KSAVisa portal</en>, <en>complete application and payment</en>, then <ar>intizhar</ar> approval.
+
+2375_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al usbun al kodim, hal bisa bantu ajidah aftol schedule warih latan mubashiroh.
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>lil-usbu' al-qadim</ar>, kasih tau <en>departure city</en>-nya.
+
+2375_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: Bisa, <en>I'll handle the transport</en> <ar>bi-sur'ah</ar>, kirim detail <en>the timing</en>.
+
+2375_audio08
+USER: Uridu schedule trip dari Jeddah ke Makkah besok pagi.
+RESPONSE: <ar>Tafaddal</ar>, <en>I'll arrange the schedule</en> <ar>bi-sur‘ah</ar>, kasih tau jamnya.
+
+2375_audio11
+USER: Kenapa fasting di Ramadon itu wajib bagi muslim?
+RESPONSE: Perintah Allah untuk mencapai <ar>taqwa</ar>, <en>it's one of the five pillars of Islam</en>.
+
+2375_audio15
+USER: Tolong buat checklist persiapan umrah, termasuk barang wajib di bawah.
+RESPONSE: Siapkan <en>passport, visa, and medicine</en>, <ar>iḥrām</ar>, dan <en>comfort shoes</en> agar <ar>ibādah</ar> lancar.
+
+2375_audio18
+USER: I feel overwhelmed dengan persiapan umrah. Ada tip sederhana?
+RESPONSE: Fokus <en>step by step</en> pakai <en>checklist</en> dan luruskan <ar>niyyah</ar>, <en>stay calm</en>.
+
+2379_audio01
+USER: Aku mau book flight ke Jeddah minggu depan. Bisa bantu schedule?
+RESPONSE: Bisa banget, <en>I'll handle the booking</en> <ar>bi-idhnillāh</ar>, kasih tau tanggal pastinya.
+
+2379_audio02
+USER: Aku butuh travel umrah simple tapi inkut Madinah fisik.
+RESPONSE: Pilih <en>custom package</en> biar <ar>ziyārah</ar> Madinah-nya lebih fleksibel.
+
+2379_audio03
+USER: Can you help aku arrange transport dari Jeddah ke Madinah tomorrho?
+RESPONSE: Bisa, <en>use the Haramain High Speed Railway</en> <ar>afdal</ar>, <en>it's the fastest</en>.
+
+2379_audio05
+USER: Ya akhi, uridu book flight ila Jeddah al-usbu al-kadim hal bisa bantu Ajida Afdal schedule wahrilatan mubashirah.
+RESPONSE: Bisa, <en>I'll find the best direct flight</en> <ar>li-riḥlah mubāshirah</ar>, kasih tau kota asalnya.
+
+2379_audio06
+USER: Uridu arrange transport min Jeddah ila Madinah ghadan.
+RESPONSE: <ar>Tafadḍal</ar>, <en>I'll handle your transport</en> <ar>bi-sur‘ah</ar>, kasih tau jamnya.
+
+2379_audio07
+USER: Book flight ke Jeddah lalu lanjut ke Madinah schedule terbaik kapan.
+RESPONSE: Mid-week <en>is the best time</en>, lalu pakai <ar>al-ḥaramayn</ar> <en>high speed railway</en> biar efisien.
+
+2379_audio12
+USER: Bagaimana proses visa Saudi untuk umrah dari Indonesia sekarang?
+RESPONSE: Paling simpel pakai <en>e-visa or tourist visa</en> via Nusuk, <en>fast process</en> buat <ar>ta'shirah umrah</ar>.
+
+2379_audio18
+USER: I feel overwhelmed dengan persiapan umrah ada tip sederhana.
+RESPONSE: Buat <en>simple checklist</en> dan perkuat <ar>niyah</ar>, <en>keep it minimal</en> biar tidak pusing.
+
+2479_audio04
+USER: Explain step by step cara apply visa Saudi dengan benar.
+RESPONSE: Akses <en>e-visa portal</en>, <en>upload documents</en>, lalu <en>pay the fee</en> sampai <ar>ta'shira</ar> terbit.
+
+2479_audio15
+USER: Tolong buat checklist persiapan umrah termasuk barang wajib di bawah.
+RESPONSE: Siapkan <en>passport, visa</en>, pakaian <ar>iḥrām</ar>, dan <en>essential medicines</en>. <en>Get ready</en> untuk <ar>‘umrah mabrūrah</ar>.
+

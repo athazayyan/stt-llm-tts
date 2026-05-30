@@ -1,0 +1,3370 @@
+{
+  "results": {
+    "2128_audio01": {
+      "file": "2128_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Tentu. Berikan kota asal dan tanggal keberangkatan, saya carikan jadwal terbaik.",
+      "status": "ok"
+    },
+    "2128_audio02": {
+      "file": "2128_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih travel dengan hotel di pelataran Masjid Nabi dan jadwal kunjungan kota yang efisien.",
+      "status": "ok"
+    },
+    "2128_audio03": {
+      "file": "2128_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk perjalanan tercepat dan ternyaman.",
+      "status": "ok"
+    },
+    "2128_audio04": {
+      "file": "2128_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses situs resmi, unggah paspor, bayar biaya, dan unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2128_audio05": {
+      "file": "2128_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Tentu, saya bisa carikan jadwal penerbangan langsung terbaik ke Jeddah. Berikan tanggal keberangkatannya.",
+      "status": "ok"
+    },
+    "2128_audio06": {
+      "file": "2128_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan tiket bus oranye Jeddah ke Madinah untuk besok melalui aplikasi resmi atau loket terminal.",
+      "status": "ok"
+    },
+    "2128_audio12": {
+      "file": "2128_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Urus visa resmi dan pesan akomodasi secara mandiri, lalu koordinasikan kedatangan dengan penyelenggara jasa di sana.",
+      "status": "ok"
+    },
+    "2128_audio13": {
+      "file": "2128_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Gunakan aplikasi perjalanan, pilih tujuan Jeddah, lengkapi data penumpang, lalu lakukan pembayaran.",
+      "status": "ok"
+    },
+    "2128_audio14": {
+      "file": "2128_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Lengkapi paspor berlaku enam bulan, visa, sertifikat vaksin, foto latar putih, dan kartu identitas. Pastikan seluruh berkas valid.",
+      "status": "ok"
+    },
+    "2128_audio16": {
+      "file": "2128_audio16.wav",
+      "utterance_id": "audio16",
+      "response_text": "Pilih hotel di kawasan Misafalah atau Ajyad yang menyediakan bus gratis. Ambil kelas ekonomi agar biaya tetap hemat.",
+      "status": "ok"
+    },
+    "2222_audio1": {
+      "file": "2222_audio1.wav",
+      "utterance_id": "audio1",
+      "response_text": "Sebutkan kota asal dan tanggal keberangkatan. Saya carikan jadwal terbaik untukmu.",
+      "status": "ok"
+    },
+    "2222_audio10": {
+      "file": "2222_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Haji wajib dilakukan pada waktu tertentu dengan ritual lengkap, sedangkan umrah bisa dilakukan kapan saja dengan tata cara lebih sederhana.",
+      "status": "ok"
+    },
+    "2222_audio12": {
+      "file": "2222_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Kini sangat praktis, cukup ajukan visa turis atau visa umrah secara daring melalui portal resmi dan agen perjalanan.",
+      "status": "ok"
+    },
+    "2222_audio14": {
+      "file": "2222_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor aktif, visa, sertifikat vaksin meningitis, pas foto terbaru, dan kartu identitas diri.",
+      "status": "ok"
+    },
+    "2222_audio2": {
+      "file": "2222_audio2.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket reguler sembilan hari. Sudah pasti mencakup kunjungan lengkap ke Madinah.",
+      "status": "ok"
+    },
+    "2222_audio3": {
+      "file": "2222_audio3.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain, pilihan tercepat dan paling efisien.",
+      "status": "ok"
+    },
+    "2222_audio4": {
+      "file": "2222_audio4.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar di situs resmi, unggah paspor dan foto, bayar biaya administrasi, lalu unduh visa setelah disetujui.",
+      "status": "ok"
+    },
+    "2222_audio5": {
+      "file": "2222_audio5.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggal keberangkatan untuk jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2222_audio6": {
+      "file": "2222_audio6.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan kereta cepat Haramain atau pesan taksi pribadi sekarang.",
+      "status": "ok"
+    },
+    "2222_audio7": {
+      "file": "2222_audio7.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pilih bulan November hingga Februari agar cuaca sejuk. Segera lanjut ke Madinah setelah mendarat di Jeddah.",
+      "status": "ok"
+    },
+    "2301_audio1": {
+      "file": "2301_audio1.wav",
+      "utterance_id": "audio1",
+      "response_text": "Berikan detail tanggal dan jamnya, saya carikan jadwal terbaik untuk Anda.",
+      "status": "ok"
+    },
+    "2301_audio11": {
+      "file": "2301_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Perintah langsung Allah dalam kitab suci agar umat Islam menjadi pribadi yang bertakwa.",
+      "status": "ok"
+    },
+    "2301_audio12": {
+      "file": "2301_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Ajukan visa turis elektronik melalui aplikasi resmi atau agen terpercaya secara daring. Prosesnya kini sangat cepat dan praktis.",
+      "status": "ok"
+    },
+    "2301_audio14": {
+      "file": "2301_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor berlaku minimal enam bulan, visa, sertifikat vaksin meningitis, dan pas foto latar putih. Pastikan semua dokumen sah dan lengkap.",
+      "status": "ok"
+    },
+    "2301_audio15": {
+      "file": "2301_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, visa, kain ihram, pakaian harian, obat-obatan, dan uang tunai. Pastikan semua dokumen dan perlengkapan siap lengkap.",
+      "status": "ok"
+    },
+    "2301_audio2": {
+      "file": "2301_audio2.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket reguler resmi Kemenag yang sudah mencakup kunjungan kota Madinah.",
+      "status": "ok"
+    },
+    "2301_audio3": {
+      "file": "2301_audio3.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk pilihan tercepat dan ternyaman. Segera pesan tiketnya secara daring.",
+      "status": "ok"
+    },
+    "2301_audio4": {
+      "file": "2301_audio4.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar melalui situs resmi, unggah dokumen lengkap, bayar biaya, dan tunggu konfirmasi terbit.",
+      "status": "ok"
+    },
+    "2301_audio5": {
+      "file": "2301_audio5.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggal keberangkatan untuk jadwal penerbangan langsung ke Jeddah dan kepulangannya.",
+      "status": "ok"
+    },
+    "2301_audio6": {
+      "file": "2301_audio6.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk opsi tercepat, atau pesan taksi privat.",
+      "status": "ok"
+    },
+    "2302_audio01": {
+      "file": "2302_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Berikan tanggal dan jam keberangkatan, saya atur jadwal terbaik untuk Anda.",
+      "status": "ok"
+    },
+    "2302_audio02": {
+      "file": "2302_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Gunakan sewa mobil pribadi paket lengkap termasuk ziarah kota Madinah.",
+      "status": "ok"
+    },
+    "2302_audio03": {
+      "file": "2302_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan kereta cepat untuk efisiensi maksimal. Segera pesan tiketnya secara daring.",
+      "status": "ok"
+    },
+    "2302_audio04": {
+      "file": "2302_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses laman resmi, lengkapi data, unggah dokumen, bayar biaya, dan tunggu persetujuan.",
+      "status": "ok"
+    },
+    "2302_audio05": {
+      "file": "2302_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Siap, saya bantu pesankan tiket ke Jeddah minggu depan dan atur jadwalnya segera.",
+      "status": "ok"
+    },
+    "2302_audio06": {
+      "file": "2302_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Segera pesan kereta cepat Haramain atau taksi daring untuk ke Madinah besok.",
+      "status": "ok"
+    },
+    "2302_audio11": {
+      "file": "2302_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Sebagai bentuk ketaatan pada perintah Tuhan untuk mensucikan jiwa dan meningkatkan ketakwaan.",
+      "status": "ok"
+    },
+    "2302_audio14": {
+      "file": "2302_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor berlaku enam bulan, visa, sertifikat vaksin, dan pas foto terbaru. Pastikan semua data sesuai identitas resmi.",
+      "status": "ok"
+    },
+    "2302_audio15": {
+      "file": "2302_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, izin masuk, vaksin, pakaian putih khusus, baju sopan, obat-obatan, uang tunai, dan panduan ibadah. Pastikan lengkap.",
+      "status": "ok"
+    },
+    "2302_audio17": {
+      "file": "2302_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, asalkan menggunakan metode yang tepat dan konsisten.",
+      "status": "ok"
+    },
+    "2303_audio01": {
+      "file": "2303_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Sebutkan tanggal dan jam keberangkatan, saya buatkan jadwal paling efisien.",
+      "status": "ok"
+    },
+    "2303_audio02": {
+      "file": "2303_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket reguler, kunjungan ke Kota Madinah sudah pasti termasuk.",
+      "status": "ok"
+    },
+    "2303_audio03": {
+      "file": "2303_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk opsi tercepat dan ternyaman. Pesan segera melalui aplikasi resminya.",
+      "status": "ok"
+    },
+    "2303_audio04": {
+      "file": "2303_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses situs resmi, unggah dokumen, bayar biaya, dan unduh visa Anda. Cepat dan praktis.",
+      "status": "ok"
+    },
+    "2303_audio05": {
+      "file": "2303_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Sebutkan kota asal Anda, saya carikan jadwal penerbangan langsung ke Jeddah minggu depan.",
+      "status": "ok"
+    },
+    "2303_audio06": {
+      "file": "2303_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan transportasi Oranye dari Jeddah ke Madinah besok melalui aplikasi resmi.",
+      "status": "ok"
+    },
+    "2303_audio07": {
+      "file": "2303_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pilih bulan November sampai Februari agar cuaca lebih sejuk dan nyaman.",
+      "status": "ok"
+    },
+    "2303_audio13": {
+      "file": "2303_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Akses situs pemesanan, pilih rute ke Jeddah, tentukan tanggal, isi data diri, lalu selesaikan pembayaran.",
+      "status": "ok"
+    },
+    "2303_audio15": {
+      "file": "2303_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Dokumen perjalanan, kain ihram, obat pribadi, pakaian nyaman, dan dana tunai. Pastikan kondisi fisik prima.",
+      "status": "ok"
+    },
+    "2303_audio19": {
+      "file": "2303_audio19.wav",
+      "utterance_id": "audio19",
+      "response_text": "Urus paspor segera, lalu pilih agen travel resmi untuk mengurus visa dan jadwal keberangkatan.",
+      "status": "ok"
+    },
+    "2304_audio01": {
+      "file": "2304_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Tentu. Berikan kota asal dan tanggal tepatnya, saya atur jadwal terbaik untukmu.",
+      "status": "ok"
+    },
+    "2304_audio02": {
+      "file": "2304_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket hemat dengan fasilitas ziarah Madinah lengkap. Praktis dan terjamin.",
+      "status": "ok"
+    },
+    "2304_audio03": {
+      "file": "2304_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain, opsi tercepat dan ternyaman. Segera pesan tiket melalui aplikasi resminya.",
+      "status": "ok"
+    },
+    "2304_audio04": {
+      "file": "2304_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar di portal resmi visa Saudi, lengkapi data dan dokumen, lalu bayar biayanya.",
+      "status": "ok"
+    },
+    "2304_audio05": {
+      "file": "2304_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggal berangkatnya, saya carikan jadwal penerbangan langsung terbaik.",
+      "status": "ok"
+    },
+    "2304_audio06": {
+      "file": "2304_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain, itu pilihan tercepat dan paling nyaman.",
+      "status": "ok"
+    },
+    "2304_audio07": {
+      "file": "2304_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Oktober hingga November adalah waktu terbaik karena cuaca sejuk dan biaya rendah. Gunakan kereta cepat untuk transportasi ke Madinah agar lebih efisien.",
+      "status": "ok"
+    },
+    "2304_audio11": {
+      "file": "2304_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Perintah Tuhan untuk melatih pengendalian diri dan meningkatkan ketakwaan.",
+      "status": "ok"
+    },
+    "2304_audio15": {
+      "file": "2304_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, izin masuk, pakaian ibadah putih, obat-obatan, uang tunai, dan perlengkapan mandi. Lengkapi segera.",
+      "status": "ok"
+    },
+    "2304_audio18": {
+      "file": "2304_audio18.wav",
+      "utterance_id": "audio18",
+      "response_text": "Buat daftar periksa barang penting dan fokuslah pada persiapan hati.",
+      "status": "ok"
+    },
+    "2305_audio01": {
+      "file": "2305_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Berikan tanggal dan kota asal Anda. Saya atur jadwal terbaiknya sekarang.",
+      "status": "ok"
+    },
+    "2305_audio02": {
+      "file": "2305_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket umrah ekonomi, sudah pasti termasuk kunjungan kota Madinah. Pastikan agen berizin resmi.",
+      "status": "ok"
+    },
+    "2305_audio03": {
+      "file": "2305_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan kereta cepat untuk opsi tercepat. Pesan tiketnya segera melalui situs resmi.",
+      "status": "ok"
+    },
+    "2305_audio04": {
+      "file": "2305_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Buka portal resmi, unggah paspor dan foto, bayar biaya, lalu unduh visa elektronik.",
+      "status": "ok"
+    },
+    "2305_audio05": {
+      "file": "2305_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa, saya carikan jadwal penerbangan langsung terbaik dan tercepat ke Jeddah sekarang.",
+      "status": "ok"
+    },
+    "2305_audio06": {
+      "file": "2305_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan kereta cepat Haramain atau pesan taksi pribadi sekarang.",
+      "status": "ok"
+    },
+    "2305_audio11": {
+      "file": "2305_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Karena perintah Allah dalam kitab suci untuk meningkatkan ketakwaan.",
+      "status": "ok"
+    },
+    "2305_audio12": {
+      "file": "2305_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Gunakan visa turis elektronik atau visa umrah melalui agen resmi lewat aplikasi pemerintah Saudi. Prosesnya kini sepenuhnya digital dan sangat cepat.",
+      "status": "ok"
+    },
+    "2305_audio14": {
+      "file": "2305_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Lengkapi paspor berlaku minimal enam bulan, visa, sertifikat vaksin, kartu keluarga, dan pas foto terbaru.",
+      "status": "ok"
+    },
+    "2305_audio18": {
+      "file": "2305_audio18.wav",
+      "utterance_id": "audio18",
+      "response_text": "Buat daftar periksa prioritas dan fokus pada kesehatan fisik. Sisanya, pasrahkan pada Tuhan.",
+      "status": "ok"
+    },
+    "2306_Audio01": {
+      "file": "2306_Audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Berikan tanggal dan tujuan Anda, saya atur jadwal penerbangan terbaik sekarang.",
+      "status": "ok"
+    },
+    "2306_Audio02": {
+      "file": "2306_Audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket lengkap dengan layanan kunjungan kota Madinah agar praktis.",
+      "status": "ok"
+    },
+    "2306_Audio03": {
+      "file": "2306_Audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain, opsi tercepat dan paling nyaman. Segera pesan tiketnya.",
+      "status": "ok"
+    },
+    "2306_Audio04": {
+      "file": "2306_Audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar di situs resmi, unggah paspor dan foto, bayar biaya administrasi, lalu unduh visa setelah disetujui.",
+      "status": "ok"
+    },
+    "2306_Audio05": {
+      "file": "2306_Audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Siap, saya carikan jadwal penerbangan langsung terbaik ke Jeddah untuk minggu depan.",
+      "status": "ok"
+    },
+    "2306_Audio06": {
+      "file": "2306_Audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan kereta cepat atau taksi untuk perjalanan dari Jeddah ke Madinah besok.",
+      "status": "ok"
+    },
+    "2306_Audio11": {
+      "file": "2306_Audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Untuk meningkatkan ketakwaan, melatih disiplin diri, dan bentuk ketaatan mutlak kepada perintah Tuhan.",
+      "status": "ok"
+    },
+    "2306_Audio12": {
+      "file": "2306_Audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Kini menggunakan visa elektronik melalui platform resmi atau agen terdaftar, prosesnya jauh lebih cepat dan praktis.",
+      "status": "ok"
+    },
+    "2306_Audio13": {
+      "file": "2306_Audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Pilih aplikasi daring, tentukan rute ke Jeddah dan tanggal, isi data diri, lalu selesaikan pembayaran.",
+      "status": "ok"
+    },
+    "2306_Audio14": {
+      "file": "2306_Audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor valid enam bulan, sertifikat vaksin, pas foto latar putih, KTP, KK, dan visa.",
+      "status": "ok"
+    },
+    "2306_Audio15": {
+      "file": "2306_Audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, surat izin masuk, pakaian putih khusus, pakaian sopan, obat pribadi, alat mandi tanpa pewangi, dan perlengkapan ibadah.",
+      "status": "ok"
+    },
+    "2307_audio01": {
+      "file": "2307_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Bisa. Sebutkan kota asal dan tanggal pastinya, saya carikan jadwal paling efisien.",
+      "status": "ok"
+    },
+    "2307_audio02": {
+      "file": "2307_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket umrah reguler. Praktis, ringkas, dan sudah mencakup kunjungan ke Madinah.",
+      "status": "ok"
+    },
+    "2307_audio03": {
+      "file": "2307_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain, pilihan paling cepat dan praktis.",
+      "status": "ok"
+    },
+    "2307_audio04": {
+      "file": "2307_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar di portal resmi, lengkapi berkas dan pembayaran, lalu unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2307_audio05": {
+      "file": "2307_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggal berangkat Anda, saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2307_audio06": {
+      "file": "2307_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk perjalanan tercepat dan ternyaman.",
+      "status": "ok"
+    },
+    "2307_audio07": {
+      "file": "2307_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Ambil penerbangan pagi ke Jeddah agar bisa langsung naik kereta cepat ke Madinah. Hindari musim puncak haji untuk kenyamanan maksimal.",
+      "status": "ok"
+    },
+    "2307_audio10": {
+      "file": "2307_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Haji wajib, terikat waktu, dan ada ritual berdiam diri di Arafah. Umrah sunnah dan bisa dilakukan kapan saja.",
+      "status": "ok"
+    },
+    "2307_audio15": {
+      "file": "2307_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, visa, pakaian ihram, obat pribadi, uang tunai, dan alat mandi tanpa wewangian. Pastikan semua lengkap.",
+      "status": "ok"
+    },
+    "2307_audio17": {
+      "file": "2307_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, kuncinya hanya paham pola dasar.",
+      "status": "ok"
+    },
+    "2308_audio01": {
+      "file": "2308_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Bisa. Berikan tanggal dan jam keberangkatanmu, saya aturkan jadwal terbaik sekarang.",
+      "status": "ok"
+    },
+    "2308_audio02": {
+      "file": "2308_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket Umrah Hemat dengan ziarah kota Madinah. Praktis dan tuntas.",
+      "status": "ok"
+    },
+    "2308_audio03": {
+      "file": "2308_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk opsi tercepat, atau pesan taksi dan bus.",
+      "status": "ok"
+    },
+    "2308_audio04": {
+      "file": "2308_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar di situs resmi, lengkapi data dan dokumen, bayar biaya, lalu tunggu visa terbit.",
+      "status": "ok"
+    },
+    "2308_audio05": {
+      "file": "2308_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Saya akan carikan jadwal penerbangan langsung terbaik ke Jeddah untuk Anda.",
+      "status": "ok"
+    },
+    "2308_audio06": {
+      "file": "2308_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan kereta cepat Haramain untuk perjalanan tercepat dan ternyaman.",
+      "status": "ok"
+    },
+    "2308_audio12": {
+      "file": "2308_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Kini jauh lebih mudah melalui visa elektronik atau aplikasi resmi. Prosesnya cepat, mandiri, dan sepenuhnya digital.",
+      "status": "ok"
+    },
+    "2308_audio13": {
+      "file": "2308_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Pilih situs pemesanan, tentukan tanggal dan tujuan Jeddah, isi data diri, lalu selesaikan pembayaran.",
+      "status": "ok"
+    },
+    "2308_audio15": {
+      "file": "2308_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Siapkan paspor, visa, kain ihram, obat pribadi, dan pakaian sopan. Pastikan seluruh dokumen dan perlengkapan wajib lengkap.",
+      "status": "ok"
+    },
+    "2308_audio17": {
+      "file": "2308_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, asal tahu pola dan metode yang tepat.",
+      "status": "ok"
+    },
+    "2309_audio01": {
+      "file": "2309_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Beri tahu kota asal dan tanggal pastinya. Saya carikan jadwal terbaik untuk Anda.",
+      "status": "ok"
+    },
+    "2309_audio02": {
+      "file": "2309_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket reguler. Semua paket standar pasti sudah mencakup kunjungan ke Madinah.",
+      "status": "ok"
+    },
+    "2309_audio03": {
+      "file": "2309_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Dua Kota Suci untuk opsi tercepat. Pesan tiket melalui aplikasi resmi segera.",
+      "status": "ok"
+    },
+    "2309_audio04": {
+      "file": "2309_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Kunjungi situs resmi visa elektronik, unggah dokumen paspor dan foto, bayar biaya administrasi, lalu unduh visa Anda.",
+      "status": "ok"
+    },
+    "2309_audio05": {
+      "file": "2309_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa, saya carikan jadwal penerbangan langsung ke Jeddah untuk minggu depan.",
+      "status": "ok"
+    },
+    "2309_audio06": {
+      "file": "2309_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan kereta cepat Haramain atau taksi privat untuk keberangkatan besok.",
+      "status": "ok"
+    },
+    "2309_audio08": {
+      "file": "2309_audio08.wav",
+      "utterance_id": "audio8",
+      "response_text": "Gunakan Kereta Cepat Haramain pukul enam pagi untuk perjalanan tercepat dan ternyaman.",
+      "status": "ok"
+    },
+    "2309_audio12": {
+      "file": "2309_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Sekarang prosesnya jauh lebih cepat melalui visa elektronik. Anda bisa mengurusnya secara mandiri lewat laman resmi atau melalui agen perjalanan.",
+      "status": "ok"
+    },
+    "2309_audio15": {
+      "file": "2309_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, visa, kain ihram, obat pribadi, pakaian sopan, dan uang tunai. Pastikan dokumen kesehatan sudah lengkap.",
+      "status": "ok"
+    },
+    "2309_audio17": {
+      "file": "2309_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Menantang, tapi sangat mudah dikuasai jika tahu pola dan kuncinya.",
+      "status": "ok"
+    },
+    "2310_Audio01": {
+      "file": "2310_Audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Sebutkan kota keberangkatanmu, saya carikan jadwal terbaik sekarang.",
+      "status": "ok"
+    },
+    "2310_Audio02": {
+      "file": "2310_Audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket Umrah praktis yang sudah mencakup ziarah Madinah.",
+      "status": "ok"
+    },
+    "2310_Audio03": {
+      "file": "2310_Audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Pesan Kereta Cepat untuk opsi tercepat, atau gunakan taksi dan bus.",
+      "status": "ok"
+    },
+    "2310_Audio04": {
+      "file": "2310_Audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Siapkan paspor dan foto, daftar melalui portal resmi, bayar biaya, dan tunggu hingga terbit.",
+      "status": "ok"
+    },
+    "2310_Audio05": {
+      "file": "2310_Audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Tentu, saya carikan jadwal penerbangan langsung terbaik ke Jeddah untuk minggu depan.",
+      "status": "ok"
+    },
+    "2310_Audio06": {
+      "file": "2310_Audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan tiket kereta cepat atau sewa taksi untuk perjalanan besok.",
+      "status": "ok"
+    },
+    "2310_Audio07": {
+      "file": "2310_Audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "November sampai Februari untuk cuaca terbaik. Gunakan kereta cepat dari Jeddah menuju Madinah.",
+      "status": "ok"
+    },
+    "2310_Audio11": {
+      "file": "2310_Audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Perintah Tuhan untuk meningkatkan ketakwaan dan menyucikan jiwa.",
+      "status": "ok"
+    },
+    "2310_Audio14": {
+      "file": "2310_Audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Lengkapi paspor masa berlaku enam bulan, visa, sertifikat vaksin meningitis, pas foto latar putih, serta KTP dan KK.",
+      "status": "ok"
+    },
+    "2310_Audio20": {
+      "file": "2310_Audio20.wav",
+      "utterance_id": "audio20",
+      "response_text": "Pastikan semua dokumen lengkap, semoga perjalanan Anda lancar dan berkah.",
+      "status": "ok"
+    },
+    "2311_audio01": {
+      "file": "2311_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Berikan detail kota asal dan waktu keberangkatan, saya atur jadwal terbaiknya.",
+      "status": "ok"
+    },
+    "2311_audio02": {
+      "file": "2311_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket umrah reguler. Ziarah kota Madinah pasti sudah termasuk di dalamnya.",
+      "status": "ok"
+    },
+    "2311_audio03": {
+      "file": "2311_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan kereta cepat, itu pilihan paling efisien dan nyaman.",
+      "status": "ok"
+    },
+    "2311_audio04": {
+      "file": "2311_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi, unggah dokumen, bayar biaya, dan tunggu persetujuan keluar.",
+      "status": "ok"
+    },
+    "2311_audio05": {
+      "file": "2311_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Tentu. Sebutkan kota asal Anda, saya carikan jadwal dan harga terbaik ke Jeddah minggu depan.",
+      "status": "ok"
+    },
+    "2311_audio06": {
+      "file": "2311_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat untuk perjalanan tercepat dan ternyaman besok.",
+      "status": "ok"
+    },
+    "2311_audio09": {
+      "file": "2311_audio09.wav",
+      "utterance_id": "audio9",
+      "response_text": "Pesan kereta cepat sekarang untuk perjalanan paling efisien dan nyaman.",
+      "status": "ok"
+    },
+    "2311_audio12": {
+      "file": "2311_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Gunakan visa elektronik atau visa turis lewat aplikasi resmi dan agen terpercaya. Prosesnya kini sepenuhnya daring dan sangat cepat.",
+      "status": "ok"
+    },
+    "2311_audio14": {
+      "file": "2311_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor masa berlaku minimal enam bulan, visa, sertifikat vaksin, dan foto terbaru secara lengkap.",
+      "status": "ok"
+    },
+    "2311_audio17": {
+      "file": "2311_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak susah, asalkan menggunakan metode yang tepat dan tekun.",
+      "status": "ok"
+    },
+    "2312_audio1": {
+      "file": "2312_audio1.wav",
+      "utterance_id": "audio1",
+      "response_text": "Beri tahu tanggal pastinya, saya akan carikan jadwal penerbangan terbaik untuk Anda.",
+      "status": "ok"
+    },
+    "2312_audio11": {
+      "file": "2312_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Perintah wajib dari Tuhan untuk meningkatkan ketakwaan, disiplin diri, dan empati sosial.",
+      "status": "ok"
+    },
+    "2312_audio15": {
+      "file": "2312_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Siapkan paspor, visa, kain ihram, obat pribadi, perlengkapan mandi tanpa pewangi, dan uang tunai. Pastikan dokumen kesehatan lengkap.",
+      "status": "ok"
+    },
+    "2312_audio19": {
+      "file": "2312_audio19.wav",
+      "utterance_id": "audio19",
+      "response_text": "Pilih biro perjalanan resmi, siapkan paspor, dan tentukan anggaran. Segera eksekusi.",
+      "status": "ok"
+    },
+    "2312_audio2": {
+      "file": "2312_audio2.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket sederhana yang mencakup ziarah kota Madinah melalui agen berizin resmi.",
+      "status": "ok"
+    },
+    "2312_audio20": {
+      "file": "2312_audio20.wav",
+      "utterance_id": "audio20",
+      "response_text": "Saya hanya menggunakan bahasa Indonesia.",
+      "status": "ok"
+    },
+    "2312_audio3": {
+      "file": "2312_audio3.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain, pilihan paling efisien dan nyaman.",
+      "status": "ok"
+    },
+    "2312_audio4": {
+      "file": "2312_audio4.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses situs resmi, lengkapi data dan dokumen, bayar biaya, lalu unduh visa Anda.",
+      "status": "ok"
+    },
+    "2312_audio5": {
+      "file": "2312_audio5.wav",
+      "utterance_id": "audio5",
+      "response_text": "Tentu. Berikan tanggalnya, saya carikan jadwal penerbangan langsung ke Jeddah.",
+      "status": "ok"
+    },
+    "2312_audio6": {
+      "file": "2312_audio6.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan kereta cepat untuk opsi tercepat, atau pesan taksi pribadi.",
+      "status": "ok"
+    },
+    "2312_audio7": {
+      "file": "2312_audio7.wav",
+      "utterance_id": "audio7",
+      "response_text": "Penerbangan pagi ke Jeddah adalah yang terbaik, lalu lanjut ke Madinah menggunakan kereta cepat untuk efisiensi waktu.",
+      "status": "ok"
+    },
+    "2313_audio01": {
+      "file": "2313_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Berikan tanggal dan anggaran Anda, saya carikan jadwal penerbangan terbaik.",
+      "status": "ok"
+    },
+    "2313_audio02": {
+      "file": "2313_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket reguler, kunjungan ke Kota Madinah sudah pasti termasuk di dalamnya.",
+      "status": "ok"
+    },
+    "2313_audio03": {
+      "file": "2313_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan kereta cepat untuk waktu tempuh tersingkat, atau bus dan taksi untuk pilihan lebih ekonomis.",
+      "status": "ok"
+    },
+    "2313_audio04": {
+      "file": "2313_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi, lengkapi data dan dokumen, bayar, lalu unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2313_audio05": {
+      "file": "2313_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Tentu. Beritahu kota asal Anda, saya carikan jadwal penerbangan langsung terbaik ke Jeddah minggu depan.",
+      "status": "ok"
+    },
+    "2313_audio06": {
+      "file": "2313_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan taksi resmi atau gunakan aplikasi transportasi untuk berangkat ke Madinah besok.",
+      "status": "ok"
+    },
+    "2313_audio07": {
+      "file": "2313_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Oktober hingga Desember. Gunakan kereta cepat dari Jeddah ke Madinah untuk efisiensi maksimal.",
+      "status": "ok"
+    },
+    "2313_audio12": {
+      "file": "2313_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Prosesnya kini instan melalui visa wisata elektronik atau melalui agen resmi.",
+      "status": "ok"
+    },
+    "2313_audio13": {
+      "file": "2313_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Pilih aplikasi perjalanan, tentukan tujuan Jeddah, pilih jadwal, isi data diri, dan selesaikan pembayaran.",
+      "status": "ok"
+    },
+    "2313_audio14": {
+      "file": "2313_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor berlaku enam bulan, visa, sertifikat vaksin meningitis, dan pas foto terbaru.",
+      "status": "ok"
+    },
+    "2318_audio01": {
+      "file": "2318_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Bisa. Berikan tanggal pastinya, saya atur jadwal penerbangan terbaik untuk Anda.",
+      "status": "ok"
+    },
+    "2318_audio02": {
+      "file": "2318_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket reguler, sudah termasuk kunjungan Madinah. Pastikan travel berizin resmi.",
+      "status": "ok"
+    },
+    "2318_audio03": {
+      "file": "2318_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat untuk opsi tercepat, atau taksi dan bus untuk fleksibilitas.",
+      "status": "ok"
+    },
+    "2318_audio04": {
+      "file": "2318_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Masuk ke layanan resmi pemerintah, pilih menu paspor, tentukan nama anggota keluarga, lalu konfirmasi pengajuannya.",
+      "status": "ok"
+    },
+    "2318_audio05": {
+      "file": "2318_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Beri tahu tanggal pastinya, saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2318_audio06": {
+      "file": "2318_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan kereta cepat Haramain untuk opsi tercepat, atau gunakan taksi pribadi agar lebih nyaman.",
+      "status": "ok"
+    },
+    "2318_audio09": {
+      "file": "2318_audio09.wav",
+      "utterance_id": "audio9",
+      "response_text": "Siap, segera saya bantu pesan transportasi dari Mekkah ke Madinah untuk besok.",
+      "status": "ok"
+    },
+    "2318_audio10": {
+      "file": "2318_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Haji wajib pada waktu tertentu dengan berdiam diri di Arafah, sementara umrah bisa kapan saja tanpa proses tersebut.",
+      "status": "ok"
+    },
+    "2318_audio13": {
+      "file": "2318_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Buka aplikasi perjalanan daring, pilih tujuan Jeddah, tentukan tanggal, isi data penumpang, dan bayar.",
+      "status": "ok"
+    },
+    "2318_audio19": {
+      "file": "2318_audio19.wav",
+      "utterance_id": "audio19",
+      "response_text": "Tentukan anggaran, pilih biro perjalanan resmi, lalu segera urus paspor.",
+      "status": "ok"
+    },
+    "2319_Audio1": {
+      "file": "2319_Audio1.wav",
+      "utterance_id": "audio1",
+      "response_text": "Bisa. Kirim rincian tanggal dan keinginan Anda, saya atur jadwal terbaiknya.",
+      "status": "ok"
+    },
+    "2319_Audio10": {
+      "file": "2319_Audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Haji itu wajib, terikat waktu, dan melibatkan wukuf. Umrah itu sunnah, bisa dilakukan kapan saja, dan tanpa wukuf.",
+      "status": "ok"
+    },
+    "2319_Audio13": {
+      "file": "2319_Audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Pilih situs perjalanan, cari penerbangan ke Jeddah, tentukan tanggal, isi data diri, dan selesaikan pembayaran.",
+      "status": "ok"
+    },
+    "2319_Audio16": {
+      "file": "2319_Audio16.wav",
+      "utterance_id": "audio16",
+      "response_text": "Cari hotel dengan layanan antar-jemput gratis di area yang sedikit lebih jauh. Gunakan filter harga terendah pada aplikasi pemesanan.",
+      "status": "ok"
+    },
+    "2319_Audio19": {
+      "file": "2319_Audio19.wav",
+      "utterance_id": "audio19",
+      "response_text": "Siapkan paspor, lalu pilih agen travel berizin resmi atau urus visa secara mandiri.",
+      "status": "ok"
+    },
+    "2319_Audio2": {
+      "file": "2319_Audio2.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket Umrah Reguler yang mencakup kunjungan Madinah. Pastikan agen terakreditasi resmi Kemenag.",
+      "status": "ok"
+    },
+    "2319_Audio3": {
+      "file": "2319_Audio3.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan kereta cepat Haramain, itu opsi paling efisien dan nyaman.",
+      "status": "ok"
+    },
+    "2319_Audio4": {
+      "file": "2319_Audio4.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi, isi data, unggah dokumen, lunasi pembayaran, lalu unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2319_Audio5": {
+      "file": "2319_Audio5.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa, berikan tanggal keberangkatan Anda untuk mencari penerbangan langsung ke Jeddah.",
+      "status": "ok"
+    },
+    "2319_Audio6": {
+      "file": "2319_Audio6.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk opsi tercepat dan ternyaman.",
+      "status": "ok"
+    },
+    "2323_audio01": {
+      "file": "2323_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Berikan tanggal dan jamnya, saya atur jadwal terbaik untuk Anda.",
+      "status": "ok"
+    },
+    "2323_audio02": {
+      "file": "2323_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket ibadah hemat yang sudah termasuk kunjungan langsung ke Madinah.",
+      "status": "ok"
+    },
+    "2323_audio03": {
+      "file": "2323_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk perjalanan tercepat, atau pesan taksi pribadi.",
+      "status": "ok"
+    },
+    "2323_audio04": {
+      "file": "2323_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Kunjungi situs resmi, unggah dokumen persyaratan, bayar biaya administrasi, dan tunggu penerbitan visa elektronik.",
+      "status": "ok"
+    },
+    "2323_audio05": {
+      "file": "2323_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Sebutkan kota asal Anda. Saya carikan jadwal penerbangan langsung terbaik ke Jeddah minggu depan.",
+      "status": "ok"
+    },
+    "2323_audio06": {
+      "file": "2323_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan kereta cepat Haramain atau taksi pribadi untuk perjalanan Jeddah ke Madinah besok.",
+      "status": "ok"
+    },
+    "2323_audio13": {
+      "file": "2323_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Buka aplikasi perjalanan, pilih tujuan Jeddah, tentukan jadwal, isi data diri, lalu lakukan pembayaran. Selesai.",
+      "status": "ok"
+    },
+    "2323_audio14": {
+      "file": "2323_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor aktif minimal enam bulan, visa, sertifikat vaksin meningitis, dan foto terbaru. Pastikan semua data sesuai dengan paspor.",
+      "status": "ok"
+    },
+    "2323_audio15": {
+      "file": "2323_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, visa, bukti vaksin, kain ihram, pakaian nyaman, obat pribadi, uang tunai, dan buku panduan ibadah. Pastikan dokumen lengkap dan fisik prima.",
+      "status": "ok"
+    },
+    "2323_audio16": {
+      "file": "2323_audio16.wav",
+      "utterance_id": "audio16",
+      "response_text": "Pilih hotel di wilayah Misfalah atau Aziziyah yang menyediakan bus antar jemput gratis. Hindari penginapan tepat di depan masjid agar harga lebih terjangkau.",
+      "status": "ok"
+    },
+    "2323_audio18": {
+      "file": "2323_audio18.wav",
+      "utterance_id": "audio18",
+      "response_text": "Buat daftar periksa prioritas untuk dokumen dan perlengkapan, lalu pelajari tata cara ibadahnya secara bertahap.",
+      "status": "ok"
+    },
+    "2325_audio1": {
+      "file": "2325_audio1.wav",
+      "utterance_id": "audio1",
+      "response_text": "Tentu bisa. Segera pesan tiket melalui situs resmi maskapai atau aplikasi perjalanan.",
+      "status": "ok"
+    },
+    "2325_audio10": {
+      "file": "2325_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Buat daftar kebutuhan prioritas dan pelajari panduan ibadah secara bertahap. Fokus pada niat.",
+      "status": "ok"
+    },
+    "2325_audio2": {
+      "file": "2325_audio2.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket ziarah reguler, sudah pasti mencakup kunjungan fisik ke Kota Madinah.",
+      "status": "ok"
+    },
+    "2325_audio3": {
+      "file": "2325_audio3.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan kereta cepat untuk perjalanan tercepat dan ternyaman. Segera pesan tiketnya.",
+      "status": "ok"
+    },
+    "2325_audio4": {
+      "file": "2325_audio4.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar di portal resmi, unggah paspor dan foto, bayar biaya administrasi, lalu unduh visanya.",
+      "status": "ok"
+    },
+    "2325_audio5": {
+      "file": "2325_audio5.wav",
+      "utterance_id": "audio5",
+      "response_text": "Tentu. Berikan tanggalnya, saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2325_audio6": {
+      "file": "2325_audio6.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan kereta cepat atau sewa mobil pribadi untuk perjalanan besok.",
+      "status": "ok"
+    },
+    "2325_audio7": {
+      "file": "2325_audio7.wav",
+      "utterance_id": "audio7",
+      "response_text": "Ambil penerbangan langsung ke Jeddah, lalu lanjut naik kereta cepat ke Madinah untuk efisiensi waktu maksimal.",
+      "status": "ok"
+    },
+    "2325_audio8": {
+      "file": "2325_audio8.wav",
+      "utterance_id": "audio8",
+      "response_text": "Haji adalah keharusan, terikat waktu, dan mencakup berdiam diri di Arafah. Umrah adalah anjuran, bebas waktu, dan tanpa proses tersebut.",
+      "status": "ok"
+    },
+    "2325_audio9": {
+      "file": "2325_audio9.wav",
+      "utterance_id": "audio9",
+      "response_text": "Lengkapi paspor aktif, visa, sertifikat vaksin meningitis, dan pas foto terbaru. Pastikan semua dokumen sah dan valid.",
+      "status": "ok"
+    },
+    "2326_audio01": {
+      "file": "2326_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Sebutkan kota asalmu, saya carikan tiket termurah ke Jeddah sekarang.",
+      "status": "ok"
+    },
+    "2326_audio02": {
+      "file": "2326_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Ambil paket umrah ekonomi dengan jadwal terpadu yang sudah mencakup kunjungan ke Madinah.",
+      "status": "ok"
+    },
+    "2326_audio03": {
+      "file": "2326_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan kereta cepat untuk opsi tercepat, atau pesan taksi pribadi.",
+      "status": "ok"
+    },
+    "2326_audio04": {
+      "file": "2326_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses situs resmi, unggah dokumen, bayar biaya, dan unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2326_audio05": {
+      "file": "2326_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa, berikan tanggal pastinya untuk jadwal penerbangan langsung ke Jeddah minggu depan.",
+      "status": "ok"
+    },
+    "2326_audio06": {
+      "file": "2326_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk perjalanan tercepat, atau pesan taksi pribadi.",
+      "status": "ok"
+    },
+    "2326_audio07": {
+      "file": "2326_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Ambil penerbangan pagi ke Jeddah, lalu lanjut kereta cepat ke Madinah untuk efisiensi waktu maksimal.",
+      "status": "ok"
+    },
+    "2326_audio11": {
+      "file": "2326_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Perintah langsung Tuhan dalam kitab suci untuk membentuk ketakwaan dan disiplin diri.",
+      "status": "ok"
+    },
+    "2326_audio13": {
+      "file": "2326_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Buka aplikasi perjalanan, masukkan kota asal dan Jeddah sebagai tujuan, lalu pilih jadwal. Isi data diri, selesaikan pembayaran, dan unduh tiket elektronik Anda.",
+      "status": "ok"
+    },
+    "2326_audio17": {
+      "file": "2326_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak, asal menggunakan metode yang tepat dan konsisten.",
+      "status": "ok"
+    },
+    "2330_audio01": {
+      "file": "2330_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Berikan detail tanggal dan jamnya, saya susun jadwal terbaik untuk Anda.",
+      "status": "ok"
+    },
+    "2330_audio02": {
+      "file": "2330_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket reguler yang mencakup ziarah Madinah. Praktis dan lengkap.",
+      "status": "ok"
+    },
+    "2330_audio03": {
+      "file": "2330_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain. Itu pilihan tercepat dan paling nyaman.",
+      "status": "ok"
+    },
+    "2330_audio04": {
+      "file": "2330_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses situs resmi visa elektronik, unggah dokumen, bayar, dan tunggu penerbitan lewat surat elektronik.",
+      "status": "ok"
+    },
+    "2330_audio05": {
+      "file": "2330_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Tentu. Berikan rincian keberangkatan Anda, saya akan carikan jadwal penerbangan langsung terbaik ke Jeddah minggu depan.",
+      "status": "ok"
+    },
+    "2330_audio06": {
+      "file": "2330_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain, pilihan tercepat dan paling efisien untuk besok.",
+      "status": "ok"
+    },
+    "2330_audio07": {
+      "file": "2330_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pilih periode November hingga Februari agar cuaca sejuk. Gunakan kereta cepat untuk perjalanan dari Jeddah ke Madinah.",
+      "status": "ok"
+    },
+    "2330_audio12": {
+      "file": "2330_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Gunakan visa turis elektronik secara mandiri atau lewat agen perjalanan resmi melalui sistem daring.",
+      "status": "ok"
+    },
+    "2330_audio14": {
+      "file": "2330_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor masa berlaku enam bulan, visa, sertifikat vaksin meningitis, KTP, kartu keluarga, dan pas foto terbaru. Pastikan semua data sinkron dan valid.",
+      "status": "ok"
+    },
+    "2330_audio15": {
+      "file": "2330_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, izin masuk, pakaian ibadah putih, obat pribadi, alat mandi tanpa pewangi, dan uang tunai. Lengkapi semua.",
+      "status": "ok"
+    },
+    "2330_audio17": {
+      "file": "2330_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, hanya butuh metode tepat dan ketekunan. Kuncinya ada pada konsistensi.",
+      "status": "ok"
+    },
+    "2331_audio01": {
+      "file": "2331_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Sebutkan tanggal berangkatnya, saya carikan opsi jadwal penerbangan terbaik segera.",
+      "status": "ok"
+    },
+    "2331_audio02": {
+      "file": "2331_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket umrah praktis yang sudah mencakup ziarah kota Madinah.",
+      "status": "ok"
+    },
+    "2331_audio03": {
+      "file": "2331_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk opsi tercepat dan ternyaman. Segera pesan tiket melalui aplikasi resmi.",
+      "status": "ok"
+    },
+    "2331_audio04": {
+      "file": "2331_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi, unggah paspor dan foto, bayar biaya, lalu unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2331_audio05": {
+      "file": "2331_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa, beri tahu tanggalnya, saya carikan jadwal penerbangan langsung ke Jeddah.",
+      "status": "ok"
+    },
+    "2331_audio06": {
+      "file": "2331_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan kereta cepat Haramain atau taksi privat untuk perjalanan Jeddah ke Madinah besok.",
+      "status": "ok"
+    },
+    "2331_audio10": {
+      "file": "2331_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Haji wajib dilakukan pada waktu tertentu dengan ritual lebih lengkap, sementara umrah bersifat sunnah dan bisa dilakukan kapan saja.",
+      "status": "ok"
+    },
+    "2331_audio12": {
+      "file": "2331_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Gunakan visa wisata elektronik secara mandiri atau melalui agen resmi lewat aplikasi pemerintah.",
+      "status": "ok"
+    },
+    "2331_audio15": {
+      "file": "2331_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, visa, kain ihram, pakaian sopan, obat pribadi, adaptor, dan uang tunai. Pastikan semua lengkap.",
+      "status": "ok"
+    },
+    "2331_audio17": {
+      "file": "2331_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Menantang, namun mudah dikuasai jika menggunakan metode yang tepat dan konsisten.",
+      "status": "ok"
+    },
+    "2332_audio01": {
+      "file": "2332_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Tentu. Berikan rincian tanggal dan waktu keberangkatanmu.",
+      "status": "ok"
+    },
+    "2332_audio02": {
+      "file": "2332_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket reguler, kunjungan ke Kota Nabi sudah pasti termasuk.",
+      "status": "ok"
+    },
+    "2332_audio03": {
+      "file": "2332_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan kereta api cepat untuk perjalanan tersingkat dan ternyaman. Segera pesan tiket melalui aplikasi resminya.",
+      "status": "ok"
+    },
+    "2332_audio04": {
+      "file": "2332_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi, lengkapi data diri, bayar biaya administrasi, lalu unduh visanya.",
+      "status": "ok"
+    },
+    "2332_audio05": {
+      "file": "2332_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggal pastinya, saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2332_audio06": {
+      "file": "2332_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain atau taksi pribadi, itu pilihan tercepat dan paling praktis.",
+      "status": "ok"
+    },
+    "2332_audio07": {
+      "file": "2332_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pilih penerbangan antara November hingga Februari, lalu lanjut ke Madinah menggunakan kereta cepat.",
+      "status": "ok"
+    },
+    "2332_audio13": {
+      "file": "2332_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Pilih situs pemesanan tiket, tentukan tujuan Jeddah dan tanggal, isi data diri, lalu selesaikan pembayaran.",
+      "status": "ok"
+    },
+    "2332_audio16": {
+      "file": "2332_audio16.wav",
+      "utterance_id": "audio16",
+      "response_text": "Pilih penginapan di area pinggiran dengan fasilitas bus antar-jemput gratis. Hindari pemandangan langsung ke masjid suci agar harga lebih murah.",
+      "status": "ok"
+    },
+    "2332_audio18": {
+      "file": "2332_audio18.wav",
+      "utterance_id": "audio18",
+      "response_text": "Buat daftar periksa prioritas dan fokus pada kesiapan mental. Percayakan urusan teknis pada penyelenggara.",
+      "status": "ok"
+    },
+    "2333_audio01": {
+      "file": "2333_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Bisa. Berikan detail tanggal dan anggaran, saya carikan jadwal terbaik.",
+      "status": "ok"
+    },
+    "2333_audio02": {
+      "file": "2333_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket umrah praktis yang sudah mencakup ziarah lengkap di Madinah.",
+      "status": "ok"
+    },
+    "2333_audio03": {
+      "file": "2333_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk waktu tercepat, atau pesan taksi dan bus.",
+      "status": "ok"
+    },
+    "2333_audio04": {
+      "file": "2333_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar di portal resmi, unggah dokumen, bayar biaya, lalu unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2333_audio05": {
+      "file": "2333_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa, saya carikan jadwal penerbangan langsung terbaik ke Jeddah untuk minggu depan.",
+      "status": "ok"
+    },
+    "2333_audio06": {
+      "file": "2333_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain atau taksi pribadi untuk perjalanan besok.",
+      "status": "ok"
+    },
+    "2333_audio07": {
+      "file": "2333_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pilih bulan November sampai Februari agar cuaca sejuk. Gunakan kereta cepat dari Jeddah ke Madinah untuk perjalanan paling efisien.",
+      "status": "ok"
+    },
+    "2333_audio09": {
+      "file": "2333_audio09.wav",
+      "utterance_id": "audio9",
+      "response_text": "Pesan Kereta Cepat Haramain atau taksi privat sekarang agar terjamin.",
+      "status": "ok"
+    },
+    "2333_audio16": {
+      "file": "2333_audio16.wav",
+      "utterance_id": "audio16",
+      "response_text": "Pilih hotel di wilayah pinggiran dengan fasilitas bus antar-jemput gratis. Pesan jauh hari agar lebih hemat.",
+      "status": "ok"
+    },
+    "2333_audio17": {
+      "file": "2333_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, asalkan menggunakan metode yang tepat dan konsisten.",
+      "status": "ok"
+    },
+    "2334_audio01": {
+      "file": "2334_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Tentu. Berikan rincian tanggal dan waktunya, saya carikan jadwal terbaik.",
+      "status": "ok"
+    },
+    "2334_audio02": {
+      "file": "2334_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Ambil paket umrah reguler, sudah termasuk kunjungan ke Madinah.",
+      "status": "ok"
+    },
+    "2334_audio03": {
+      "file": "2334_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk perjalanan tercepat. Pesan tiketnya segera melalui aplikasi resmi.",
+      "status": "ok"
+    },
+    "2334_audio04": {
+      "file": "2334_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi visa Arab Saudi, lengkapi data, bayar biaya, dan unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2334_audio05": {
+      "file": "2334_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan kota asal dan tanggal pastinya, saya carikan jadwal penerbangan langsung terbaik.",
+      "status": "ok"
+    },
+    "2334_audio06": {
+      "file": "2334_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan kereta cepat Haramain untuk perjalanan tercepat dan ternyaman besok.",
+      "status": "ok"
+    },
+    "2334_audio07": {
+      "file": "2334_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Terbang pagi ke Jeddah, lanjut kereta cepat ke Madinah. Waktu terbaik periode Oktober sampai Maret.",
+      "status": "ok"
+    },
+    "2334_audio12": {
+      "file": "2334_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Gunakan visa turis elektronik atau visa umrah melalui agen resmi lewat portal pemerintah. Prosesnya kini jauh lebih cepat dan praktis.",
+      "status": "ok"
+    },
+    "2334_audio14": {
+      "file": "2334_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor masa berlaku minimal 6 bulan, visa, sertifikat vaksin meningitis, KTP, KK, dan pas foto terbaru. Pastikan semua data sinkron.",
+      "status": "ok"
+    },
+    "2334_audio17": {
+      "file": "2334_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, asalkan menggunakan metode yang tepat dan konsisten.",
+      "status": "ok"
+    },
+    "2335_audio01": {
+      "file": "2335_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Bisa. Kirim detail tanggal dan waktunya, saya atur jadwal paling efisien.",
+      "status": "ok"
+    },
+    "2335_audio02": {
+      "file": "2335_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket ibadah sederhana yang sudah mencakup kunjungan ke Kota Madinah.",
+      "status": "ok"
+    },
+    "2335_audio03": {
+      "file": "2335_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Pakai Kereta Cepat Haramain, paling praktis dan cepat. Pesan tiketnya segera lewat aplikasi resmi.",
+      "status": "ok"
+    },
+    "2335_audio04": {
+      "file": "2335_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal visa elektronik resmi, unggah paspor dan foto, bayar biaya, lalu tunggu verifikasi.",
+      "status": "ok"
+    },
+    "2335_audio05": {
+      "file": "2335_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan kota asal dan tanggalnya, saya carikan jadwal penerbangan langsung terbaik.",
+      "status": "ok"
+    },
+    "2335_audio06": {
+      "file": "2335_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain atau taksi pribadi.",
+      "status": "ok"
+    },
+    "2335_audio12": {
+      "file": "2335_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Ajukan visa turis elektronik atau visa umrah melalui agen resmi secara daring. Prosesnya cepat dan sangat praktis.",
+      "status": "ok"
+    },
+    "2335_audio13": {
+      "file": "2335_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Buka situs maskapai, pilih rute tujuan Jeddah, tentukan jadwal, isi data diri, lalu selesaikan pembayaran.",
+      "status": "ok"
+    },
+    "2335_audio14": {
+      "file": "2335_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Lengkapi paspor masa berlaku enam bulan, visa, sertifikat vaksin meningitis, dan foto terbaru. Pastikan semua data sesuai identitas resmi.",
+      "status": "ok"
+    },
+    "2335_audio15": {
+      "file": "2335_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, visa, pakaian ihram, obat pribadi, alat mandi tanpa parfum, dan alas kaki nyaman.",
+      "status": "ok"
+    },
+    "2335_audio17": {
+      "file": "2335_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, asalkan menggunakan metode yang tepat dan konsisten.",
+      "status": "ok"
+    },
+    "2336_audio01": {
+      "file": "2336_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Segera cek agregator tiket daring untuk jadwal terbaik ke Jeddah minggu depan sebelum harga melonjak.",
+      "status": "ok"
+    },
+    "2336_audio02": {
+      "file": "2336_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket Umrah Ekonomis dengan jadwal ziarah Madinah. Praktis, hemat, dan lengkap.",
+      "status": "ok"
+    },
+    "2336_audio03": {
+      "file": "2336_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk opsi tercepat. Segera pesan tiket melalui aplikasi resminya.",
+      "status": "ok"
+    },
+    "2336_audio04": {
+      "file": "2336_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar melalui portal resmi, unggah dokumen, bayar biaya, lalu unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2336_audio05": {
+      "file": "2336_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggal keberangkatanmu, saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2336_audio06": {
+      "file": "2336_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain. Paling efisien dan nyaman.",
+      "status": "ok"
+    },
+    "2336_audio07": {
+      "file": "2336_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pilih bulan November sampai Februari agar cuaca sejuk. Gunakan kereta cepat untuk perjalanan dari Jeddah ke Madinah.",
+      "status": "ok"
+    },
+    "2336_audio10": {
+      "file": "2336_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Haji wajib dilakukan pada waktu tertentu dengan ritual lebih kompleks. Umrah bersifat pilihan, bisa kapan saja, dan tata caranya lebih sederhana.",
+      "status": "ok"
+    },
+    "2336_audio15": {
+      "file": "2336_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Berkas perjalanan, kain putih tanpa jahitan, alas sembahyang, obat-obatan, dan uang tunai. Semua harus lengkap demi kelancaran perjalanan suci.",
+      "status": "ok"
+    },
+    "2336_audio17": {
+      "file": "2336_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit. Kuncinya hanya pada konsistensi dan penguasaan pola dasar.",
+      "status": "ok"
+    },
+    "2337_audio01": {
+      "file": "2337_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Beri tahu kota keberangkatan Anda, saya carikan jadwal penerbangan terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2337_audio02": {
+      "file": "2337_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket Reguler, sudah pasti mencakup kunjungan ke Madinah dengan praktis.",
+      "status": "ok"
+    },
+    "2337_audio03": {
+      "file": "2337_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Pesan Kereta Cepat Haramain untuk opsi tercepat, atau gunakan taksi resmi.",
+      "status": "ok"
+    },
+    "2337_audio04": {
+      "file": "2337_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi, lengkapi data dan dokumen, bayar, lalu unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2337_audio05": {
+      "file": "2337_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Saya bantu carikan jadwal penerbangan langsung terbaik ke Jeddah untuk minggu depan.",
+      "status": "ok"
+    },
+    "2337_audio06": {
+      "file": "2337_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan Kereta Cepat Haramain atau taksi pribadi untuk perjalanan besok.",
+      "status": "ok"
+    },
+    "2337_audio07": {
+      "file": "2337_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Terbanglah tiba di Jeddah pagi hari, lalu segera lanjut menggunakan kereta cepat menuju Madinah.",
+      "status": "ok"
+    },
+    "2337_audio13": {
+      "file": "2337_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Pilih situs pemesanan, masukkan tujuan Jeddah dan tanggal, pilih jadwal, isi data diri, lalu selesaikan pembayaran.",
+      "status": "ok"
+    },
+    "2337_audio14": {
+      "file": "2337_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor berlaku enam bulan, visa, sertifikat vaksin, dan identitas diri lengkap secara akurat.",
+      "status": "ok"
+    },
+    "2337_audio18": {
+      "file": "2337_audio18.wav",
+      "utterance_id": "audio18",
+      "response_text": "Buat daftar prioritas dan fokus pada hal terpenting. Tetap tenang, semua akan lancar.",
+      "status": "ok"
+    },
+    "2338_audio01": {
+      "file": "2338_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Siap. Berikan tanggal dan waktu tepatnya, saya atur jadwal penerbangannya.",
+      "status": "ok"
+    },
+    "2338_audio02": {
+      "file": "2338_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket Umrah reguler yang sudah mencakup kunjungan kota Madinah agar lebih praktis.",
+      "status": "ok"
+    },
+    "2338_audio03": {
+      "file": "2338_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk opsi tercepat dan ternyaman.",
+      "status": "ok"
+    },
+    "2338_audio04": {
+      "file": "2338_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses situs resmi, isi data diri, bayar biaya administrasi, lalu unduh izin masuk elektronik Anda.",
+      "status": "ok"
+    },
+    "2338_audio05": {
+      "file": "2338_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan kota asal Anda, saya carikan jadwal penerbangan langsung terbaik ke Jeddah untuk minggu depan.",
+      "status": "ok"
+    },
+    "2338_audio06": {
+      "file": "2338_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Saya atur transportasi ke Madinah untuk besok. Pilih kereta cepat atau mobil pribadi?",
+      "status": "ok"
+    },
+    "2338_audio12": {
+      "file": "2338_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Gunakan visa elektronik melalui aplikasi resmi atau agen berizin secara daring. Prosesnya sangat cepat dan praktis.",
+      "status": "ok"
+    },
+    "2338_audio13": {
+      "file": "2338_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Buka situs pemesanan, tentukan rute dan tanggal, pilih jadwal, isi data penumpang, lalu bayar untuk mendapatkan tiket elektronik.",
+      "status": "ok"
+    },
+    "2338_audio15": {
+      "file": "2338_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Dokumen resmi, kain putih, pakaian sopan, obat pribadi, alat mandi tanpa wangi, pengisi daya, dan uang tunai. Lengkap dan siap berangkat.",
+      "status": "ok"
+    },
+    "2338_audio17": {
+      "file": "2338_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, asal gunakan metode yang tepat dan konsisten.",
+      "status": "ok"
+    },
+    "2339_audio01": {
+      "file": "2339_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Sebutkan kota keberangkatan Anda, saya carikan jadwal terbaiknya.",
+      "status": "ok"
+    },
+    "2339_audio02": {
+      "file": "2339_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket Umrah Reguler. Sudah pasti mencakup kunjungan lengkap ke Madinah.",
+      "status": "ok"
+    },
+    "2339_audio03": {
+      "file": "2339_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Pesan Kereta Cepat Haramain sekarang untuk perjalanan paling efisien dan nyaman.",
+      "status": "ok"
+    },
+    "2339_audio04": {
+      "file": "2339_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar di portal resmi, lengkapi data diri, unggah dokumen, bayar, lalu unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2339_audio05": {
+      "file": "2339_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Beritahu kota keberangkatan Anda, saya carikan jadwal penerbangan langsung ke Jeddah minggu depan.",
+      "status": "ok"
+    },
+    "2339_audio06": {
+      "file": "2339_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk perjalanan tercepat dan ternyaman besok.",
+      "status": "ok"
+    },
+    "2339_audio07": {
+      "file": "2339_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Terbang langsung ke Madinah terlebih dahulu, lalu gunakan kereta cepat menuju Jeddah. Ini rute paling efisien.",
+      "status": "ok"
+    },
+    "2339_audio11": {
+      "file": "2339_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Kewajiban ini adalah perintah Tuhan untuk membentuk pribadi yang bertakwa.",
+      "status": "ok"
+    },
+    "2339_audio14": {
+      "file": "2339_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor masa berlaku enam bulan, visa, sertifikat vaksin, dan kartu keluarga. Pastikan semua data sudah sinkron dan lengkap.",
+      "status": "ok"
+    },
+    "2339_audio19": {
+      "file": "2339_audio19.wav",
+      "utterance_id": "audio19",
+      "response_text": "Buat paspor segera, lalu pilih biro perjalanan resmi atau urus visa secara mandiri.",
+      "status": "ok"
+    },
+    "2341_audio01": {
+      "file": "2341_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Bisa. Beritahu kota asal dan tanggal pastinya sekarang.",
+      "status": "ok"
+    },
+    "2341_audio02": {
+      "file": "2341_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket hotel pelataran Masjid Nabi untuk akses tercepat. Pastikan travel berizin resmi Kemenag.",
+      "status": "ok"
+    },
+    "2341_audio03": {
+      "file": "2341_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan kereta cepat untuk opsi tercepat, atau pesan taksi daring.",
+      "status": "ok"
+    },
+    "2341_audio04": {
+      "file": "2341_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar di portal resmi, unggah paspor dan foto, bayar biaya, lalu tunggu visa elektronik terbit. Selesai.",
+      "status": "ok"
+    },
+    "2341_audio05": {
+      "file": "2341_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggal pastinya, saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2341_audio06": {
+      "file": "2341_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain, cara tercepat dan ternyaman untuk perjalanan Jeddah ke Madinah besok.",
+      "status": "ok"
+    },
+    "2341_audio07": {
+      "file": "2341_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pilih bulan November sampai Februari demi cuaca sejuk. Gunakan kereta cepat dari Jeddah menuju Madinah.",
+      "status": "ok"
+    },
+    "2341_audio08": {
+      "file": "2341_audio08.wav",
+      "utterance_id": "audio8",
+      "response_text": "Ajukan visa elektronik lewat situs resmi pemerintah Saudi atau agen perjalanan resmi.",
+      "status": "ok"
+    },
+    "2341_audio09": {
+      "file": "2341_audio09.wav",
+      "utterance_id": "audio9",
+      "response_text": "Pastikan legalisasi Kemenkumham dan Kemenlu lengkap, serta gunakan jasa penerjemah tersumpah. Manfaatkan layanan Apostille untuk proses lebih cepat.",
+      "status": "ok"
+    },
+    "2341_audio10": {
+      "file": "2341_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Tidak sulit, hanya perlu metode tepat dan disiplin tinggi.",
+      "status": "ok"
+    },
+    "2342_audio01": {
+      "file": "2342_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Beri tahu tanggal pastinya, saya carikan jadwal penerbangan terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2342_audio02": {
+      "file": "2342_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket Umrah Reguler dengan fasilitas kunjungan Madinah lengkap. Itu pilihan paling praktis dan efisien.",
+      "status": "ok"
+    },
+    "2342_audio03": {
+      "file": "2342_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Pesan tiket kereta cepat sekarang, itu pilihan paling efisien dan nyaman.",
+      "status": "ok"
+    },
+    "2342_audio04": {
+      "file": "2342_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar di situs resmi, unggah paspor, bayar biaya, lalu unduh visanya.",
+      "status": "ok"
+    },
+    "2342_audio05": {
+      "file": "2342_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggalnya, saya carikan jadwal penerbangan langsung ke Jeddah.",
+      "status": "ok"
+    },
+    "2342_audio06": {
+      "file": "2342_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan kereta cepat Haramain untuk opsi tercepat dan ternyaman besok.",
+      "status": "ok"
+    },
+    "2342_audio10": {
+      "file": "2342_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Haji itu wajib, terikat waktu tertentu, dan ada wukuf. Umrah itu sunnah, bisa kapan saja, dan tanpa wukuf.",
+      "status": "ok"
+    },
+    "2342_audio11": {
+      "file": "2342_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Perintah langsung dari Tuhan untuk meningkatkan ketakwaan.",
+      "status": "ok"
+    },
+    "2342_audio14": {
+      "file": "2342_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor masa berlaku minimal enam bulan, visa, sertifikat vaksin, pas foto, serta kartu identitas dan kartu keluarga.",
+      "status": "ok"
+    },
+    "2342_audio19": {
+      "file": "2342_audio19.wav",
+      "utterance_id": "audio19",
+      "response_text": "Siapkan paspor, tentukan anggaran, dan pilih agen perjalanan resmi yang terpercaya.",
+      "status": "ok"
+    },
+    "2343_audio1": {
+      "file": "2343_audio1.wav",
+      "utterance_id": "audio1",
+      "response_text": "Bisa. Berikan kota keberangkatanmu, saya atur jadwal terbaiknya.",
+      "status": "ok"
+    },
+    "2343_audio12": {
+      "file": "2343_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Cukup ajukan visa elektronik secara daring atau melalui agen perjalanan resmi.",
+      "status": "ok"
+    },
+    "2343_audio14": {
+      "file": "2343_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor berlaku minimal enam bulan, visa, sertifikat vaksin meningitis, dan pas foto terbaru. Pastikan semua dokumen sah dan lengkap.",
+      "status": "ok"
+    },
+    "2343_audio16": {
+      "file": "2343_audio16.wav",
+      "utterance_id": "audio16",
+      "response_text": "Pilih hotel area Misafalah atau Ajyad yang menyediakan bus antar-jemput gratis. Pesan saat musim sepi untuk harga terendah.",
+      "status": "ok"
+    },
+    "2343_audio18": {
+      "file": "2343_audio18.wav",
+      "utterance_id": "audio18",
+      "response_text": "Mantapkan niat, pelajari tata cara ibadah, dan jaga stamina fisik agar tetap prima.",
+      "status": "ok"
+    },
+    "2343_audio2": {
+      "file": "2343_audio2.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket Umrah Reguler. Sudah pasti mencakup kunjungan Madinah dan jauh lebih praktis.",
+      "status": "ok"
+    },
+    "2343_audio3": {
+      "file": "2343_audio3.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan kereta cepat Haramain untuk opsi tercepat, atau sewa mobil privat agar lebih nyaman.",
+      "status": "ok"
+    },
+    "2343_audio4": {
+      "file": "2343_audio4.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar di situs resmi, unggah dokumen, bayar, lalu unduh visa elektronik.",
+      "status": "ok"
+    },
+    "2343_audio5": {
+      "file": "2343_audio5.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggal pastinya untuk jadwal dan harga termurah.",
+      "status": "ok"
+    },
+    "2343_audio6": {
+      "file": "2343_audio6.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan Kereta Cepat Haramain atau taksi privat untuk perjalanan besok.",
+      "status": "ok"
+    },
+    "2344_audio1.m4a": {
+      "file": "2344_audio1.m4a.wav",
+      "utterance_id": "audio1",
+      "response_text": "Sebutkan kota asal dan tanggal keberangkatan, saya carikan jadwal terbaik segera.",
+      "status": "ok"
+    },
+    "2344_audio10.m4a": {
+      "file": "2344_audio10.m4a.wav",
+      "utterance_id": "audio10",
+      "response_text": "Haji wajib dilaksanakan pada waktu tertentu dengan wukuf, sedangkan umrah bersifat sunnah dan bisa dilakukan kapan saja tanpa wukuf.",
+      "status": "ok"
+    },
+    "2344_audio13": {
+      "file": "2344_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Pilih situs perjalanan, tentukan jadwal penerbangan, lengkapi data diri, dan selesaikan pembayaran.",
+      "status": "ok"
+    },
+    "2344_audio17": {
+      "file": "2344_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, asal menggunakan metode yang tepat dan konsisten.",
+      "status": "ok"
+    },
+    "2344_audio2.m4a": {
+      "file": "2344_audio2.m4a.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket ibadah Umrah reguler. Sudah pasti termasuk kunjungan ke Madinah.",
+      "status": "ok"
+    },
+    "2344_audio20.m4a": {
+      "file": "2344_audio20.m4a.wav",
+      "utterance_id": "audio20",
+      "response_text": "Saya hanya menggunakan bahasa Indonesia.",
+      "status": "ok"
+    },
+    "2344_audio3.m4a": {
+      "file": "2344_audio3.m4a.wav",
+      "utterance_id": "audio3",
+      "response_text": "Pesan kereta cepat Haramain untuk pilihan tercepat dan ternyaman.",
+      "status": "ok"
+    },
+    "2344_audio4": {
+      "file": "2344_audio4.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi, unggah dokumen persyaratan, lakukan pembayaran, dan unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2344_audio5.m4a": {
+      "file": "2344_audio5.m4a.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggal pastinya, saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2344_audio6.m4a": {
+      "file": "2344_audio6.m4a.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan kereta cepat Haramain atau taksi untuk perjalanan Jeddah ke Madinah besok.",
+      "status": "ok"
+    },
+    "2345_audio01": {
+      "file": "2345_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Bisa. Berikan kota keberangkatan dan tanggal pastinya sekarang.",
+      "status": "ok"
+    },
+    "2345_audio02": {
+      "file": "2345_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket umrah ekonomis yang sudah mencakup ziarah Madinah agar praktis.",
+      "status": "ok"
+    },
+    "2345_audio03": {
+      "file": "2345_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk opsi tercepat dan ternyaman.",
+      "status": "ok"
+    },
+    "2345_audio04": {
+      "file": "2345_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi, lengkapi data dan dokumen, bayar biaya, lalu unduh visanya. Selesai.",
+      "status": "ok"
+    },
+    "2345_audio05": {
+      "file": "2345_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Gunakan maskapai Saudia atau Garuda untuk jadwal penerbangan langsung tercepat ke Jeddah.",
+      "status": "ok"
+    },
+    "2345_audio06": {
+      "file": "2345_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan kereta cepat Haramain atau taksi untuk perjalanan Jeddah ke Madinah besok.",
+      "status": "ok"
+    },
+    "2345_audio07": {
+      "file": "2345_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pilih bulan November sampai Februari untuk cuaca sejuk. Hindari masa haji dan Ramadan agar tidak terlalu padat.",
+      "status": "ok"
+    },
+    "2345_audio10": {
+      "file": "2345_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Haji wajib dilakukan pada waktu tertentu dengan wukuf. Umrah bisa dilakukan kapan saja tanpa wukuf.",
+      "status": "ok"
+    },
+    "2345_audio11": {
+      "file": "2345_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Karena merupakan perintah Tuhan dan salah satu pilar utama agama untuk membentuk ketakwaan.",
+      "status": "ok"
+    },
+    "2345_audio12": {
+      "file": "2345_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Kini lebih simpel, gunakan visa turis elektronik atau urus melalui agen resmi.",
+      "status": "ok"
+    },
+    "2345_audio13": {
+      "file": "2345_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Pilih situs pemesanan, masukkan tujuan Jeddah, tentukan tanggal, isi data diri, lalu selesaikan pembayaran.",
+      "status": "ok"
+    },
+    "2345_audio14": {
+      "file": "2345_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor berlaku minimal enam bulan, visa, sertifikat vaksin meningitis, dan pas foto latar putih. Pastikan semua dokumen lengkap dan sah.",
+      "status": "ok"
+    },
+    "2345_audio15": {
+      "file": "2345_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Dokumen (paspor, visa), kain ihram, perlengkapan ibadah, obat-obatan, dan pengisi daya elektronik. Pastikan semua lengkap.",
+      "status": "ok"
+    },
+    "2345_audio17": {
+      "file": "2345_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, asal gunakan metode terstruktur dan konsisten.",
+      "status": "ok"
+    },
+    "2345_audio19": {
+      "file": "2345_audio19.wav",
+      "utterance_id": "audio19",
+      "response_text": "Pilih travel resmi dan segera siapkan paspor.",
+      "status": "ok"
+    },
+    "2347_audio1": {
+      "file": "2347_audio1.wav",
+      "utterance_id": "audio1",
+      "response_text": "Siap, berikan detail tanggal dan jamnya agar saya atur jadwal terbaik.",
+      "status": "ok"
+    },
+    "2347_audio11": {
+      "file": "2347_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Karena merupakan perintah Tuhan untuk membersihkan jiwa dan meningkatkan ketakwaan.",
+      "status": "ok"
+    },
+    "2347_audio14": {
+      "file": "2347_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor berlaku minimal enam bulan, visa, sertifikat vaksin, pas foto, KTP, dan Kartu Keluarga. Pastikan seluruh dokumen valid dan lengkap.",
+      "status": "ok"
+    },
+    "2347_audio17": {
+      "file": "2347_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, asal gunakan metode tepat dan disiplin berlatih.",
+      "status": "ok"
+    },
+    "2347_audio2": {
+      "file": "2347_audio2.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket Umrah Hemat dengan rute ziarah Madinah. Pastikan agen terdaftar resmi di Kementerian Agama.",
+      "status": "ok"
+    },
+    "2347_audio3": {
+      "file": "2347_audio3.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk opsi tercepat, atau pesan taksi pribadi untuk kenyamanan.",
+      "status": "ok"
+    },
+    "2347_audio4": {
+      "file": "2347_audio4.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi, lengkapi data dan dokumen, bayar biaya, lalu unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2347_audio5": {
+      "file": "2347_audio5.wav",
+      "utterance_id": "audio5",
+      "response_text": "Sebutkan kota keberangkatan Anda, saya akan carikan jadwal penerbangan langsung terbaik ke Jeddah untuk minggu depan.",
+      "status": "ok"
+    },
+    "2347_audio6": {
+      "file": "2347_audio6.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan tiket kereta cepat sekarang untuk perjalanan tercepat dan ternyaman.",
+      "status": "ok"
+    },
+    "2347_audio7": {
+      "file": "2347_audio7.wav",
+      "utterance_id": "audio7",
+      "response_text": "Terbang pagi ke Jeddah, lalu gunakan kereta cepat ke Madinah untuk efisiensi maksimal.",
+      "status": "ok"
+    },
+    "2348_audio01": {
+      "file": "2348_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Sebutkan tanggal pastinya, saya carikan jadwal penerbangan terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2348_audio02": {
+      "file": "2348_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket umrah ekonomi yang sudah termasuk ziarah kota Madinah agar praktis dan efisien.",
+      "status": "ok"
+    },
+    "2348_audio03": {
+      "file": "2348_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Pesan tiket Kereta Cepat Haramain sekarang, itu pilihan tercepat dan paling nyaman.",
+      "status": "ok"
+    },
+    "2348_audio04": {
+      "file": "2348_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses situs resmi, isi data dan unggah dokumen, bayar biaya, lalu unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2348_audio05": {
+      "file": "2348_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Pilih maskapai Arab Saudi atau Garuda untuk jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2348_audio06": {
+      "file": "2348_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan tiket Kereta Cepat Haramain untuk perjalanan tercepat dan ternyaman besok.",
+      "status": "ok"
+    },
+    "2348_audio07": {
+      "file": "2348_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pilih November hingga Februari agar cuaca lebih sejuk. Gunakan kereta cepat dari Jeddah menuju Madinah supaya lebih efisien.",
+      "status": "ok"
+    },
+    "2348_audio12": {
+      "file": "2348_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Sangat praktis, bisa melalui agen resmi atau visa kunjungan elektronik.",
+      "status": "ok"
+    },
+    "2348_audio13": {
+      "file": "2348_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Pilih aplikasi tiket, tentukan rute ke Jeddah dan tanggal, isi data penumpang, lalu bayar. Selesai.",
+      "status": "ok"
+    },
+    "2348_audio14": {
+      "file": "2348_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor aktif enam bulan, visa, sertifikat vaksin meningitis, dan pas foto latar putih. Semua dokumen wajib valid dan lengkap.",
+      "status": "ok"
+    },
+    "2351_audio01": {
+      "file": "2351_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Berikan tanggal dan jam keinginanmu, saya atur jadwal terbaiknya segera.",
+      "status": "ok"
+    },
+    "2351_audio02": {
+      "file": "2351_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket umrah hemat, kunjungan ke Madinah sudah pasti tersedia.",
+      "status": "ok"
+    },
+    "2351_audio03": {
+      "file": "2351_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan kereta cepat untuk opsi tercepat dan ternyaman. Pesan segera melalui aplikasi resminya.",
+      "status": "ok"
+    },
+    "2351_audio04": {
+      "file": "2351_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal visa resmi, unggah dokumen lengkap, bayar biaya, lalu unduh visa elektroniknya.",
+      "status": "ok"
+    },
+    "2351_audio05": {
+      "file": "2351_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggal pastinya, saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2351_audio06": {
+      "file": "2351_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan Kereta Cepat Haramain atau taksi pribadi sekarang untuk perjalanan besok.",
+      "status": "ok"
+    },
+    "2351_audio07": {
+      "file": "2351_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pilih bulan Oktober atau Februari untuk cuaca terbaik. Gunakan kereta cepat dari Jeddah ke Madinah agar lebih efisien.",
+      "status": "ok"
+    },
+    "2351_audio11": {
+      "file": "2351_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Puasa adalah perintah Tuhan untuk menyucikan jiwa dan melatih empati terhadap sesama.",
+      "status": "ok"
+    },
+    "2351_audio14": {
+      "file": "2351_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor valid enam bulan, visa, sertifikat vaksin meningitis, dan pas foto latar putih. Pastikan semua dokumen asli serta salinannya lengkap.",
+      "status": "ok"
+    },
+    "2351_audio16": {
+      "file": "2351_audio16.wav",
+      "utterance_id": "audio16",
+      "response_text": "Pilih hotel dengan fasilitas bus antar-jemput gratis dan cari lokasi di area Misafalah untuk harga termurah.",
+      "status": "ok"
+    },
+    "2355_audio01": {
+      "file": "2355_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Bisa. Berikan kota asal dan tanggal keberangkatanmu sekarang.",
+      "status": "ok"
+    },
+    "2355_audio02": {
+      "file": "2355_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket reguler. Sudah termasuk kunjungan kota Madinah dan sangat praktis.",
+      "status": "ok"
+    },
+    "2355_audio03": {
+      "file": "2355_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan kereta cepat. Itu opsi paling efisien dan nyaman.",
+      "status": "ok"
+    },
+    "2355_audio04": {
+      "file": "2355_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi, isi formulir, unggah dokumen, bayar biaya, lalu unduh visa elektronik.",
+      "status": "ok"
+    },
+    "2355_audio05": {
+      "file": "2355_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Beri tahu tanggal pastinya, saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2355_audio06": {
+      "file": "2355_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan kereta cepat atau taksi untuk perjalanan dari Jeddah ke Madinah besok.",
+      "status": "ok"
+    },
+    "2355_audio07": {
+      "file": "2355_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pilih musim sepi di luar bulan puasa dan haji. Gunakan kereta cepat untuk efisiensi waktu terbaik.",
+      "status": "ok"
+    },
+    "2355_audio10": {
+      "file": "2355_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Haji wajib dilakukan pada waktu tertentu dengan rangkaian ibadah lengkap, sementara umrah bersifat sunnah dan bisa dilakukan kapan saja.",
+      "status": "ok"
+    },
+    "2355_audio13": {
+      "file": "2355_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Pilih aplikasi perjalanan, tentukan rute ke Jeddah dan tanggal, pilih jadwal, isi data diri, lalu selesaikan pembayaran.",
+      "status": "ok"
+    },
+    "2355_audio17": {
+      "file": "2355_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, asal menggunakan metode yang tepat dan konsisten. Semuanya bisa dikuasai dengan latihan rutin.",
+      "status": "ok"
+    },
+    "2356_audio01": {
+      "file": "2356_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Beri tahu tanggal keberangkatanmu, saya carikan jadwal penerbangan paling efisien.",
+      "status": "ok"
+    },
+    "2356_audio02": {
+      "file": "2356_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket Umrah Reguler yang mencakup ziarah Madinah, pastikan agen terakreditasi Kementerian Agama.",
+      "status": "ok"
+    },
+    "2356_audio03": {
+      "file": "2356_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan kereta cepat untuk efisiensi waktu, atau taksi privat untuk kenyamanan.",
+      "status": "ok"
+    },
+    "2356_audio04": {
+      "file": "2356_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Registrasi daring melalui situs resmi, unggah dokumen, bayar biaya, dan tunggu visa terbit.",
+      "status": "ok"
+    },
+    "2356_audio05": {
+      "file": "2356_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Berikan tanggal perjalanan Anda, saya carikan jadwal penerbangan langsung terbaik.",
+      "status": "ok"
+    },
+    "2356_audio06": {
+      "file": "2356_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan Kereta Cepat atau gunakan taksi pribadi.",
+      "status": "ok"
+    },
+    "2356_audio10": {
+      "file": "2356_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Haji wajib dilakukan pada waktu tertentu dengan ritual lengkap, sementara umrah sunnah dan bisa dilaksanakan kapan saja dengan tata cara lebih singkat.",
+      "status": "ok"
+    },
+    "2356_audio12": {
+      "file": "2356_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Urus visa elektronik atau melalui biro perjalanan, siapkan paspor, serta pesan tiket dan penginapan. Gunakan aplikasi resmi untuk mengatur jadwal ibadah.",
+      "status": "ok"
+    },
+    "2356_audio13": {
+      "file": "2356_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Pilih platform pemesanan, tentukan tanggal keberangkatan ke Jeddah, isi data penumpang, lalu selesaikan pembayaran.",
+      "status": "ok"
+    },
+    "2356_audio17": {
+      "file": "2356_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak, asal menggunakan metode tepat dan konsisten. Strukturnya sangat logis.",
+      "status": "ok"
+    },
+    "2357_audio01": {
+      "file": "2357_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Siap. Berikan rincian tanggal dan jamnya, saya atur jadwal paling efisien untukmu.",
+      "status": "ok"
+    },
+    "2357_audio02": {
+      "file": "2357_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Ambil paket umrah hemat dengan fasilitas ziarah Madinah. Pastikan agennya berizin resmi.",
+      "status": "ok"
+    },
+    "2357_audio03": {
+      "file": "2357_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk opsi tercepat, atau pilih bus dan taksi privat.",
+      "status": "ok"
+    },
+    "2357_audio04": {
+      "file": "2357_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar di portal resmi, unggah dokumen, bayar biaya, lalu unduh visa elektroniknya. Selesai.",
+      "status": "ok"
+    },
+    "2357_audio05": {
+      "file": "2357_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggal keberangkatan untuk jadwal penerbangan langsung dan hotel terbaik di Jeddah.",
+      "status": "ok"
+    },
+    "2357_audio06": {
+      "file": "2357_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan kereta cepat Haramain atau taksi daring.",
+      "status": "ok"
+    },
+    "2357_audio07": {
+      "file": "2357_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Berangkat November sampai Februari saat cuaca sejuk. Gunakan kereta cepat untuk menuju Madinah.",
+      "status": "ok"
+    },
+    "2357_audio12": {
+      "file": "2357_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Ajukan secara daring melalui portal resmi atau agen perjalanan terpercaya. Prosesnya cepat, praktis, dan mudah.",
+      "status": "ok"
+    },
+    "2357_audio15": {
+      "file": "2357_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, izin masuk, kain putih, obat pribadi, dan alat mandi tanpa pewangi. Lengkapi semua.",
+      "status": "ok"
+    },
+    "2357_audio17": {
+      "file": "2357_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, asal menggunakan metode yang tepat dan konsisten.",
+      "status": "ok"
+    },
+    "2358_audio01": {
+      "file": "2358_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Berikan tanggal pastinya, saya atur jadwal penerbangan terbaik untuk Anda.",
+      "status": "ok"
+    },
+    "2358_audio02": {
+      "file": "2358_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket Umrah reguler, sudah pasti mencakup kunjungan ke Madinah. Praktis dan lengkap.",
+      "status": "ok"
+    },
+    "2358_audio03": {
+      "file": "2358_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan kereta cepat Haramain untuk perjalanan tercepat dan ternyaman. Pesan tiketnya segera melalui aplikasi resmi.",
+      "status": "ok"
+    },
+    "2358_audio04": {
+      "file": "2358_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi visa Saudi, buat akun, lengkapi data serta dokumen, bayar biaya, lalu unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2358_audio05": {
+      "file": "2358_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan kota keberangkatan dan tanggalnya, saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2358_audio06": {
+      "file": "2358_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan tiket Kereta Cepat Haramain untuk perjalanan tercepat, atau gunakan taksi privat.",
+      "status": "ok"
+    },
+    "2358_audio07": {
+      "file": "2358_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pilih penerbangan pagi ke Jeddah, lalu sambung dengan kereta cepat ke Madinah agar paling efisien.",
+      "status": "ok"
+    },
+    "2358_audio15": {
+      "file": "2358_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, visa, kain ihram, obat pribadi, uang tunai, dan alat mandi tanpa pewangi. Pastikan dokumen lengkap dan fisik prima.",
+      "status": "ok"
+    },
+    "2358_audio16": {
+      "file": "2358_audio16.wav",
+      "utterance_id": "audio16",
+      "response_text": "Pilih hotel di kawasan Ajyad atau Miskyah yang menyediakan bus gratis. Bandingkan harga lewat aplikasi pemesanan agar anggaran tetap hemat.",
+      "status": "ok"
+    },
+    "2358_audio17": {
+      "file": "2358_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak susah, asalkan menggunakan metode belajar yang sistematis dan konsisten.",
+      "status": "ok"
+    },
+    "2359_audio1": {
+      "file": "2359_audio1.wav",
+      "utterance_id": "audio1",
+      "response_text": "Bisa. Berikan kota keberangkatan dan tanggal pastinya agar saya atur.",
+      "status": "ok"
+    },
+    "2359_audio12": {
+      "file": "2359_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Gunakan visa elektronik atau visa wisata melalui platform resmi Saudi secara daring untuk proses tercepat.",
+      "status": "ok"
+    },
+    "2359_audio14": {
+      "file": "2359_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor berlaku enam bulan, visa, sertifikat vaksin, dan pas foto terbaru. Pastikan semua data identitas sinkron dan lengkap.",
+      "status": "ok"
+    },
+    "2359_audio17": {
+      "file": "2359_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, asal menggunakan metode yang tepat dan konsisten.",
+      "status": "ok"
+    },
+    "2359_audio2": {
+      "file": "2359_audio2.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket ibadah praktis, kunjungan ke Madinah sudah otomatis termasuk.",
+      "status": "ok"
+    },
+    "2359_audio3": {
+      "file": "2359_audio3.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain. Itu pilihan tercepat dan paling nyaman.",
+      "status": "ok"
+    },
+    "2359_audio4": {
+      "file": "2359_audio4.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar daring di situs resmi, unggah dokumen, bayar biaya, lalu unduh visanya.",
+      "status": "ok"
+    },
+    "2359_audio5": {
+      "file": "2359_audio5.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggal pastinya, saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2359_audio6": {
+      "file": "2359_audio6.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain. Itu pilihan tercepat dan paling praktis.",
+      "status": "ok"
+    },
+    "2359_audio7": {
+      "file": "2359_audio7.wav",
+      "utterance_id": "audio7",
+      "response_text": "Berangkat pertengahan minggu ke Jeddah, lalu gunakan kereta cepat ke Madinah untuk efisiensi maksimal.",
+      "status": "ok"
+    },
+    "2360_audio01": {
+      "file": "2360_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Bisa. Berikan tanggal pasti dan maskapai pilihan Anda.",
+      "status": "ok"
+    },
+    "2360_audio02": {
+      "file": "2360_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket umrah reguler. Sudah pasti mencakup kunjungan ke Madinah secara lengkap.",
+      "status": "ok"
+    },
+    "2360_audio03": {
+      "file": "2360_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk opsi transportasi tercepat dan ternyaman.",
+      "status": "ok"
+    },
+    "2360_audio04": {
+      "file": "2360_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar akun di portal resmi, unggah dokumen paspor dan foto, bayar biaya, lalu unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2360_audio05": {
+      "file": "2360_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Sebutkan kota asal Anda untuk jadwal penerbangan langsung ke Jeddah minggu depan.",
+      "status": "ok"
+    },
+    "2360_audio06": {
+      "file": "2360_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pakai Kereta Cepat Haramain atau taksi pribadi. Pesan sekarang.",
+      "status": "ok"
+    },
+    "2360_audio07": {
+      "file": "2360_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pesan penerbangan di luar musim haji dan ramadan, lalu gunakan kereta cepat menuju Madinah.",
+      "status": "ok"
+    },
+    "2360_audio10": {
+      "file": "2360_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Haji wajib dilakukan pada waktu tertentu dengan rukun lebih lengkap. Umrah bersifat sunnah dan bisa dilakukan kapan saja.",
+      "status": "ok"
+    },
+    "2360_audio11": {
+      "file": "2360_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Perintah Tuhan untuk meningkatkan ketakwaan dan menyucikan jiwa.",
+      "status": "ok"
+    },
+    "2360_audio14": {
+      "file": "2360_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor berlaku minimal enam bulan, visa, sertifikat vaksin meningitis, dan dokumen kependudukan lengkap.",
+      "status": "ok"
+    },
+    "2362_audio01": {
+      "file": "2362_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Siap, sebutkan kota asal dan preferensi waktu keberangkatan Anda.",
+      "status": "ok"
+    },
+    "2362_audio02": {
+      "file": "2362_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket Umrah reguler. Sudah pasti mencakup kunjungan ke Madinah secara praktis.",
+      "status": "ok"
+    },
+    "2362_audio03": {
+      "file": "2362_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Pesan tiket kereta cepat Haramain sekarang untuk perjalanan tercepat dan ternyaman.",
+      "status": "ok"
+    },
+    "2362_audio04": {
+      "file": "2362_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses situs resmi, lengkapi data dan dokumen, bayar biaya, lalu tunggu persetujuan melalui surel.",
+      "status": "ok"
+    },
+    "2362_audio05": {
+      "file": "2362_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggal pastinya, saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2362_audio06": {
+      "file": "2362_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain, pilihan tercepat dan paling efisien.",
+      "status": "ok"
+    },
+    "2362_audio07": {
+      "file": "2362_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Terbang ke Jeddah pada hari kerja, lalu gunakan kereta cepat menuju Madinah agar lebih efisien.",
+      "status": "ok"
+    },
+    "2362_audio11": {
+      "file": "2362_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Perintah Tuhan untuk melatih pengendalian diri dan mencapai derajat takwa.",
+      "status": "ok"
+    },
+    "2362_audio15": {
+      "file": "2362_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, izin masuk, kain putih, baju tertutup, obat, uang, dan alat salat. Pasti lancar.",
+      "status": "ok"
+    },
+    "2362_audio17": {
+      "file": "2362_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit. Semua bisa, asal metodenya tepat dan konsisten.",
+      "status": "ok"
+    },
+    "2362_audio20": {
+      "file": "2362_audio20.wav",
+      "utterance_id": "audio20",
+      "response_text": "Saya hanya menggunakan bahasa Indonesia.",
+      "status": "ok"
+    },
+    "2363_audio01": {
+      "file": "2363_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Tentu, berikan tanggal keberangkatan Anda, saya atur jadwal penerbangan terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2363_audio02": {
+      "file": "2363_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket hemat. Kunjungan Madinah sudah otomatis termasuk di dalamnya.",
+      "status": "ok"
+    },
+    "2363_audio03": {
+      "file": "2363_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan kereta cepat untuk opsi tercepat, atau pesan taksi pribadi.",
+      "status": "ok"
+    },
+    "2363_audio04": {
+      "file": "2363_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses situs resmi visa elektronik, unggah dokumen, bayar biaya, lalu unduh visanya.",
+      "status": "ok"
+    },
+    "2363_audio05": {
+      "file": "2363_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Cek aplikasi pemesanan tiket untuk jadwal penerbangan langsung terbaik ke Jeddah minggu depan.",
+      "status": "ok"
+    },
+    "2363_audio06": {
+      "file": "2363_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk opsi tercepat dan termudah.",
+      "status": "ok"
+    },
+    "2363_audio07": {
+      "file": "2363_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pilih Oktober hingga November atau Februari hingga April untuk cuaca sejuk. Gunakan kereta cepat dari Jeddah ke Madinah.",
+      "status": "ok"
+    },
+    "2363_audio10": {
+      "file": "2363_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Haji wajib dilakukan pada waktu tertentu dengan ritual lebih kompleks. Umrah sunnah, fleksibel waktunya, dan lebih sederhana.",
+      "status": "ok"
+    },
+    "2363_audio11": {
+      "file": "2363_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Benar, puasa Ramadan adalah kewajiban mutlak bagi setiap muslim yang mampu.",
+      "status": "ok"
+    },
+    "2363_audio14": {
+      "file": "2363_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor masa berlaku minimal enam bulan, visa, sertifikat vaksin meningitis, dan dokumen identitas lengkap.",
+      "status": "ok"
+    },
+    "2364_audio01": {
+      "file": "2364_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Bisa. Kirimkan detail tanggal dan jam keberangkatan Anda segera.",
+      "status": "ok"
+    },
+    "2364_audio02": {
+      "file": "2364_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket hemat berizin Kemenag, kunjungan ke Madinah pasti sudah termasuk.",
+      "status": "ok"
+    },
+    "2364_audio03": {
+      "file": "2364_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk perjalanan tercepat. Pesan tiketnya segera melalui aplikasi resmi.",
+      "status": "ok"
+    },
+    "2364_audio04": {
+      "file": "2364_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi visa Saudi, lengkapi data dan dokumen, lakukan pembayaran, lalu unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2364_audio05": {
+      "file": "2364_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Segera cek aplikasi perjalanan atau situs resmi maskapai untuk jadwal penerbangan langsung ke Jeddah minggu depan.",
+      "status": "ok"
+    },
+    "2364_audio06": {
+      "file": "2364_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan kereta cepat Haramain sekarang, itu opsi tercepat dan ternyaman.",
+      "status": "ok"
+    },
+    "2364_audio12": {
+      "file": "2364_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Prosesnya kini jauh lebih simpel melalui visa elektronik atau platform resmi. Cukup unggah dokumen secara daring, bayar, dan visa langsung terbit.",
+      "status": "ok"
+    },
+    "2364_audio13": {
+      "file": "2364_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Akses situs pemesanan, pilih tujuan Jeddah dan tanggal. Pilih jadwal, lengkapi data diri, lalu bayar.",
+      "status": "ok"
+    },
+    "2364_audio14": {
+      "file": "2364_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor berlaku minimal enam bulan, visa, sertifikat vaksin, dan pas foto terbaru. Pastikan semua dokumen valid dan sesuai ketentuan.",
+      "status": "ok"
+    },
+    "2364_audio17": {
+      "file": "2364_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak susah, asal tahu pola dan konsisten berlatih.",
+      "status": "ok"
+    },
+    "2366_audio01": {
+      "file": "2366_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Bisa. Segera kirimkan kota asal dan tanggal keberangkatannya.",
+      "status": "ok"
+    },
+    "2366_audio02": {
+      "file": "2366_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket umrah hemat dengan agenda ziarah Madinah. Praktis dan terjamin.",
+      "status": "ok"
+    },
+    "2366_audio03": {
+      "file": "2366_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Bisa. Gunakan kereta cepat atau taksi pribadi untuk opsi tercepat dan ternyaman.",
+      "status": "ok"
+    },
+    "2366_audio04": {
+      "file": "2366_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Kunjungi portal visa resmi, lengkapi data dan dokumen, bayar biayanya, lalu tunggu terbit.",
+      "status": "ok"
+    },
+    "2366_audio05": {
+      "file": "2366_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa, beri tahu tanggal keberangkatan Anda untuk jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2366_audio06": {
+      "file": "2366_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk perjalanan tercepat dan termudah dari Jeddah ke Madinah.",
+      "status": "ok"
+    },
+    "2366_audio07": {
+      "file": "2366_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pilih periode luar musim haji dan puasa. Terbang ke Jeddah, lalu gunakan kereta cepat menuju Madinah.",
+      "status": "ok"
+    },
+    "2366_audio11": {
+      "file": "2366_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Karena perintah langsung Tuhan untuk melatih pengendalian diri dan mencapai ketakwaan.",
+      "status": "ok"
+    },
+    "2366_audio13": {
+      "file": "2366_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Buka aplikasi perjalanan, pilih tujuan Jeddah dan tanggal, pilih penerbangan, isi data diri, lalu bayar.",
+      "status": "ok"
+    },
+    "2366_audio15": {
+      "file": "2366_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, visa, kain ihram, pakaian sopan, obat pribadi, dan pengisi daya portabel. Pastikan dokumen lengkap dan fisik prima.",
+      "status": "ok"
+    },
+    "2367_audio1": {
+      "file": "2367_audio1.wav",
+      "utterance_id": "audio1",
+      "response_text": "Tentu. Kirimkan kota asal dan tanggal pastinya, saya carikan jadwal terbaik.",
+      "status": "ok"
+    },
+    "2367_audio10": {
+      "file": "2367_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Haji itu wajib, terikat waktu, dan ada proses berdiam diri. Umrah bersifat anjuran dan bebas waktu.",
+      "status": "ok"
+    },
+    "2367_audio13": {
+      "file": "2367_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Pilih situs maskapai, masukkan tujuan Jeddah, tentukan jadwal, isi data diri, dan selesaikan pembayaran.",
+      "status": "ok"
+    },
+    "2367_audio18": {
+      "file": "2367_audio18.wav",
+      "utterance_id": "audio18",
+      "response_text": "Buat daftar perlengkapan, pelajari panduan ibadah, dan fokus pada ketenangan hati.",
+      "status": "ok"
+    },
+    "2367_audio2": {
+      "file": "2367_audio2.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket hemat biro resmi, ziarah Madinah sudah pasti termasuk.",
+      "status": "ok"
+    },
+    "2367_audio3": {
+      "file": "2367_audio3.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain melalui aplikasi resmi. Itu pilihan tercepat dan paling efisien.",
+      "status": "ok"
+    },
+    "2367_audio4": {
+      "file": "2367_audio4.wav",
+      "utterance_id": "audio4",
+      "response_text": "Daftar di situs resmi, unggah paspor dan foto, bayar biaya, lalu unduh visa elektronik Anda.",
+      "status": "ok"
+    },
+    "2367_audio5": {
+      "file": "2367_audio5.wav",
+      "utterance_id": "audio5",
+      "response_text": "Tentu, saya bisa bantu carikan jadwal penerbangan langsung ke Jeddah minggu depan.",
+      "status": "ok"
+    },
+    "2367_audio6": {
+      "file": "2367_audio6.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan kereta cepat atau taksi pribadi sekarang.",
+      "status": "ok"
+    },
+    "2367_audio7": {
+      "file": "2367_audio7.wav",
+      "utterance_id": "audio7",
+      "response_text": "Pilih bulan Oktober hingga Maret untuk cuaca sejuk. Gunakan kereta cepat dari Jeddah ke Madinah agar lebih efisien.",
+      "status": "ok"
+    },
+    "2369_audio1": {
+      "file": "2369_audio1.wav",
+      "utterance_id": "audio1",
+      "response_text": "Sebutkan kota keberangkatanmu, saya beri rekomendasi jadwal dan maskapai terbaik.",
+      "status": "ok"
+    },
+    "2369_audio10": {
+      "file": "2369_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Pilih situs daring, tentukan tujuan ke Jeddah, pilih jadwal, isi data penumpang, lalu bayar.",
+      "status": "ok"
+    },
+    "2369_audio2": {
+      "file": "2369_audio2.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket umrah hemat reguler. Kunjungan ke Madinah sudah pasti termasuk di dalamnya.",
+      "status": "ok"
+    },
+    "2369_audio3": {
+      "file": "2369_audio3.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain, itu opsi tercepat dan terbaik. Segera pesan tiketnya.",
+      "status": "ok"
+    },
+    "2369_audio4": {
+      "file": "2369_audio4.wav",
+      "utterance_id": "audio4",
+      "response_text": "Kunjungi portal resmi, unggah dokumen persyaratan, bayar biaya, dan visa elektronik Anda akan terbit.",
+      "status": "ok"
+    },
+    "2369_audio5": {
+      "file": "2369_audio5.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan kota asal Anda, saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2369_audio6": {
+      "file": "2369_audio6.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan kereta cepat Haramain atau taksi privat untuk perjalanan Jeddah ke Madinah besok.",
+      "status": "ok"
+    },
+    "2369_audio7": {
+      "file": "2369_audio7.wav",
+      "utterance_id": "audio7",
+      "response_text": "Ambil penerbangan dini hari ke Jeddah, lalu segera lanjut naik kereta cepat ke Madinah untuk efisiensi maksimal.",
+      "status": "ok"
+    },
+    "2369_audio8": {
+      "file": "2369_audio8.wav",
+      "utterance_id": "audio8",
+      "response_text": "Pesan kereta cepat Haramain untuk besok pagi. Itu pilihan tercepat dan paling nyaman.",
+      "status": "ok"
+    },
+    "2369_audio9": {
+      "file": "2369_audio9.wav",
+      "utterance_id": "audio9",
+      "response_text": "Ajukan visa elektronik secara daring atau lewat agen travel resmi. Prosesnya cepat, hanya perlu paspor dan pelunasan biaya.",
+      "status": "ok"
+    },
+    "2371_audio01": {
+      "file": "2371_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Sebutkan kota keberangkatanmu, saya beri rekomendasi jadwal dan maskapai terbaik.",
+      "status": "ok"
+    },
+    "2371_audio02": {
+      "file": "2371_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket reguler, kunjungan ke kota Madinah sudah otomatis termasuk.",
+      "status": "ok"
+    },
+    "2371_audio03": {
+      "file": "2371_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk opsi tercepat dan ternyaman. Segera pesan tiket melalui aplikasi resmi.",
+      "status": "ok"
+    },
+    "2371_audio04": {
+      "file": "2371_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Kunjungi laman resmi, unggah dokumen lengkap, bayar biaya, dan unduh visa Anda.",
+      "status": "ok"
+    },
+    "2371_audio05": {
+      "file": "2371_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Tentu, saya bisa carikan jadwal penerbangan langsung terbaik ke Jeddah minggu depan. Beritahu kota keberangkatan Anda.",
+      "status": "ok"
+    },
+    "2371_audio06": {
+      "file": "2371_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan Kereta Cepat Haramain untuk opsi tercepat dan ternyaman.",
+      "status": "ok"
+    },
+    "2371_audio07": {
+      "file": "2371_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "November hingga Februari adalah waktu terbaik karena cuaca sejuk. Gunakan kereta cepat untuk perjalanan dari Jeddah ke Madinah.",
+      "status": "ok"
+    },
+    "2371_audio12": {
+      "file": "2371_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Kini sangat praktis, cukup ajukan visa elektronik melalui platform resmi pemerintah Saudi atau agen perjalanan berizin.",
+      "status": "ok"
+    },
+    "2371_audio13": {
+      "file": "2371_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Pilih aplikasi perjalanan, tentukan rute ke Jeddah, lengkapi data diri, dan bayar.",
+      "status": "ok"
+    },
+    "2371_audio17": {
+      "file": "2371_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, asal menggunakan metode yang tepat dan disiplin berlatih.",
+      "status": "ok"
+    },
+    "2372_audio01": {
+      "file": "2372_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Sebutkan tanggal pastinya, saya siapkan jadwal penerbanganmu ke Jeddah sekarang.",
+      "status": "ok"
+    },
+    "2372_audio02": {
+      "file": "2372_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Ambil paket umrah reguler, sudah otomatis termasuk kunjungan ke Madinah. Cukup pilih agen resmi.",
+      "status": "ok"
+    },
+    "2372_audio03": {
+      "file": "2372_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Pesan tiket Kereta Cepat Haramain untuk opsi perjalanan tercepat, ternyaman, dan paling efisien.",
+      "status": "ok"
+    },
+    "2372_audio04": {
+      "file": "2372_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi, unggah paspor dan foto, bayar biaya, lalu terima visa melalui surel.",
+      "status": "ok"
+    },
+    "2372_audio05": {
+      "file": "2372_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Segera cek aplikasi pencarian tiket untuk jadwal penerbangan langsung terbaik ke Jeddah minggu depan.",
+      "status": "ok"
+    },
+    "2372_audio06": {
+      "file": "2372_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Pesan Kereta Cepat Haramain atau taksi daring. Itu pilihan paling cepat dan efisien.",
+      "status": "ok"
+    },
+    "2372_audio10": {
+      "file": "2372_audio10.wav",
+      "utterance_id": "audio10",
+      "response_text": "Haji wajib, terikat waktu, dan ritualnya lebih lengkap. Umrah sunnah dan bisa dilakukan kapan saja.",
+      "status": "ok"
+    },
+    "2372_audio11": {
+      "file": "2372_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Kewajiban ini adalah perintah langsung dari Tuhan untuk meningkatkan ketakwaan dan disiplin diri.",
+      "status": "ok"
+    },
+    "2372_audio14": {
+      "file": "2372_audio14.wav",
+      "utterance_id": "audio14",
+      "response_text": "Siapkan paspor aktif enam bulan, visa, sertifikat vaksin, pas foto, dan KTP. Pastikan semua dokumen valid dan lengkap.",
+      "status": "ok"
+    },
+    "2372_audio15": {
+      "file": "2372_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, visa, kain putih tanpa jahitan, pakaian sopan, obat pribadi, dan perlengkapan ibadah. Ringkas dan tuntas.",
+      "status": "ok"
+    },
+    "2374_audio01": {
+      "file": "2374_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Berikan tanggal pastinya, saya carikan jadwal penerbangan terbaik ke Jeddah sekarang.",
+      "status": "ok"
+    },
+    "2374_audio02": {
+      "file": "2374_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket Umrah Reguler, ziarah Madinah sudah pasti termasuk.",
+      "status": "ok"
+    },
+    "2374_audio03": {
+      "file": "2374_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Pakai Kereta Cepat Haramain untuk rute Jeddah, Madinah, dan Makkah. Paling praktis dan cepat.",
+      "status": "ok"
+    },
+    "2374_audio04": {
+      "file": "2374_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi, unggah paspor dan foto sesuai ketentuan, lalu selesaikan pembayaran. Cepat dan pasti.",
+      "status": "ok"
+    },
+    "2374_audio05": {
+      "file": "2374_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa, beri tahu tanggal pastinya agar saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2374_audio06": {
+      "file": "2374_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain, itu pilihan terbaik dan tercepat dari Jeddah ke Madinah besok.",
+      "status": "ok"
+    },
+    "2374_audio11": {
+      "file": "2374_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Perintah Tuhan untuk meningkatkan ketakwaan dan mensucikan jiwa.",
+      "status": "ok"
+    },
+    "2374_audio13": {
+      "file": "2374_audio13.wav",
+      "utterance_id": "audio13",
+      "response_text": "Buka aplikasi pemesanan, pilih rute dan tanggal, tentukan penerbangan, isi data diri, lalu selesaikan pembayaran.",
+      "status": "ok"
+    },
+    "2374_audio15": {
+      "file": "2374_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, visa, pakaian ihram, obat pribadi, alat mandi tanpa wewangian, dan uang tunai. Pastikan semua lengkap.",
+      "status": "ok"
+    },
+    "2374_audio17": {
+      "file": "2374_audio17.wav",
+      "utterance_id": "audio17",
+      "response_text": "Tidak sulit, asal konsisten dan menggunakan metode yang tepat.",
+      "status": "ok"
+    },
+    "2375_audio01": {
+      "file": "2375_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Bisa. Berikan kota asal dan tanggal keberangkatan Anda sekarang.",
+      "status": "ok"
+    },
+    "2375_audio02": {
+      "file": "2375_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih paket Umrah reguler. Praktis dan sudah termasuk ziarah Madinah.",
+      "status": "ok"
+    },
+    "2375_audio03": {
+      "file": "2375_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk opsi tercepat dan ternyaman. Segera pesan tiket melalui aplikasi resminya.",
+      "status": "ok"
+    },
+    "2375_audio04": {
+      "file": "2375_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi, unggah dokumen lengkap, bayar biaya, dan tunggu persetujuan.",
+      "status": "ok"
+    },
+    "2375_audio05": {
+      "file": "2375_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggal pastinya, saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2375_audio06": {
+      "file": "2375_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan kereta cepat Haramain atau taksi daring untuk perjalanan Jeddah ke Madinah besok.",
+      "status": "ok"
+    },
+    "2375_audio08": {
+      "file": "2375_audio08.wav",
+      "utterance_id": "audio8",
+      "response_text": "Gunakan bus SAPTCO atau taksi daring. Keberangkatan tersedia setiap jam mulai dini hari.",
+      "status": "ok"
+    },
+    "2375_audio11": {
+      "file": "2375_audio11.wav",
+      "utterance_id": "audio11",
+      "response_text": "Itu perintah Tuhan untuk meningkatkan ketakwaan dan membersihkan jiwa.",
+      "status": "ok"
+    },
+    "2375_audio15": {
+      "file": "2375_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Paspor, visa, pakaian ibadah, obat pribadi, dan uang tunai. Pastikan semua lengkap.",
+      "status": "ok"
+    },
+    "2375_audio18": {
+      "file": "2375_audio18.wav",
+      "utterance_id": "audio18",
+      "response_text": "Buat daftar prioritas barang bawaan dan pelajari tata cara ibadahnya secara bertahap.",
+      "status": "ok"
+    },
+    "2379_audio01": {
+      "file": "2379_audio01.wav",
+      "utterance_id": "audio1",
+      "response_text": "Berikan detail tanggal dan jam, saya buatkan jadwal penerbangan paling efisien.",
+      "status": "ok"
+    },
+    "2379_audio02": {
+      "file": "2379_audio02.wav",
+      "utterance_id": "audio2",
+      "response_text": "Pilih agen berizin dengan paket hemat yang menjamin ziarah lengkap ke situs bersejarah di Madinah.",
+      "status": "ok"
+    },
+    "2379_audio03": {
+      "file": "2379_audio03.wav",
+      "utterance_id": "audio3",
+      "response_text": "Gunakan Kereta Cepat Haramain untuk opsi tercepat, atau sewa taksi pribadi.",
+      "status": "ok"
+    },
+    "2379_audio05": {
+      "file": "2379_audio05.wav",
+      "utterance_id": "audio5",
+      "response_text": "Bisa. Berikan tanggal keberangkatan, saya carikan jadwal penerbangan langsung terbaik ke Jeddah.",
+      "status": "ok"
+    },
+    "2379_audio06": {
+      "file": "2379_audio06.wav",
+      "utterance_id": "audio6",
+      "response_text": "Gunakan Kereta Cepat Haramain atau taksi pribadi untuk perjalanan tercepat.",
+      "status": "ok"
+    },
+    "2379_audio07": {
+      "file": "2379_audio07.wav",
+      "utterance_id": "audio7",
+      "response_text": "Tiba di Jeddah pagi hari, lalu lanjut gunakan kereta cepat ke Madinah agar paling efisien.",
+      "status": "ok"
+    },
+    "2379_audio12": {
+      "file": "2379_audio12.wav",
+      "utterance_id": "audio12",
+      "response_text": "Gunakan visa elektronik melalui platform resmi Saudi atau visa turis untuk proses cepat dan praktis.",
+      "status": "ok"
+    },
+    "2379_audio18": {
+      "file": "2379_audio18.wav",
+      "utterance_id": "audio18",
+      "response_text": "Buat daftar kebutuhan terperinci dan fokuskan niat pada ibadah. Selesaikan satu per satu agar tetap tenang.",
+      "status": "ok"
+    },
+    "2479_audio04": {
+      "file": "2479_audio04.wav",
+      "utterance_id": "audio4",
+      "response_text": "Akses portal resmi visa Saudi, unggah dokumen, bayar biaya, dan visa elektronik akan terbit otomatis.",
+      "status": "ok"
+    },
+    "2479_audio15": {
+      "file": "2479_audio15.wav",
+      "utterance_id": "audio15",
+      "response_text": "Dokumen perjalanan, pakaian ihram, obat-obatan pribadi, dan uang tunai. Pastikan semua lengkap dan siap.",
+      "status": "ok"
+    }
+  }
+}
