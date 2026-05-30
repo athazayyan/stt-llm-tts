@@ -27,7 +27,7 @@ def voice_chat(audio, mode):
         files    = {"audio": ("voice.wav", f, "audio/wav")}
         params   = {"mode": mode}
         try:
-            response = requests.post(BACKEND_URL, files=files, params=params, timeout=60)
+            response = requests.post(BACKEND_URL, files=files, params=params, timeout=180)
         except requests.exceptions.ConnectionError:
             return None, "❌ Backend tidak bisa dihubungi. Pastikan FastAPI sudah jalan.", "", ""
 

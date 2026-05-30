@@ -19,28 +19,57 @@ async def voice_chat(
 ):
     start_time = time.time()
 
-    # Step 1: STT
+    # ------------------------------------------------------------------------
+    # STEP 1: Speech-to-Text (STT) - Whisper.cpp
+    # ------------------------------------------------------------------------
+    print("\n" + "="*50)
+    print("START PIPELINE - Memproses Permintaan Suara Baru")
+    print(f"   [Mode Respons] -> {mode}")
+    print("="*50)
+    print("--- [STEP 1: RUNNING STT (WHISPER)] ---")
+    
     audio_bytes = await audio.read()
     transcript = transcribe_speech_to_text(audio_bytes)
-    if transcript.startswith("[ERROR]"):
-        return JSONResponse(status_code=500, content={"error": transcript})
-
-    # Step 2: LLM
-    llm_input = transcript
-    if mode == "normalize":
-        llm_input = f"[Normalize ke Bahasa Indonesia baku]: {transcript}"
     
-    response_text = generate_response(llm_input)
+    if transcript.startswith("[ERROR]"):
+        print(f"[STT FAILED]: {transcript}")
+        return JSONResponse(status_code=500, content={"error": transcript})
+    
+    print(f"[STT RESULT] -> User berkata: \"{transcript}\"")
+
+    # ------------------------------------------------------------------------
+    # STEP 2: Large Language Model (LLM) - Gemini (Gemma-4-31b-it)
+    # ------------------------------------------------------------------------
+    print("\n--- [STEP 2: RUNNING LLM (GEMINI)] ---")
+    
+    response_text = generate_response(transcript, mode=mode)
+    
     if response_text.startswith("[ERROR]"):
+        print(f"[LLM FAILED]: {response_text}")
         return JSONResponse(status_code=500, content={"error": response_text})
+    
+    print(f"[LLM RESULT] -> Jawaban Asisten: \"{response_text}\"")
 
-    # Step 3: TTS
+    # ------------------------------------------------------------------------
+    # STEP 3: Text-to-Speech (TTS) - Coqui TTS (Wibowo)
+    # ------------------------------------------------------------------------
+    print("\n--- [STEP 3: RUNNING TTS (COQUI)] ---")
+    
     output_audio_path = transcribe_text_to_speech(response_text)
+    
     if output_audio_path.startswith("[ERROR]"):
+        print(f"[TTS FAILED]: {output_audio_path}")
         return JSONResponse(status_code=500, content={"error": output_audio_path})
+    
+    print(f"[TTS RESULT] -> File audio sukses dibuat di: {output_audio_path}")
 
+    # ------------------------------------------------------------------------
+    # Selesai & Hitung Latency
+    # ------------------------------------------------------------------------
     latency = round(time.time() - start_time, 2)
-    print(f"[PIPELINE] transcript={transcript!r} | response={response_text!r} | latency={latency}s")
+    print("\n" + "="*50)
+    print(f"PIPELINE SUCCESS - Total Waktu Eksekusi: {latency} detik")
+    print("="*50 + "\n")
 
     return FileResponse(
         output_audio_path,
